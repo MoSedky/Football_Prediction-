@@ -17,6 +17,12 @@ import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import StandardScaler
 from sklearn import metrics
+import seaborn as sns
+from sklearn import preprocessing
+from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.pipeline import make_pipeline
+from sklearn.model_selection import GridSearchCV
+
 
 loc = "E:\Hackathon\SPL_Data\\"
 
@@ -129,18 +135,17 @@ def data_processing():
     feature_table['ADS'] = f_ADS
     feature_table.to_csv(loc + "Feature_table.csv")
 
-
-
     print(feature_table)
 
     train_Set_I = feature_table[['HAS', 'HDS', 'AAS', 'ADS', 'Result']]
     train_Set_II = feature_table[['HAS', 'HDS', 'AAS', 'ADS', 'home_team_shots_on_target', 'away_team_shots_on_target',
-                                 'home_team_corner_count', 'away_team_corner_count']]
+                                 'home_team_corner_count', 'away_team_corner_count', 'Result']]
     train_Set_III= feature_table[['HAS', 'HDS', 'AAS', 'ADS', 'home_team_shots_on_target', 'away_team_shots_on_target',
-                                 'home_team_corner_count', 'away_team_corner_count', 'home_ppg', 'away_ppg']]
+                                 'home_team_corner_count', 'away_team_corner_count', 'home_ppg', 'away_ppg', 'Result']]
 
-    y_train = feature_table['Result']
-    #print("Ytrain", len(y_train))
+    y = feature_table[['Result']]
+    print('********************')
+    print(y)
 
     print(train_Set_I.tail())
     print("Training Set 2 :", train_Set_II.tail())
@@ -207,23 +212,79 @@ def data_processing():
     # # Calculate and display accuracy
     # accuracy = 100 - np.mean(mape)
     # print('Accuracy:', round(accuracy, 2), '%.')
+    print("Length of Training Set is: ", len(train_Set_I))
+    sns.pairplot(train_Set_I, kind="reg")
 
-    x_train, x_test, yaxis_train, y_test = train_test_split(train_Set_I, y_train.astype('float64'), test_size=0.2, random_state=0)
+    train_Set_II = train_Set_II.drop('Result', axis=1)
+    print('****************train after drop***********')
+    print(train_Set_I)
 
-    sc = StandardScaler()
-    x_train = sc.fit_transform(x_train)
-    print("XTest=", x_test)
-    x_test = sc.transform(x_test)
+    X_train, X_test, y_train, y_test = train_test_split(train_Set_III, y, test_size=0.001, random_state=0)
+                                                        #random_state=20)
+    print('below is y-train')
+    print(y_train.astype(float))
 
-    regressor = RandomForestRegressor(n_estimators=20, random_state=0)
-    regressor.fit(x_train, yaxis_train)
-    y_pred = regressor.predict(x_test)
+    print('below is y-test')
+    print(y_test.astype(float))
 
-    print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))
-    print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))
-    print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
-    crossResult = cross_val_score(regressor, x_train, yaxis_train)
+    scaler_X = preprocessing.StandardScaler().fit(X_train.astype(float))
+    scaler_y = preprocessing.StandardScaler().fit(y_train.astype(float))
+    X_train_scaled = scaler_X.transform(X_train.astype(float))
+    y_train_scaled = scaler_y.transform(y_train.astype(float))
+
+    clf = RandomForestRegressor()
+    clf.fit(X_train_scaled, y_train_scaled.ravel())
+    X_test_scaled = scaler_X.transform(X_test.astype(float))
+    y_test_scaled = scaler_y.transform(y_test.astype(float))
+    pred = clf.predict(X_test_scaled)
+    r2_score(y_test_scaled, pred)
+    print('First Score is: ', r2_score(y_test, pred))
+
+    print('Mean Absolute Error:', metrics.mean_absolute_error(y_test_scaled, pred))
+    print('Mean Squared Error:', metrics.mean_squared_error(y_test_scaled, pred))
+    print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test_scaled, pred)))
+    crossResult = cross_val_score(clf, X_train, y_train_scaled.ravel(), cv=5)
     print(crossResult.mean(), crossResult)
+
+    # hyperparameters = {'randomforestregressor__max_features': ['auto', 'sqrt', 'log2'],
+    #                    'randomforestregressor__max_depth': [None, 5, 3, 1]}
+    #
+    # pipeline = make_pipeline(preprocessing.StandardScaler(),
+    #                          RandomForestRegressor(n_estimators=100))
+    #
+    # clf = GridSearchCV(pipeline, hyperparameters, cv=10)
+    # clf.fit(X_train, y_train.ravel())
+    # clf.best_params_
+    # y_pred = clf.predict(X_test)
+    # r2_score(y_test, y_pred)
+    # print('Second Score is: ', r2_score(y_test, y_pred))
+
+
+
+
+#    x_train, x_test, yaxis_train, y_test = train_test_split(train_Set_I, y_train.astype('float64'), test_size=0.001, random_state=0)
+
+#    print("Length of test Set is: ", len(x_test))
+#    print(x_test)
+
+
+#     sns.heatmap(train_Set_I)
+#
+#     sc = StandardScaler()
+#     x_train = sc.fit_transform(x_train, yaxis_train)
+#     print("XTest=", x_test)
+#     x_test = sc.transform(x_test)
+#     y_test = sc.transform(y_test)
+#
+#     regressor = RandomForestRegressor(n_estimators=20, random_state=0)
+#     regressor.fit(x_train, yaxis_train)
+#     y_pred = regressor.predict(x_test)
+#
+#     print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))
+#     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))
+#     print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
+#     crossResult = cross_val_score(regressor, x_train, yaxis_train)
+#     print(crossResult.mean(), crossResult)
 
 
 data_processing()
