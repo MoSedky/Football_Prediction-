@@ -1,0 +1,390 @@
+full_name,age,league,season,position,Current Club,minutes_played_overall,minutes_played_home,minutes_played_away,nationality,appearances_overall,appearances_home,appearances_away,goals_overall,goals_home,goals_away,assists_overall,assists_home,assists_away,penalty_goals,penalty_misses,clean_sheets_overall,clean_sheets_home,clean_sheets_away,conceded_overall,conceded_home,conceded_away,yellow_cards_overall,red_cards_overall,goals_involved_per_90_overall,assists_per_90_overall,goals_per_90_overall,goals_per_90_home,goals_per_90_away,min_per_goal_overall,conceded_per_90_overall,min_per_conceded_overall,min_per_match,min_per_card_overall,min_per_assist_overall,cards_per_90_overall,rank_in_league_top_attackers,rank_in_league_top_midfielders,rank_in_league_top_defenders,rank_in_club_top_scorer
+Khalid Mohammed Sharahili,31,Professional League,2015/2016,Goalkeeper,Al Hilal,1800,810,990,Saudi Arabia,20,9,11,0,0,0,0,0,0,0,0,10,5,5,15,7,8,1,0,0,0,0,0,0,0,0.75,120,90,1800,0,0.05,212,154,13,20
+Rodrigo Júnior Paula Silva,30,Professional League,2015/2016,Defender,Al Hilal,1234,720,514,Brazil,14,8,6,0,0,0,1,0,1,0,0,9,7,2,6,2,4,3,0,0.07,0.07,0,0,0,0,0.44,206,88,411,1234,0.22,309,115,2,25
+Tae-Hwi Kwak,37,Professional League,2015/2016,Defender,Al Hilal,1697,797,900,South Korea,19,9,10,0,0,0,1,1,0,0,0,8,4,4,19,8,11,0,0,0.05,0.05,0,0,0,0,1.01,89,89,0,1697,0,240,133,31,26
+Mohammed Yahya Jahfali,28,Professional League,2015/2016,Defender,Al Hilal,1721,766,955,Saudi Arabia,20,9,11,1,0,1,0,0,0,0,0,7,4,3,19,6,13,5,0,0.05,0,0.05,0,0.09,1721,0.99,91,86,344,0,0.26,146,235,27,14
+Yasir Gharsan Al Shahrani,26,Professional League,2015/2016,Defender,Al Hilal,1778,810,968,Saudi Arabia,20,9,11,1,0,1,0,0,0,0,0,8,4,4,20,8,12,3,0,0.05,0,0.05,0,0.09,1778,1.01,89,89,593,0,0.15,145,236,30,13
+Mohammed Al Burayk,26,Professional League,2015/2016,Defender,Al Hilal,1115,564,551,Saudi Arabia,14,7,6,2,2,0,5,3,2,0,0,7,4,3,11,4,7,1,0,0.57,0.4,0.16,0.32,0,558,0.89,101,80,1115,223,0.08,86,13,23,9
+Mohammad Bander Al Shalhoub,37,Professional League,2015/2016,Midfielder,Al Hilal,998,457,541,Saudi Arabia,17,5,6,1,0,1,3,1,2,0,0,6,3,3,12,5,7,0,0,0.36,0.27,0.09,0,0.17,998,1.08,83,59,0,333,0,120,32,-1,11
+Nawaf Shaker Al Abid,28,Professional League,2015/2016,Midfielder,Al Hilal,781,323,458,Saudi Arabia,11,3,4,1,1,0,6,4,2,0,0,5,3,2,8,3,5,1,0,0.81,0.69,0.12,0.28,0,781,0.92,98,71,781,130,0.12,101,2,-1,10
+Salman Mohammed Al Faraj,29,Professional League,2015/2016,Midfielder,Al Hilal,1675,775,900,Saudi Arabia,19,9,10,2,0,2,1,1,0,0,0,8,4,4,17,7,10,3,0,0.16,0.05,0.11,0,0.2,838,0.91,99,88,558,1675,0.16,107,134,-1,7
+Aílton José Almeida,34,Professional League,2015/2016,Forward,Al Hilal,1698,839,859,Brazil,22,9,11,6,3,3,3,0,3,1,2,10,5,5,15,7,8,1,0,0.48,0.16,0.32,0.32,0.31,283,0.8,113,77,1698,566,0.05,41,66,-1,2
+Khalid Hussain Al Kabi,26,Professional League,2015/2016,Forward,Al Hilal,770,410,360,Saudi Arabia,13,5,5,1,1,0,1,1,0,0,0,6,4,2,7,1,6,2,0,0.23,0.12,0.12,0.22,0,770,0.82,110,59,385,770,0.23,102,81,-1,12
+Carlos Eduardo de Oliveira Alves,29,Professional League,2015/2016,Midfielder,Al Hilal,1506,566,940,Brazil,18,6,11,14,6,8,3,0,3,0,0,6,3,3,18,7,11,2,0,1.02,0.18,0.84,0.95,0.77,108,1.08,84,84,753,502,0.12,5,55,-1,1
+Abdullah Mohammed Al Zoari Al Dossary,31,Professional League,2015/2016,Defender,Al Hilal,1467,677,790,Saudi Arabia,21,7,9,5,3,2,2,0,2,0,0,10,6,4,12,5,7,0,0,0.43,0.12,0.31,0.4,0.23,293,0.74,122,70,0,734,0,46,78,12,4
+Yousef Mansour Al Salem,33,Professional League,2015/2016,Forward,Al Hilal,429,238,191,Saudi Arabia,12,3,1,2,0,2,2,0,2,0,0,5,4,1,4,1,3,0,0,0.84,0.42,0.42,0,0.94,215,0.84,107,36,0,215,0,25,10,-1,8
+Ahmed Mohammed Sharahili,24,Professional League,2015/2016,Defender,Al Hilal,407,270,137,Saudi Arabia,7,3,2,0,0,0,0,0,0,0,0,3,2,1,3,0,3,0,0,0,0,0,0,0,0,0.66,136,58,0,0,0,241,237,8,24
+Faisal Darwish Faraj,27,Professional League,2015/2016,Midfielder,Al Hilal,478,369,109,Saudi Arabia,9,4,1,1,0,1,1,1,0,0,0,5,3,2,2,1,1,1,0,0.38,0.19,0.19,0,0.83,478,0.38,239,53,478,478,0.19,73,53,-1,15
+Fahad Mohammed Al Thunayyan,32,Professional League,2015/2016,Goalkeeper,Al Hilal,360,270,90,Saudi Arabia,4,3,1,0,0,0,0,0,0,0,0,2,2,0,1,0,1,0,0,0,0,0,0,0,0,0.25,360,90,0,0,0,242,238,1,23
+Abdulaziz Saeed Al Dawsari,30,Professional League,2015/2016,Midfielder,Al Hilal,952,671,281,Saudi Arabia,18,8,2,1,0,1,3,3,0,0,0,9,6,3,8,3,5,1,0,0.38,0.28,0.09,0,0.32,952,0.76,119,53,952,317,0.09,121,28,-1,16
+Ahmed Al Fahmi,27,Professional League,2015/2016,Goalkeeper,Al Wahda,963,450,513,Saudi Arabia,11,5,6,0,0,0,0,0,0,0,0,1,1,0,15,5,10,1,0,0,0,0,0,0,0,1.4,64,88,963,0,0.09,243,239,85,15
+Tariq Abdulaziz,27,Professional League,2015/2016,Defender,Al Wahda,504,217,287,Saudi Arabia,7,2,3,0,0,0,0,0,0,0,0,0,0,0,7,2,5,2,0,0,0,0,0,0,0,1.25,72,72,252,0,0.36,244,240,69,29
+Mansour Sharahili,27,Professional League,2015/2016,Defender,Al Wahda,397,144,253,Saudi Arabia,6,1,3,0,0,0,1,0,1,0,0,0,0,0,5,1,4,0,0,0.23,0.23,0,0,0,0,1.13,79,66,0,397,0,245,42,51,38
+Sultan Al Numare,32,Professional League,2015/2016,Midfielder,Al Wahda,511,274,237,Saudi Arabia,14,3,3,0,0,0,0,0,0,0,0,2,2,0,8,4,4,1,0,0,0,0,0,0,0,1.41,64,37,511,0,0.18,246,241,-1,37
+Abdulaziz Al Mansour,28,Professional League,2015/2016,Midfielder,Al Wahda,818,293,525,Saudi Arabia,10,3,6,0,0,0,0,0,0,0,0,0,0,0,15,4,11,2,0,0,0,0,0,0,0,1.65,55,82,409,0,0.22,247,242,-1,36
+Mohammed Al Dahi,30,Professional League,2015/2016,Midfielder,Al Wahda,55,0,55,Saudi Arabia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,3.27,28,55,0,0,0,-1,-1,-1,35
+Abdulelah Al Malki,24,Professional League,2015/2016,Midfielder,Al Wahda,1407,839,568,Saudi Arabia,19,9,6,0,0,0,1,1,0,0,0,3,2,1,18,11,7,4,0,0.06,0.06,0,0,0,0,1.15,78,74,352,1407,0.26,248,124,-1,34
+Ali Awaji,29,Professional League,2015/2016,Midfielder,Al Wahda,2067,1068,999,Saudi Arabia,25,12,11,11,7,4,2,1,1,1,0,4,3,1,27,13,14,3,0,0.57,0.09,0.48,0.59,0.36,188,1.18,77,83,689,1034,0.13,20,102,-1,1
+Abdulkhaleq Barnawi,34,Professional League,2015/2016,Forward,Al Wahda,338,85,253,Saudi Arabia,7,1,3,0,0,0,0,0,0,0,0,0,0,0,7,1,6,2,0,0,0,0,0,0,0,1.86,48,48,169,0,0.53,239,243,-1,33
+Mohanad Al Farsi,27,Professional League,2015/2016,Forward,Al Wahda,822,419,403,Saudi Arabia,15,5,4,4,1,3,3,2,1,0,0,1,1,0,10,5,5,0,0,0.77,0.33,0.44,0.21,0.67,206,1.09,82,55,0,274,0,23,17,-1,2
+Mousa Madkhali,30,Professional League,2015/2016,Forward,Al Wahda,193,13,180,Saudi Arabia,3,0,2,1,0,1,0,0,0,0,0,0,0,0,4,1,3,0,0,0.47,0,0.47,0,0.5,193,1.87,48,64,0,0,0,-1,-1,-1,9
+Jehad Al Baour,31,Professional League,2015/2016,Defender,Al Wahda,2105,1080,1025,Syria,25,12,11,2,0,2,0,0,0,0,0,4,3,1,25,14,11,3,0,0.09,0,0.09,0,0.18,1053,1.07,84,84,702,0,0.13,122,244,41,4
+Adolfo Justino Lima Camejo,28,Professional League,2015/2016,Midfielder,Al Wahda,1617,889,728,Uruguay,21,10,8,1,1,0,4,2,2,0,0,4,3,1,19,9,10,1,0,0.28,0.22,0.06,0.1,0,1617,1.06,85,77,1617,404,0.06,140,45,-1,11
+Sager Otayf,28,Professional League,2015/2016,Forward,Al Wahda,845,501,344,Saudi Arabia,18,5,3,2,1,1,0,0,0,0,1,3,3,0,11,5,6,3,0,0.21,0,0.21,0.18,0.26,423,1.17,77,47,282,0,0.32,65,234,-1,6
+Sami Fatha,29,Professional League,2015/2016,Goalkeeper,Al Wahda,117,0,117,Saudi Arabia,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1.54,59,59,0,0,0,-1,-1,-1,32
+Maher Ismael Othman,27,Professional League,2015/2016,Midfielder,Al Wahda,890,450,440,Saudi Arabia,10,5,5,0,0,0,1,1,0,0,0,1,1,0,15,6,9,4,0,0.1,0.1,0,0,0,0,1.52,59,89,223,890,0.4,249,97,-1,31
+Majed Al Hazzani,35,Professional League,2015/2016,Midfielder,Al Wahda,325,132,193,Saudi Arabia,7,1,2,0,0,0,2,0,2,0,0,1,1,0,4,1,3,1,0,0.55,0.55,0,0,0,0,1.11,81,46,325,163,0.28,251,4,-1,30
+Moslem Freej,30,Professional League,2015/2016,Goalkeeper,Al Khaleej,1936,1036,900,Saudi Arabia,22,12,10,0,0,0,0,0,0,0,0,5,2,3,30,15,15,5,0,0,0,0,0,0,0,1.39,65,88,387,0,0.23,252,245,83,15
+Ibrahim Mohammad Farhan Al Zawahreh,29,Professional League,2015/2016,Defender,Al Khaleej,1582,813,769,Jordan,21,9,9,1,1,0,0,0,0,0,1,6,2,4,29,13,16,8,1,0.06,0,0.06,0.11,0,1582,1.65,55,75,176,0,0.51,142,247,103,12
+Salman Hazazi,26,Professional League,2015/2016,Defender,Al Khaleej,1944,865,1079,Saudi Arabia,23,10,12,0,0,0,1,0,1,0,0,5,2,3,30,10,20,9,0,0.05,0.05,0,0,0,0,1.39,65,85,216,1944,0.42,253,137,84,23
+Hossam Al Jadani,29,Professional League,2015/2016,Defender,Al Khaleej,1209,669,540,Saudi Arabia,15,7,6,1,1,0,0,0,0,0,0,2,1,1,23,11,12,3,0,0.07,0,0.07,0.13,0,1209,1.71,53,81,403,0,0.22,133,248,106,8
+Ali Alawjami,22,Professional League,2015/2016,Defender,Al Khaleej,1294,687,607,Saudi Arabia,17,7,7,2,1,1,0,0,0,0,0,4,1,3,27,14,13,4,0,0.14,0,0.14,0.13,0.15,647,1.88,48,76,324,0,0.28,97,249,114,4
+Aboubacar Sylla,27,Professional League,2015/2016,Midfielder,Al Khaleej,2160,1170,990,Guinea,24,13,11,0,0,0,2,0,2,0,0,6,2,4,28,19,9,4,0,0.08,0.08,0,0,0,0,1.17,77,90,540,1080,0.17,254,113,-1,22
+Hattan Babhir,26,Professional League,2015/2016,Midfielder,Al Khaleej,1752,911,841,Saudi Arabia,24,11,10,5,2,3,1,0,1,0,0,6,2,4,29,14,15,5,0,0.31,0.05,0.26,0.2,0.32,350,1.49,60,73,350,1752,0.26,56,130,-1,1
+Abdullah Al Salem,25,Professional League,2015/2016,Midfielder,Al Khaleej,1501,807,694,Saudi Arabia,22,11,8,2,1,1,3,2,1,0,0,6,2,4,29,14,15,1,0,0.3,0.18,0.12,0.11,0.13,751,1.74,52,68,1501,500,0.06,105,57,-1,5
+Talal Majrashi,28,Professional League,2015/2016,Midfielder,Al Khaleej,1772,790,982,Saudi Arabia,25,9,11,1,0,1,0,0,0,0,0,5,1,4,31,14,17,3,0,0.05,0,0.05,0,0.09,1772,1.57,57,71,591,0,0.15,144,250,-1,6
+Marwan Hussein Hassan Al Ajeeli,26,Professional League,2015/2016,Forward,Al Khaleej,278,199,79,Iraq,4,2,1,1,0,1,1,1,0,0,0,0,0,0,7,6,1,0,0,0.65,0.32,0.32,0,1.14,278,2.27,40,70,0,278,0,43,20,-1,9
+Abbas Shengeeti,30,Professional League,2015/2016,Forward,Al Khaleej,1462,720,742,Saudi Arabia,17,8,8,1,1,0,0,0,0,0,0,3,1,2,24,13,11,3,0,0.06,0,0.06,0.13,0,1462,1.48,61,86,487,0,0.18,138,251,-1,10
+Samer Salem,26,Professional League,2015/2016,Forward,Al Khaleej,276,154,122,Saudi Arabia,12,1,1,1,0,1,1,1,0,0,0,3,1,2,2,2,0,2,0,0.65,0.33,0.33,0,0.74,276,0.65,138,23,138,276,0.65,39,18,-1,11
+Mohammed Al Tawel,27,Professional League,2015/2016,Goalkeeper,Al Khaleej,404,134,270,Saudi Arabia,5,1,3,0,0,0,0,0,0,0,0,1,0,1,9,4,5,0,0,0,0,0,0,0,0,2,45,81,0,0,0,255,252,118,18
+Husain Turki,36,Professional League,2015/2016,Forward,Al Khaleej,869,415,454,Saudi Arabia,18,3,4,1,0,1,2,1,1,1,1,5,1,4,14,6,8,0,0,0.31,0.21,0.1,0,0.2,869,1.45,62,48,0,435,0,118,49,-1,13
+Mohammed Al Rashed,38,Professional League,2015/2016,Forward,Al Khaleej,232,163,69,Saudi Arabia,5,1,1,0,0,0,0,0,0,0,0,2,1,1,4,4,0,0,0,0,0,0,0,0,0,1.55,58,46,0,0,0,-1,-1,-1,21
+Alaa Ahmed Al Rishani,31,Professional League,2015/2016,Midfielder,Al Khaleej,1622,632,990,Saudi Arabia,20,8,11,0,0,0,0,0,0,0,1,5,2,3,26,7,19,6,0,0,0,0,0,0,0,1.44,62,81,270,0,0.33,256,253,-1,20
+Issa Al Abbas,36,Professional League,2015/2016,Defender,Al Khaleej,90,90,0,Saudi Arabia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,3,30,90,0,0,0,-1,-1,-1,19
+Abdullah Hussain Al Oaisher,27,Professional League,2015/2016,Goalkeeper,Al Fateh,1664,720,944,Saudi Arabia,19,8,10,0,0,0,0,0,0,0,0,6,3,3,16,6,10,3,0,0,0,0,0,0,0,0.87,104,88,555,0,0.16,257,254,22,15
+Abdullah Mubarak Al Dawsari,28,Professional League,2015/2016,Defender,Al Fateh,1164,442,722,Saudi Arabia,17,5,9,0,0,0,0,0,0,0,0,4,2,2,13,4,9,3,0,0,0,0,0,0,0,1.01,90,68,388,0,0.23,258,255,32,18
+Salam Shakir Ali Dad,32,Professional League,2015/2016,Defender,Al Fateh,1892,902,990,Iraq,23,10,11,1,1,0,1,0,1,0,0,7,4,3,19,7,12,3,0,0.1,0.05,0.05,0.1,0,1892,0.9,100,82,631,1892,0.14,143,135,24,7
+Majed Hazazi,30,Professional League,2015/2016,Defender,Al Fateh,976,420,556,Saudi Arabia,16,5,6,0,0,0,0,0,0,0,0,4,2,2,10,5,5,3,0,0,0,0,0,0,0,0.92,98,61,325,0,0.28,259,256,25,23
+Abdulaziz Oboshqra,36,Professional League,2015/2016,Defender,Al Fateh,1480,923,557,Saudi Arabia,19,10,6,2,2,0,0,0,0,0,0,6,4,2,13,7,6,3,0,0.12,0,0.12,0.2,0,740,0.79,114,78,493,0,0.18,100,257,14,5
+Yuseef Khamees,28,Professional League,2015/2016,Defender,Al Fateh,526,182,344,Saudi Arabia,11,1,4,0,0,0,0,0,0,0,0,7,4,3,3,2,1,0,0,0,0,0,0,0,0,0.51,175,48,0,0,0,260,246,3,22
+Élton José Xavier Gomes,32,Professional League,2015/2016,Midfielder,Al Fateh,2172,1164,1008,Brazil,25,13,11,12,5,7,6,2,4,2,2,8,5,3,23,10,13,4,0,0.75,0.25,0.5,0.39,0.63,181,0.95,94,87,543,362,0.17,19,35,-1,1
+Marko Stanojević,30,Professional League,2015/2016,Midfielder,Al Fateh,152,90,62,Serbia,2,1,1,0,0,0,0,0,0,0,0,1,0,1,2,2,0,0,0,0,0,0,0,0,0,1.18,76,76,0,0,0,-1,-1,-1,21
+Mohammed Alfehaid,28,Professional League,2015/2016,Midfielder,Al Fateh,2119,1049,1070,Saudi Arabia,24,12,12,1,1,0,0,0,0,0,0,8,5,3,20,7,13,7,0,0.04,0,0.04,0.09,0,2119,0.85,106,88,303,0,0.3,155,232,-1,9
+Tawfiq Buhumaid,31,Professional League,2015/2016,Midfielder,Al Fateh,1511,865,646,Saudi Arabia,19,10,7,0,0,0,4,3,1,0,0,5,4,1,15,7,8,5,1,0.24,0.24,0,0,0,0,0.89,101,80,302,378,0.3,250,40,-1,20
+Josimar Rodrigues Souza Roberto,31,Professional League,2015/2016,Forward,Al Fateh,559,280,279,Brazil,12,3,3,1,0,1,0,0,0,0,0,5,3,2,5,3,2,0,0,0.16,0,0.16,0,0.32,559,0.81,112,47,0,0,0,85,219,-1,10
+Ali Albulayhi,28,Professional League,2015/2016,Defender,Al Fateh,2059,1096,963,Saudi Arabia,24,13,10,0,0,0,0,0,0,0,0,7,5,2,23,10,13,6,1,0,0,0,0,0,0,1.01,90,86,343,0,0.26,237,231,33,19
+Mubark Al Asmari,31,Professional League,2015/2016,Midfielder,Al Fateh,400,169,231,Saudi Arabia,11,1,2,0,0,0,0,0,0,0,0,4,2,2,5,3,2,0,0,0,0,0,0,0,0,1.13,80,36,0,0,0,225,208,-1,24
+Riyadh Sharahili,25,Professional League,2015/2016,Midfielder,Al Fateh,57,46,11,Saudi Arabia,5,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,-1,-1,-1,17
+Hamad Al Juhaim,31,Professional League,2015/2016,Forward,Al Fateh,1374,742,632,Saudi Arabia,23,9,7,8,4,4,1,0,1,0,0,5,3,2,14,6,8,6,0,0.59,0.07,0.52,0.49,0.57,172,0.92,98,60,229,1374,0.39,17,116,-1,2
+Nouh Al mousa,27,Professional League,2015/2016,Midfielder,Al Fateh,75,45,30,Saudi Arabia,2,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,-1,-1,-1,16
+Abdullah Al Jadani,27,Professional League,2015/2016,Goalkeeper,Najran,270,90,180,Saudi Arabia,3,1,2,0,0,0,0,0,0,0,0,0,0,0,7,2,5,0,0,0,0,0,0,0,0,2.33,39,90,0,0,0,-1,-1,-1,18
+Mamadou Wague,28,Professional League,2015/2016,Defender,Najran,893,443,450,France,10,5,5,1,1,0,0,0,0,0,0,0,0,0,16,6,10,6,2,0.1,0,0.1,0.2,0,893,1.61,56,89,149,0,0.6,116,209,102,14
+Rabi Al Mousa,33,Professional League,2015/2016,Defender,Najran,1445,630,815,Saudi Arabia,17,7,10,1,1,0,3,1,2,0,0,1,1,0,27,12,15,4,0,0.25,0.19,0.06,0.14,0,1445,1.68,54,85,361,482,0.25,135,51,105,13
+Nawaf Al Sabhi,31,Professional League,2015/2016,Defender,Najran,810,450,360,Saudi Arabia,10,5,4,1,0,1,0,0,0,0,0,0,0,0,15,7,8,3,0,0.11,0,0.11,0,0.25,810,1.67,54,81,270,0,0.33,106,210,104,11
+Saeed Al Hamsal,22,Professional League,2015/2016,Defender,Najran,692,422,270,Saudi Arabia,8,5,3,0,0,0,0,0,0,0,0,1,1,0,11,5,6,2,0,0,0,0,0,0,0,1.43,63,87,346,0,0.26,236,211,87,29
+Maan Sultan Khodary,26,Professional League,2015/2016,Midfielder,Najran,774,449,325,Saudi Arabia,12,5,4,0,0,0,0,0,0,0,0,1,1,0,11,5,6,3,0,0,0,0,0,0,0,1.28,70,65,258,0,0.35,215,212,-1,28
+Faisal Zaid Al Harbi,27,Professional League,2015/2016,Midfielder,Najran,1060,520,540,Kuwait,13,6,6,1,1,0,0,0,0,0,0,1,1,0,19,7,12,0,0,0.08,0,0.08,0.17,0,1060,1.61,56,82,0,0,0,127,213,-1,9
+Abdulelah Bin Mohammed,26,Professional League,2015/2016,Midfielder,Najran,226,90,136,Saudi Arabia,3,1,2,0,0,0,0,0,0,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,0,1.99,45,75,0,0,0,-1,-1,-1,27
+Sultan Madash,24,Professional League,2015/2016,Midfielder,Najran,898,394,504,Saudi Arabia,18,4,4,0,0,0,0,0,0,0,0,1,1,0,15,6,9,0,0,0,0,0,0,0,0,1.5,60,50,0,0,0,216,214,-1,26
+Essa Al Mehyani,35,Professional League,2015/2016,Forward,Najran,1057,586,471,Saudi Arabia,17,7,5,3,1,2,1,0,1,0,1,1,1,0,17,8,9,3,1,0.34,0.09,0.26,0.15,0.38,352,1.45,62,62,352,1057,0.26,57,106,-1,7
+Yahya Hussain Dagriri,27,Professional League,2015/2016,Forward,Najran,244,152,92,Saudi Arabia,10,1,1,0,0,0,0,0,0,0,0,0,0,0,8,4,4,0,0,0,0,0,0,0,0,2.95,31,24,0,0,0,-1,-1,-1,25
+Wesam Waheab Mudhaya,26,Professional League,2015/2016,Forward,Najran,1520,812,708,Saudi Arabia,23,8,7,3,2,1,3,3,0,0,0,5,2,3,20,9,11,1,0,0.36,0.18,0.18,0.22,0.13,507,1.18,76,66,1520,507,0.06,78,56,-1,6
+Raed Al Amri,29,Professional League,2015/2016,Defender,Najran,437,168,269,Saudi Arabia,10,0,2,1,1,0,0,0,0,0,0,0,0,0,7,4,3,2,0,0.21,0,0.21,0.54,0,437,1.44,62,44,219,0,0.41,64,215,88,12
+David Simbo,29,Professional League,2015/2016,Midfielder,Najran,110,20,90,Sierra Leone,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,-1,-1,-1,24
+Abdulaziz Mbarak Al Hamsal,31,Professional League,2015/2016,Midfielder,Najran,747,496,251,Saudi Arabia,14,5,3,0,0,0,0,0,0,0,0,0,0,0,20,12,8,4,0,0,0,0,0,0,0,2.41,37,53,187,0,0.48,217,216,-1,23
+Abdulaziz Takroni,26,Professional League,2015/2016,Goalkeeper,Najran,2070,1080,990,Saudi Arabia,23,12,11,0,0,0,0,0,0,0,0,1,1,0,40,20,20,2,0,0,0,0,0,0,0,1.74,52,90,1035,0,0.09,218,217,109,19
+Muhand Awad,26,Professional League,2015/2016,Forward,Al Wahda,136,46,90,Saudi Arabia,2,1,1,1,0,1,0,0,0,0,0,0,0,0,2,1,1,0,0,0.66,0,0.66,0,1,136,1.32,68,68,0,0,0,-1,-1,-1,8
+Hani Al Nahidh,31,Professional League,2015/2016,Goalkeeper,Al Ittihad,270,90,180,Saudi Arabia,3,1,2,0,0,0,0,0,0,0,0,1,0,1,5,5,0,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,18
+Hamad Mohsen Al Montashari,36,Professional League,2015/2016,Defender,Al Ittihad,645,360,285,Saudi Arabia,8,4,3,0,0,0,0,0,0,0,0,2,0,2,11,10,1,1,0,0,0,0,0,0,0,1.53,59,81,645,0,0.14,219,207,93,23
+Yassen Hamza,28,Professional League,2015/2016,Defender,Al Ittihad,1460,810,650,Saudi Arabia,17,9,7,0,0,0,0,0,0,0,0,6,3,3,19,12,7,5,0,0,0,0,0,0,0,1.17,77,86,292,0,0.31,220,218,59,26
+Majed Al Khaibari,27,Professional League,2015/2016,Defender,Al Ittihad,1423,655,768,Saudi Arabia,19,7,9,0,0,0,0,0,0,0,0,6,3,3,20,11,9,4,0,0,0,0,0,0,0,1.26,71,75,356,0,0.25,221,220,72,25
+Sulley Ali Muntari,34,Professional League,2015/2016,Midfielder,Al Ittihad,1374,663,711,Ghana,18,9,8,2,2,0,2,0,2,0,0,6,2,4,13,9,4,3,0,0.26,0.13,0.13,0.27,0,687,0.85,106,76,458,687,0.2,98,76,-1,7
+Lucian Iulian Sânmărtean,38,Professional League,2015/2016,Midfielder,Al Ittihad,1668,904,764,Romania,20,11,8,6,2,4,5,5,0,0,0,4,2,2,22,12,10,7,1,0.59,0.27,0.32,0.2,0.47,278,1.19,76,83,238,334,0.38,42,30,-1,3
+Mohammed Abusabaan,28,Professional League,2015/2016,Midfielder,Al Ittihad,652,253,399,Saudi Arabia,14,3,5,2,2,0,0,0,0,0,0,4,1,3,10,7,3,2,0,0.28,0,0.28,0.71,0,326,1.38,65,47,326,0,0.28,51,221,-1,8
+Awadh Khrees,27,Professional League,2015/2016,Midfielder,Al Ittihad,1139,532,607,Saudi Arabia,13,6,6,0,0,0,1,1,0,0,0,4,1,3,15,11,4,6,1,0.08,0.08,0,0,0,0,1.19,76,88,163,1139,0.55,222,110,-1,24
+Abdulfattah Tawfiq Asiri,24,Professional League,2015/2016,Midfielder,Al Ittihad,1062,499,563,Saudi Arabia,15,5,6,4,1,3,3,1,2,0,0,5,2,3,8,4,4,1,0,0.59,0.25,0.34,0.18,0.48,266,0.68,133,71,1062,354,0.08,38,36,-1,5
+Gelmin Javier Rivas Boada,29,Professional League,2015/2016,Forward,Al Ittihad,2052,932,1120,Venezuela,25,10,13,19,8,11,6,3,3,5,2,7,3,4,29,16,13,1,0,1.1,0.26,0.83,0.77,0.88,108,1.27,71,82,2052,342,0.04,6,33,-1,1
+Fahad Mosaed Al Muwallad Al Harbi,24,Professional League,2015/2016,Forward,Al Ittihad,1792,867,925,Saudi Arabia,22,9,11,3,2,1,8,5,3,0,1,6,2,4,26,14,12,3,0,0.55,0.4,0.15,0.21,0.1,597,1.31,69,81,597,224,0.15,92,11,-1,6
+Abdulrahman Kamel Abdullah Al Ghamdi,24,Professional League,2015/2016,Forward,Al Ittihad,806,300,506,Saudi Arabia,17,2,7,7,4,3,1,0,1,0,0,7,3,4,10,4,6,3,0,0.89,0.11,0.78,1.2,0.53,115,1.12,81,47,269,806,0.33,7,91,-1,2
+Mukhtar Fallatah,31,Professional League,2015/2016,Forward,Al Ittihad,641,476,165,Saudi Arabia,17,5,0,5,4,1,2,2,0,1,1,5,3,2,13,8,5,1,0,0.98,0.28,0.7,0.76,0.55,128,1.83,49,38,641,321,0.14,8,27,-1,4
+Jamal Ba Jandooh,26,Professional League,2015/2016,Midfielder,Al Ittihad,849,326,523,Saudi Arabia,14,3,6,1,0,1,0,0,0,0,0,3,1,2,16,9,7,2,0,0.11,0,0.11,0,0.17,849,1.7,53,61,425,0,0.21,109,222,-1,10
+Riad Hassan Al Ibrahim,24,Professional League,2015/2016,Forward,Al Ittihad,500,288,212,Saudi Arabia,11,3,2,0,0,0,0,0,0,0,0,2,2,0,9,4,5,0,0,0,0,0,0,0,0,1.62,56,45,0,0,0,223,223,-1,22
+Mohammed Qassem Al Nakhli,23,Professional League,2015/2016,Defender,Al Ittihad,942,540,402,Saudi Arabia,12,6,4,0,0,0,0,0,0,0,0,2,1,1,14,9,5,1,0,0,0,0,0,0,0,1.34,67,79,942,0,0.1,214,224,78,21
+Ahmad Hassan Hassan Asiri,26,Professional League,2015/2016,Defender,Al Ittihad,1801,810,991,Saudi Arabia,21,9,11,1,1,0,0,0,0,0,0,7,3,4,22,8,14,6,0,0.05,0,0.05,0.11,0,1801,1.1,82,86,300,0,0.3,151,225,46,11
+Faiz Hussain Al Sobea,36,Professional League,2015/2016,Goalkeeper,Al Taawon,1980,1080,900,Saudi Arabia,22,12,10,0,0,0,0,0,0,0,0,5,5,0,27,12,15,3,0,0,0,0,0,0,0,1.23,73,90,660,0,0.14,224,226,65,15
+Adnan Ibrahem Falatah,35,Professional League,2015/2016,Defender,Al Taawon,1897,1061,836,Saudi Arabia,22,12,10,4,4,0,2,2,0,0,0,6,5,1,26,12,14,9,0,0.28,0.09,0.19,0.34,0,474,1.23,73,86,211,949,0.43,75,108,66,5
+Mahmoud Moad,34,Professional League,2015/2016,Defender,Al Taawon,1609,888,721,Saudi Arabia,19,10,9,0,0,0,1,1,0,0,0,5,5,0,22,9,13,8,2,0.06,0.06,0,0,0,0,1.23,73,85,179,1609,0.5,226,123,67,20
+Ricardo Jorge Tavares Machado,30,Professional League,2015/2016,Defender,Al Taawon,2340,1170,1170,Portugal,26,13,13,2,0,2,0,0,0,0,0,6,5,1,31,13,18,2,0,0.08,0,0.08,0,0.15,1170,1.19,75,90,1170,0,0.08,126,227,61,8
+Talal Alabsi,25,Professional League,2015/2016,Defender,Al Taawon,2157,1077,1080,Saudi Arabia,24,12,12,1,0,1,0,0,0,0,0,6,5,1,28,12,16,1,0,0.04,0,0.04,0,0.08,2157,1.17,77,90,2157,0,0.04,152,228,57,9
+Jehad Fadel Al Hussain,36,Professional League,2015/2016,Midfielder,Al Taawon,2277,1126,1151,Syria,26,13,13,4,4,0,10,5,5,0,0,6,5,1,29,13,16,2,0,0.55,0.4,0.16,0.32,0,569,1.15,79,88,1139,228,0.08,90,12,-1,4
+Sandro Manoel Dos Santos,30,Professional League,2015/2016,Midfielder,Al Taawon,2189,1080,1109,Brazil,25,12,13,1,1,0,4,2,2,0,1,6,5,1,30,12,18,2,1,0.21,0.16,0.04,0.08,0,2189,1.23,73,88,730,547,0.12,153,64,-1,10
+Abdulmajeed Abdullah Al Ruwaili,32,Professional League,2015/2016,Midfielder,Al Taawon,2233,1152,1081,Saudi Arabia,26,13,12,13,8,5,3,3,0,0,0,6,5,1,29,13,16,1,0,0.64,0.12,0.52,0.63,0.42,172,1.17,77,86,2233,744,0.04,16,82,-1,1
+Ibrahim Al Talhi,24,Professional League,2015/2016,Midfielder,Al Taawon,27,27,0,Saudi Arabia,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,-1,-1,-1,19
+Ahmed Zain,27,Professional League,2015/2016,Midfielder,Al Taawon,1714,960,754,Saudi Arabia,25,12,8,3,2,1,2,2,0,0,0,6,5,1,19,11,8,2,1,0.26,0.11,0.16,0.19,0.12,571,1,90,69,857,857,0.11,89,86,-1,6
+Paul Claudel Alo'o Efoulou,34,Professional League,2015/2016,Forward,Al Taawon,2254,1164,1090,Cameroon,26,13,12,10,7,3,7,4,3,1,1,6,5,1,29,13,16,1,0,0.68,0.28,0.4,0.54,0.25,225,1.16,78,87,2254,322,0.04,27,26,-1,2
+Naif Mousa,31,Professional League,2015/2016,Defender,Al Taawon,1290,561,729,Saudi Arabia,22,6,8,5,4,1,1,1,0,0,0,6,5,1,18,6,12,4,0,0.42,0.07,0.35,0.64,0.12,258,1.26,72,59,323,1290,0.28,35,119,73,3
+Mohammed Yahya Majrashi,27,Professional League,2015/2016,Forward,Al Taawon,119,22,97,Saudi Arabia,8,0,1,0,0,0,0,0,0,0,0,2,1,1,1,0,1,1,0,0,0,0,0,0,0,0.76,119,15,119,0,0.76,-1,-1,-1,18
+Khaled Asiri Al Zealaiy,31,Professional League,2015/2016,Midfielder,Al Taawon,698,289,409,Saudi Arabia,18,3,5,3,2,1,3,0,3,0,0,4,3,1,14,5,9,1,0,0.77,0.39,0.39,0.62,0.22,233,1.81,50,39,698,233,0.13,28,14,-1,7
+Faisal Al Margab,37,Professional League,2015/2016,Goalkeeper,Al Taawon,308,90,218,Saudi Arabia,4,1,3,0,0,0,0,0,0,0,0,1,0,1,4,1,3,0,0,0,0,0,0,0,0,1.17,77,77,0,0,0,227,229,58,17
+Kamil Al Mor,35,Professional League,2015/2016,Defender,Al Taawon,691,277,414,Saudi Arabia,11,3,4,0,0,0,0,0,0,0,0,3,2,1,8,4,4,3,0,0,0,0,0,0,0,1.04,86,63,230,0,0.39,228,230,36,16
+Abdulrahman Al Barakah,28,Professional League,2015/2016,Midfielder,Al Taawon,262,95,167,Saudi Arabia,10,1,2,0,0,0,0,0,0,0,0,3,3,0,3,1,2,2,1,0,0,0,0,0,0,1.03,87,26,131,0,0.69,-1,-1,-1,11
+Abdullah Kano,28,Professional League,2015/2016,Defender,Al Taawon,180,90,90,Saudi Arabia,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,2,0,0,0,0,0,0,0,1.5,60,90,90,0,1,-1,-1,-1,14
+Yasser Abdullah Al Mosailem,34,Professional League,2015/2016,Goalkeeper,Al Ahli,1980,990,990,Saudi Arabia,22,11,11,0,0,0,0,0,0,0,0,10,3,7,15,11,4,1,0,0,0,0,0,0,0,0.68,132,90,1980,0,0.05,229,258,11,25
+Osama Abdulrezag Hawsawi,34,Professional League,2015/2016,Defender,Al Ahli,2063,1080,983,Saudi Arabia,23,12,11,1,0,1,0,0,0,1,0,9,2,7,18,14,4,1,0,0.04,0,0.04,0,0.09,2063,0.79,115,90,2063,0,0.04,158,233,16,13
+Mohamed Abdul Shafy Sayed Abouezeid,33,Professional League,2015/2016,Defender,Al Ahli,1216,496,720,Egypt,14,6,8,0,0,0,3,0,3,0,0,7,2,5,8,5,3,1,0,0.22,0.22,0,0,0,0,0.59,152,87,1216,405,0.07,230,44,5,24
+Aqeel Baalghyth Al Sahbi,31,Professional League,2015/2016,Defender,Al Ahli,1465,655,810,Saudi Arabia,17,8,9,1,1,0,0,0,0,0,0,8,2,6,11,8,3,4,0,0.06,0,0.06,0.14,0,1465,0.68,133,86,366,0,0.25,137,259,10,14
+Motaz Ali Hassan Hawsawi,26,Professional League,2015/2016,Defender,Al Ahli,1863,1053,810,Saudi Arabia,21,12,9,0,0,0,1,1,0,0,0,10,3,7,13,11,2,1,0,0.05,0.05,0,0,0,0,0.63,143,89,1863,1863,0.05,231,128,7,20
+Taisir Jabir Al Jassim,34,Professional League,2015/2016,Midfielder,Al Ahli,2233,1170,1063,Saudi Arabia,25,13,12,2,0,2,6,4,2,0,0,11,3,8,18,14,4,3,0,0.32,0.24,0.08,0,0.17,1117,0.73,124,89,744,372,0.12,124,38,-1,7
+Nabil Bahoui,27,Professional League,2015/2016,Midfielder,Al Ahli,371,165,206,Sweden,10,2,2,0,0,0,0,0,0,0,0,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,232,287,-1,18
+Fahad Mohammed Hamad Al Yamani,28,Professional League,2015/2016,Midfielder,Al Ahli,473,222,251,Saudi Arabia,10,2,3,0,0,0,0,0,0,0,0,7,3,4,1,0,1,1,0,0,0,0,0,0,0,0.19,473,47,473,0,0.19,233,289,-1,15
+Mustafa Mahdi Al Bassas,25,Professional League,2015/2016,Midfielder,Al Ahli,808,365,443,Saudi Arabia,15,4,5,2,2,0,1,1,0,0,0,8,2,6,2,2,0,2,0,0.33,0.11,0.22,0.49,0,404,0.22,404,54,404,808,0.22,63,85,-1,8
+Islam Hassan Seraj,29,Professional League,2015/2016,Forward,Al Ahli,964,442,522,Saudi Arabia,20,5,6,4,2,2,1,0,1,0,0,9,1,8,11,6,5,3,0,0.47,0.09,0.37,0.41,0.34,241,1.03,88,48,321,964,0.28,30,107,-1,4
+Omar Jihad Al Somah,28,Professional League,2015/2016,Forward,Al Ahli,1951,990,961,Syria,22,11,11,27,14,13,1,0,1,7,2,8,1,7,19,14,5,0,0,1.29,0.05,1.25,1.27,1.22,72,0.88,103,89,0,1951,0,2,132,-1,1
+Ioannis Fetfatzidis,27,Professional League,2015/2016,Midfielder,Al Ahli,1020,540,480,Greece,16,6,5,3,3,0,6,5,1,0,1,6,1,5,10,7,3,1,0,0.79,0.53,0.26,0.5,0,340,0.88,102,64,1020,170,0.09,52,5,-1,5
+Salman Al Moasher,30,Professional League,2015/2016,Forward,Al Ahli,1902,1014,888,Saudi Arabia,24,12,10,1,0,1,9,5,4,0,0,10,2,8,16,12,4,5,0,0.47,0.43,0.05,0,0.1,1902,0.76,119,79,380,211,0.24,147,9,-1,12
+Mohanad Aseri Abu Radiah,32,Professional League,2015/2016,Forward,Al Ahli,552,323,229,Saudi Arabia,13,3,2,4,2,2,0,0,0,0,0,5,2,3,2,1,1,1,0,0.65,0,0.65,0.56,0.79,138,0.33,276,42,552,0,0.16,10,290,-1,3
+Waleed Rashid Bakshween,28,Professional League,2015/2016,Midfielder,Al Ahli,1075,467,608,Saudi Arabia,15,5,8,0,0,0,0,0,0,0,0,5,0,5,12,9,3,7,1,0,0,0,0,0,0,1,90,72,154,0,0.59,234,291,-1,16
+Kamil Saddiq Al Mousa,36,Professional League,2015/2016,Defender,Al Ahli,180,0,180,Saudi Arabia,2,0,2,0,0,0,0,0,0,0,0,1,0,1,2,0,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,17
+Hussain Al Mogahwi,30,Professional League,2015/2016,Midfielder,Al Ahli,1699,917,782,Saudi Arabia,23,11,9,5,4,1,3,1,2,0,0,9,3,6,13,10,3,3,0,0.42,0.16,0.26,0.39,0.12,340,0.69,131,74,566,566,0.16,54,62,-1,2
+Hussain Abdoh Al Shaian,29,Professional League,2015/2016,Goalkeeper,Al Nassr,1031,597,434,Saudi Arabia,12,7,5,0,0,0,0,0,0,0,0,3,2,1,12,7,5,1,0,0,0,0,0,0,0,1.05,86,86,1031,0,0.09,235,292,38,19
+Ibrahim Al Zubaidi,29,Professional League,2015/2016,Defender,Al Nassr,710,401,309,Saudi Arabia,9,5,4,0,0,0,1,1,0,0,0,1,1,0,18,10,8,1,0,0.13,0.13,0,0,0,0,2.28,39,79,710,710,0.13,261,74,125,23
+Khaled Ahmed Al Ghamdi,30,Professional League,2015/2016,Defender,Al Nassr,1517,900,617,Saudi Arabia,18,10,8,0,0,0,2,2,0,0,0,6,5,1,23,9,14,6,0,0.12,0.12,0,0,0,0,1.36,66,84,253,759,0.36,238,83,81,29
+Omar Ibrahim Omar Othman Hawsawi,33,Professional League,2015/2016,Defender,Al Nassr,1942,977,965,Saudi Arabia,23,11,11,1,0,1,0,0,0,0,0,8,5,3,26,8,18,5,0,0.05,0,0.05,0,0.09,1942,1.2,75,84,388,0,0.23,149,293,62,10
+Abdullah Mohammed Madu,25,Professional League,2015/2016,Defender,Al Nassr,316,136,180,Saudi Arabia,5,2,2,0,0,0,0,0,0,0,0,2,1,1,3,1,2,0,0,0,0,0,0,0,0,0.85,105,63,0,0,0,262,294,19,28
+Adrian Mierzejewski,31,Professional League,2015/2016,Midfielder,Al Nassr,1488,826,662,Poland,19,9,8,10,4,6,6,1,5,3,0,7,4,3,19,9,10,1,0,0.97,0.36,0.6,0.44,0.82,149,1.15,78,78,1488,248,0.06,12,16,-1,1
+Yehya Sulaiman Al Shehri,28,Professional League,2015/2016,Midfielder,Al Nassr,1935,877,1058,Saudi Arabia,25,9,11,1,0,1,4,2,2,0,0,9,5,4,24,8,16,0,0,0.23,0.19,0.05,0,0.09,1935,1.12,81,77,0,484,0,148,54,-1,11
+Shaya Ali Sharahli,28,Professional League,2015/2016,Midfielder,Al Nassr,1631,865,766,Saudi Arabia,20,9,9,2,1,1,0,0,0,0,0,7,5,2,24,7,17,5,0,0.11,0,0.11,0.1,0.12,816,1.32,68,82,326,0,0.28,108,295,-1,7
+Abdulaziz Al Jebreen,28,Professional League,2015/2016,Midfielder,Al Nassr,1648,816,832,Saudi Arabia,21,9,10,1,1,0,1,0,1,0,0,7,4,3,22,9,13,4,0,0.11,0.05,0.05,0.11,0,1648,1.2,75,78,412,1648,0.22,150,129,-1,12
+Rabeaa Sefiani,31,Professional League,2015/2016,Forward,Al Nassr,716,420,296,Saudi Arabia,13,4,4,7,3,4,1,1,0,0,0,4,4,0,6,3,3,0,0,1.01,0.13,0.88,0.64,1.22,102,0.75,119,55,0,716,0,4,77,-1,2
+Mohammad Ibrahim Al Sahlawi,31,Professional League,2015/2016,Forward,Al Nassr,1620,874,746,Saudi Arabia,20,9,8,5,1,4,3,2,1,2,0,8,5,3,14,4,10,1,0,0.44,0.17,0.28,0.1,0.48,324,0.78,116,81,1620,540,0.06,50,59,-1,3
+Fabián Larry Estoyanoff Poggio,36,Professional League,2015/2016,Midfielder,Al Nassr,108,32,76,Uruguay,2,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0.83,108,54,0,0,0,-1,-1,-1,27
+Musab Bandar Al Otaibi,26,Professional League,2015/2016,Midfielder,Al Khaleej,1514,759,755,Saudi Arabia,24,9,9,3,2,1,0,0,0,0,0,7,3,4,23,11,12,1,0,0.18,0,0.18,0.24,0.12,505,1.37,66,63,1514,0,0.06,81,296,-1,3
+Mohamed Husain Mohamed Hasan Bahzad,38,Professional League,2015/2016,Defender,Al Nassr,1530,900,630,Bahrain,18,10,7,0,0,0,0,0,0,0,0,7,5,2,20,10,10,3,0,0,0,0,0,0,0,1.18,77,85,510,0,0.18,288,297,60,26
+Ayman Ftinei,23,Professional League,2015/2016,Midfielder,Al Nassr,297,43,254,Saudi Arabia,7,0,3,0,0,0,0,0,0,0,0,2,0,2,3,1,2,0,0,0,0,0,0,0,0,0.91,99,42,0,0,0,290,298,-1,25
+Jumaan Ibrahim Al Dosari,31,Professional League,2015/2016,Defender,Al Nassr,493,196,297,Saudi Arabia,10,3,3,0,0,0,0,0,0,0,0,4,2,2,7,2,5,0,0,0,0,0,0,0,0,1.28,70,49,0,0,0,291,288,74,24
+Mutab Sharahili,25,Professional League,2015/2016,Goalkeeper,Al Nassr,556,270,286,Saudi Arabia,7,3,3,0,0,0,0,0,0,0,0,4,2,2,5,2,3,0,0,0,0,0,0,0,0,0.81,111,79,0,0,0,292,299,17,20
+Awdh Khamis Faraj,30,Professional League,2015/2016,Midfielder,Al Nassr,957,447,510,Saudi Arabia,13,6,6,0,0,0,0,0,0,0,0,4,2,2,15,7,8,0,0,0,0,0,0,0,0,1.41,64,74,0,0,0,293,301,-1,22
+Mustafa Reda Malayekah,32,Professional League,2015/2016,Goalkeeper,Hajer,1934,944,990,Saudi Arabia,22,10,11,0,0,0,0,0,0,0,0,3,1,2,43,22,21,1,0,0,0,0,0,0,0,2,45,88,1934,0,0.05,294,302,119,11
+Nemanja Tubić,34,Professional League,2015/2016,Defender,Hajer,609,249,360,Serbia,7,3,4,0,0,0,0,0,0,0,0,1,0,1,14,7,7,0,0,0,0,0,0,0,0,2.07,44,87,0,0,0,295,303,121,21
+Rashed Abdulrahman Al Rahab,34,Professional League,2015/2016,Defender,Hajer,1965,885,1080,Saudi Arabia,22,10,12,0,0,0,1,0,1,0,0,3,1,2,44,19,25,4,0,0.05,0.05,0,0,0,0,2.02,45,89,491,1965,0.18,296,136,120,30
+Ammar Al Daheem,25,Professional League,2015/2016,Defender,Hajer,1409,543,866,Saudi Arabia,18,6,10,0,0,0,0,0,0,0,0,3,1,2,31,14,17,4,1,0,0,0,0,0,0,1.98,45,78,352,0,0.26,297,304,115,29
+Gualberto Mojica Olmos,34,Professional League,2015/2016,Midfielder,Hajer,467,240,227,Bolivia,7,3,3,0,0,0,1,1,0,0,0,1,0,1,12,8,4,0,0,0.19,0.19,0,0,0,0,2.31,39,67,0,467,0,298,52,-1,28
+Salman Saeed Al Hariri,30,Professional League,2015/2016,Midfielder,Hajer,105,34,71,Saudi Arabia,3,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,35,105,0,0.86,-1,-1,-1,27
+Saif Salman Hashim Al Mohammadawi,25,Professional League,2015/2016,Midfielder,Hajer,831,354,477,Iraq,10,4,5,0,0,0,1,0,1,0,0,1,0,1,18,9,9,3,0,0.11,0.11,0,0,0,0,1.95,46,83,277,831,0.32,299,92,-1,26
+Murad Al Rashidi,27,Professional League,2015/2016,Midfielder,Hajer,571,216,355,Saudi Arabia,11,3,6,0,0,0,0,0,0,0,0,1,0,1,14,8,6,3,0,0,0,0,0,0,0,2.21,41,52,190,0,0.47,289,305,-1,25
+Abdularahman Al Hurib,26,Professional League,2015/2016,Midfielder,Hajer,1569,777,792,Saudi Arabia,21,10,9,1,0,1,0,0,0,0,0,3,1,2,32,15,17,4,0,0.06,0,0.06,0,0.11,1569,1.84,49,75,392,0,0.23,134,306,-1,6
+Jassim Al Hamdan,32,Professional League,2015/2016,Forward,Hajer,982,562,420,Saudi Arabia,22,5,3,2,2,0,1,0,1,0,0,3,1,2,21,12,9,1,0,0.27,0.09,0.18,0.32,0,491,1.92,47,45,982,982,0.09,79,103,-1,5
+Mohammed Al Saiari,25,Professional League,2015/2016,Forward,Hajer,1047,434,613,Saudi Arabia,18,4,7,6,2,4,1,1,0,0,0,3,1,2,23,10,13,6,0,0.6,0.09,0.52,0.41,0.59,175,1.98,46,58,175,1047,0.52,15,101,-1,1
+Dragan Ćeran,31,Professional League,2015/2016,Forward,Hajer,918,393,525,Serbia,13,4,5,2,2,0,1,1,0,0,0,1,0,1,22,11,11,1,0,0.29,0.1,0.2,0.46,0,459,2.16,42,71,918,918,0.1,68,98,-1,4
+Ahmed Al Nufili,24,Professional League,2015/2016,Defender,Hajer,1557,703,854,Saudi Arabia,19,8,9,0,0,0,0,0,0,0,0,1,0,1,43,20,23,1,0,0,0,0,0,0,0,2.49,36,82,1557,0,0.06,300,307,127,24
+Radhi Hassan Al Radhi,26,Professional League,2015/2016,Defender,Hajer,636,403,233,Saudi Arabia,10,5,2,0,0,0,0,0,0,0,0,3,1,2,11,5,6,1,0,0,0,0,0,0,0,1.56,58,64,636,0,0.14,302,308,96,23
+Mansour Nammazi,25,Professional League,2015/2016,Defender,Hajer,487,291,196,Saudi Arabia,7,3,2,0,0,0,0,0,0,0,0,0,0,0,16,11,5,2,0,0,0,0,0,0,0,2.96,30,70,244,0,0.37,303,309,128,22
+Mohammed Al Omran,24,Professional League,2015/2016,Goalkeeper,Hajer,136,46,90,Saudi Arabia,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,2.65,34,68,0,0,0,-1,-1,-1,18
+Abdullah Qaisi,28,Professional League,2015/2016,Midfielder,Hajer,648,393,255,Saudi Arabia,13,4,3,0,0,0,1,1,0,0,0,0,0,0,22,15,7,1,0,0.14,0.14,0,0,0,0,3.06,29,50,648,648,0.14,304,69,-1,20
+Faisal Al Masrahi,25,Professional League,2015/2016,Goalkeeper,Al Quadisiya,2340,1170,1170,Saudi Arabia,26,13,13,0,0,0,0,0,0,0,0,7,3,4,30,15,15,2,0,0,0,0,0,0,0,1.15,78,90,1170,0,0.08,305,310,56,17
+Farid Mellouli,34,Professional League,2015/2016,Defender,Al Quadisiya,900,450,450,Algeria,10,5,5,1,1,0,0,0,0,1,0,2,1,1,12,7,5,5,1,0.1,0,0.1,0.2,0,900,1.2,75,90,150,0,0.6,113,311,63,9
+Khalid Magrabi,26,Professional League,2015/2016,Defender,Al Quadisiya,450,360,90,Saudi Arabia,5,4,1,0,0,0,0,0,0,0,0,1,1,0,8,4,4,1,0,0,0,0,0,0,0,1.6,56,90,450,0,0.2,306,300,99,26
+Abdulrahman Al Obaid,25,Professional League,2015/2016,Defender,Al Quadisiya,2340,1170,1170,Saudi Arabia,26,13,13,1,0,1,4,1,3,0,0,7,3,4,30,15,15,2,0,0.19,0.15,0.04,0,0.08,2340,1.15,78,90,1170,585,0.08,159,68,55,5
+Ali Abdullah Hazzazi,24,Professional League,2015/2016,Defender,Al Quadisiya,1236,716,520,Saudi Arabia,18,9,7,0,0,0,0,0,0,0,0,4,2,2,19,11,8,1,0,0,0,0,0,0,0,1.38,65,69,1236,0,0.07,307,286,82,25
+Mohammed Khubrani,25,Professional League,2015/2016,Defender,Al Quadisiya,2160,1170,990,Saudi Arabia,24,13,11,0,0,0,0,0,0,0,0,7,3,4,27,15,12,3,0,0,0,0,0,0,0,1.13,80,90,720,0,0.13,308,273,50,24
+Saad Abdulameer Luaibi Al Zirjawi Al Dobjahawe,26,Professional League,2015/2016,Midfielder,Al Quadisiya,2237,1067,1170,Iraq,25,12,13,5,2,3,0,0,0,1,0,7,3,4,28,13,15,6,0,0.2,0,0.2,0.17,0.23,447,1.13,80,89,373,0,0.24,69,205,-1,1
+Hassen Jaaferi,27,Professional League,2015/2016,Midfielder,Al Quadisiya,645,343,302,Saudi Arabia,9,4,4,0,0,0,0,0,0,0,0,3,2,1,12,4,8,2,0,0,0,0,0,0,0,1.67,54,72,323,0,0.28,310,285,-1,23
+Majed Al Najrani,25,Professional League,2015/2016,Midfielder,Al Quadisiya,1323,635,688,Saudi Arabia,20,6,7,0,0,0,1,0,1,0,0,6,3,3,13,6,7,1,0,0.07,0.07,0,0,0,0,0.88,102,66,1323,1323,0.07,311,117,-1,22
+Hector Omar Ramos Lebron,28,Professional League,2015/2016,Forward,Al Quadisiya,170,170,0,Puerto Rico,2,2,0,0,0,0,1,1,0,0,0,1,1,0,2,2,0,0,0,0.53,0.53,0,0,0,0,1.06,85,85,0,170,0,-1,-1,-1,21
+Naif Al Balawi,32,Professional League,2015/2016,Forward,Al Quadisiya,289,229,60,Saudi Arabia,7,3,1,1,1,0,1,0,1,0,0,2,2,0,2,2,0,2,0,0.62,0.31,0.31,0.39,0,289,0.62,145,41,145,289,0.62,47,23,-1,7
+Hassan Alamiri,24,Professional League,2015/2016,Midfielder,Al Quadisiya,1078,484,594,Saudi Arabia,21,4,6,1,1,0,0,0,0,0,0,6,3,3,13,6,7,2,0,0.08,0,0.08,0.19,0,1078,1.09,83,51,539,0,0.17,131,262,-1,8
+Mazen Abu Shararah,27,Professional League,2015/2016,Forward,Al Quadisiya,1039,486,553,Saudi Arabia,20,6,6,3,2,1,2,2,0,1,0,5,2,3,13,4,9,3,0,0.43,0.17,0.26,0.37,0.16,346,1.13,80,52,346,520,0.26,53,61,-1,3
+Rubenval Rodrigo Da Rocha,30,Professional League,2015/2016,Midfielder,Al Quadisiya,46,46,0,Brazil,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,3.91,23,46,0,0,0,-1,-1,-1,27
+Sultan Msarhi,31,Professional League,2015/2016,Defender,Al Quadisiya,90,0,90,Saudi Arabia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4,1,0,0,0,0,0,0,0,4,23,90,90,0,1,-1,-1,-1,20
+Talal Al Shmaly,41,Professional League,2015/2016,Defender,Al Quadisiya,207,90,117,Saudi Arabia,6,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,0,1.74,52,35,207,0,0.43,-1,-1,-1,19
+Ibrahim Zaied,28,Professional League,2015/2016,Goalkeeper,Al Faisaly,540,180,360,Saudi Arabia,6,2,4,0,0,0,0,0,0,0,0,2,1,1,4,0,4,0,0,0,0,0,0,0,0,0.67,135,90,0,0,0,301,263,9,16
+Mohammed Abdullah Salem,33,Professional League,2015/2016,Defender,Al Faisaly,2092,1112,980,Saudi Arabia,24,13,11,1,0,1,4,2,2,0,0,6,2,4,30,16,14,5,1,0.22,0.17,0.04,0,0.09,2092,1.29,70,87,349,523,0.26,156,60,76,11
+Hadi Yahya Khmakg,28,Professional League,2015/2016,Defender,Al Faisaly,90,0,90,Saudi Arabia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,90,90,90,0,1,-1,-1,-1,27
+Sami Bashir,29,Professional League,2015/2016,Defender,Al Faisaly,442,90,352,Saudi Arabia,6,1,4,0,0,0,0,0,0,0,0,0,0,0,7,0,7,1,0,0,0,0,0,0,0,1.43,63,74,442,0,0.2,287,264,86,26
+Fawaz Fallatah,29,Professional League,2015/2016,Defender,Al Faisaly,2153,1163,990,Saudi Arabia,24,13,11,0,0,0,0,0,0,0,0,7,2,5,26,17,9,4,0,0,0,0,0,0,0,1.09,83,90,538,0,0.17,275,265,45,25
+Fahad Muqbil Al Rashidi,27,Professional League,2015/2016,Midfielder,Al Faisaly,94,4,90,Saudi Arabia,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.96,94,31,0,0,0,-1,-1,-1,24
+Mahmoud Al Mawas,25,Professional League,2015/2016,Midfielder,Al Faisaly,162,90,72,Syria,2,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0.56,0,0.56,1,0,162,0.56,162,81,0,0,0,-1,-1,-1,9
+Omar Abdulaziz,34,Professional League,2015/2016,Midfielder,Al Faisaly,2147,986,1161,Saudi Arabia,24,11,13,0,0,0,1,0,1,0,0,7,2,5,29,13,16,4,0,0.04,0.04,0,0,0,0,1.22,74,89,537,2147,0.17,286,139,-1,23
+Ifeanyi Victor Onyilov,28,Professional League,2015/2016,Forward,Al Faisaly,146,56,90,Nigeria,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.62,146,73,0,0,0,-1,-1,-1,22
+Fernando Gabriel Vougado Ribeiro,30,Professional League,2015/2016,Midfielder,Al Faisaly,155,65,90,Brazil,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.58,155,78,0,0,0,-1,-1,-1,21
+Salim Al Khebari,27,Professional League,2015/2016,Forward,Al Faisaly,94,21,73,Saudi Arabia,8,0,1,2,1,1,0,0,0,0,0,1,0,1,3,0,3,0,0,1.91,0,1.91,4.29,1.23,47,2.87,31,12,0,0,0,-1,-1,-1,6
+Fahad Al Munaif,28,Professional League,2015/2016,Forward,Al Faisaly,237,158,79,Saudi Arabia,18,1,0,0,0,0,1,0,1,0,0,4,2,2,6,4,2,0,0,0.38,0.38,0,0,0,0,2.28,40,13,0,237,0,-1,-1,-1,20
+Fahed Al Saqri,29,Professional League,2015/2016,Midfielder,Al Faisaly,1061,630,431,Saudi Arabia,22,6,3,4,3,1,0,0,0,0,0,5,1,4,17,10,7,3,0,0.34,0,0.34,0.43,0.21,265,1.44,62,48,354,0,0.25,37,266,-1,2
+Ali Al Shoula,30,Professional League,2015/2016,Forward,Al Faisaly,1049,407,642,Saudi Arabia,21,4,8,0,0,0,1,1,0,0,0,5,1,4,18,7,11,1,0,0.09,0.09,0,0,0,0,1.54,58,50,1049,1049,0.09,265,100,-1,19
+Wesam Al Swed,30,Professional League,2015/2016,Defender,Al Faisaly,2003,1095,908,Saudi Arabia,24,12,10,1,1,0,2,2,0,0,0,7,2,5,29,18,11,5,0,0.13,0.09,0.04,0.08,0,2003,1.3,69,83,401,1002,0.22,154,105,77,7
+Murad Al Sudani,29,Professional League,2015/2016,Midfielder,Al Faisaly,90,90,0,Saudi Arabia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,90,90,0,1,-1,-1,-1,18
+Mohammed Khalil Al Owais,27,Professional League,2015/2016,Goalkeeper,Al Shabab,1930,990,940,Saudi Arabia,22,11,11,0,0,0,0,0,0,0,0,8,3,5,17,10,7,2,0,0,0,0,0,0,0,0.79,114,88,965,0,0.09,266,267,15,18
+Abdullah Ahmed Al Asta,32,Professional League,2015/2016,Defender,Al Shabab,2222,1080,1142,Saudi Arabia,25,12,13,3,1,2,1,0,1,2,0,7,2,5,25,11,14,2,0,0.16,0.04,0.12,0.08,0.16,741,1.01,89,89,1111,2222,0.08,99,138,29,4
+Hassan Muath Fallatah,32,Professional League,2015/2016,Defender,Al Shabab,1564,875,689,Saudi Arabia,19,10,8,1,0,1,2,2,0,0,0,5,3,2,18,8,10,5,1,0.17,0.12,0.06,0,0.13,1564,1.04,87,82,261,782,0.35,136,80,35,10
+Sultan Abdullah Al Deayea,25,Professional League,2015/2016,Defender,Al Shabab,1642,775,867,Saudi Arabia,20,9,10,0,0,0,1,1,0,0,0,7,3,4,21,8,13,2,0,0.05,0.05,0,0,0,0,1.15,78,82,821,1642,0.11,267,131,54,27
+Rafael da Silva Francisco,35,Professional League,2015/2016,Midfielder,Al Shabab,1867,826,1041,Brazil,22,10,12,4,3,1,3,2,1,0,0,8,3,5,21,8,13,3,1,0.34,0.14,0.19,0.33,0.09,467,1.01,89,85,622,622,0.14,72,71,-1,2
+Hugo Diego Arismendi Ciapparetta,30,Professional League,2015/2016,Midfielder,Al Shabab,2157,1054,1103,Uruguay,26,12,12,2,2,0,2,0,2,0,0,8,3,5,26,11,15,2,0,0.17,0.08,0.08,0.17,0,1079,1.08,83,83,1079,1079,0.08,132,111,-1,7
+Abdulmalek Abdullah Al Khaibri,32,Professional League,2015/2016,Midfielder,Al Shabab,2060,1070,990,Saudi Arabia,23,12,11,0,0,0,0,0,0,0,0,7,3,4,23,9,14,5,0,0,0,0,0,0,0,1,90,90,412,0,0.22,268,268,-1,26
+Saeed Mohammed Al Dosari,28,Professional League,2015/2016,Midfielder,Al Shabab,194,156,38,Saudi Arabia,5,2,0,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,1.86,49,39,0,0,0,-1,-1,-1,25
+Mishari Al Thmali,26,Professional League,2015/2016,Midfielder,Al Shabab,555,333,222,Saudi Arabia,11,4,2,0,0,0,0,0,0,0,0,5,3,2,5,2,3,3,0,0,0,0,0,0,0,0.81,111,50,185,0,0.49,269,269,-1,24
+Abdulmajeed Mohammed Al Sulaiheem,24,Professional League,2015/2016,Midfielder,Al Shabab,904,472,432,Saudi Arabia,14,5,5,0,0,0,1,1,0,0,0,4,2,2,7,3,4,2,0,0.1,0.1,0,0,0,0,0.7,129,65,452,904,0.2,270,93,-1,23
+Mauricio Affonso Prieto,26,Professional League,2015/2016,Forward,Al Shabab,1086,602,484,Uruguay,13,7,6,3,1,2,0,0,0,0,0,5,2,3,9,5,4,2,0,0.25,0,0.25,0.15,0.37,362,0.75,121,84,543,0,0.17,60,270,-1,3
+Abdulrahman Fahad M Bin Khayrallah,22,Professional League,2015/2016,Midfielder,Al Shabab,599,308,291,Saudi Arabia,12,3,3,1,1,0,1,0,1,0,0,5,2,3,4,3,1,0,0,0.3,0.15,0.15,0.29,0,599,0.6,150,50,0,599,0,94,67,-1,9
+Saleh Saad Al Qumayzi,27,Professional League,2015/2016,Defender,Al Shabab,732,302,430,Saudi Arabia,13,3,5,0,0,0,2,1,1,0,0,4,1,3,7,3,4,1,0,0.25,0.25,0,0,0,0,0.86,105,56,732,366,0.12,271,37,21,22
+Mousa Salman Al Shamri,32,Professional League,2015/2016,Forward,Al Shabab,562,199,363,Saudi Arabia,13,2,4,0,0,0,0,0,0,0,0,5,1,4,6,2,4,1,0,0,0,0,0,0,0,0.96,94,43,562,0,0.16,272,271,-1,21
+Abdulrahman Al Khaibary,30,Professional League,2015/2016,Midfielder,Al Shabab,639,434,205,Saudi Arabia,11,6,2,0,0,0,0,0,0,0,0,3,1,2,7,6,1,0,0,0,0,0,0,0,0,0.99,91,58,0,0,0,273,261,-1,28
+Ismael Mohammedjammui Al Maghrabi,27,Professional League,2015/2016,Forward,Al Shabab,435,280,155,Saudi Arabia,13,2,1,2,1,1,1,0,1,0,0,4,1,3,2,1,1,2,0,0.62,0.21,0.41,0.32,0.58,218,0.41,218,33,218,435,0.41,26,46,-1,5
+Sayyaf Dhafar Al Bishi,38,Professional League,2015/2016,Defender,Al Shabab,1080,450,630,Saudi Arabia,12,5,7,0,0,0,0,0,0,0,0,3,1,2,15,5,10,3,0,0,0,0,0,0,0,1.25,72,90,360,0,0.25,264,272,70,20
+Fahad Al Shammari,37,Professional League,2015/2016,Goalkeeper,Al Raed,2340,1170,1170,Saudi Arabia,26,13,13,0,0,0,0,0,0,0,0,4,4,0,40,16,24,2,0,0,0,0,0,0,0,1.54,59,90,1170,0,0.08,274,274,95,19
+Jufain Ali Al Bishi,31,Professional League,2015/2016,Defender,Al Raed,1932,990,942,Saudi Arabia,22,11,11,2,0,2,0,0,0,0,0,4,4,0,37,14,23,5,0,0.09,0,0.09,0,0.19,966,1.72,52,88,386,0,0.23,119,275,107,5
+Sanad Ahmad Shrahilee,32,Professional League,2015/2016,Defender,Al Raed,442,168,274,Saudi Arabia,6,2,3,1,0,1,0,0,0,0,0,1,0,1,4,1,3,1,0,0.2,0,0.2,0,0.33,442,0.81,111,74,442,0,0.2,71,276,18,12
+Sultan Al Yami,31,Professional League,2015/2016,Defender,Al Raed,1404,591,813,Saudi Arabia,19,6,9,1,0,1,1,0,1,0,0,3,3,0,23,6,17,5,0,0.13,0.06,0.06,0,0.11,1404,1.47,61,74,281,1404,0.32,139,120,90,11
+Ibrahim Ahmad Madkhali,33,Professional League,2015/2016,Defender,Al Raed,724,284,440,Saudi Arabia,9,4,5,0,0,0,0,0,0,0,0,2,2,0,12,3,9,0,0,0,0,0,0,0,0,1.49,60,80,0,0,0,276,277,91,27
+Meshal Al Enazi,31,Professional League,2015/2016,Midfielder,Al Raed,263,145,118,Saudi Arabia,7,2,1,0,0,0,0,0,0,0,0,2,2,0,6,2,4,0,0,0,0,0,0,0,0,2.05,44,38,0,0,0,-1,-1,-1,26
+Eid Mohammed Eid Al Farsi,27,Professional League,2015/2016,Midfielder,Al Raed,1697,810,887,Oman,19,9,10,2,0,2,1,1,0,0,0,3,3,0,26,10,16,2,0,0.16,0.05,0.11,0,0.2,849,1.38,65,89,849,1697,0.11,110,127,-1,6
+Sultan Al Sawadi,25,Professional League,2015/2016,Midfielder,Al Raed,1090,504,586,Saudi Arabia,17,5,7,1,1,0,2,1,1,0,0,3,3,0,20,8,12,1,0,0.25,0.17,0.08,0.18,0,1090,1.65,55,64,1090,545,0.08,123,58,-1,10
+Sultan Al Sharif,26,Professional League,2015/2016,Midfielder,Al Raed,1209,547,662,Saudi Arabia,18,6,8,0,0,0,0,0,0,0,0,2,2,0,20,7,13,5,0,0,0,0,0,0,0,1.49,60,67,242,0,0.37,277,278,-1,25
+Amjad Radhi Yousuf Al Janabi,27,Professional League,2015/2016,Forward,Al Raed,383,161,222,Iraq,6,2,2,0,0,0,0,0,0,0,0,0,0,0,6,2,4,0,0,0,0,0,0,0,0,1.41,64,64,0,0,0,278,279,-1,24
+Faris Al Alayaf,26,Professional League,2015/2016,Forward,Al Raed,1664,840,824,Saudi Arabia,22,10,9,0,0,0,2,0,2,0,0,4,4,0,30,12,18,4,0,0.11,0.11,0,0,0,0,1.62,55,76,416,832,0.22,279,87,-1,23
+Nader Salem Al Mowalad,26,Professional League,2015/2016,Midfielder,Al Raed,980,498,482,Saudi Arabia,14,6,5,0,0,0,0,0,0,0,0,0,0,0,17,7,10,3,0,0,0,0,0,0,0,1.56,58,70,327,0,0.28,280,280,-1,22
+Fahad Al Johani,27,Professional League,2015/2016,Forward,Al Raed,1794,934,860,Saudi Arabia,23,11,10,7,4,3,1,1,0,1,0,4,4,0,31,12,19,3,0,0.4,0.05,0.35,0.39,0.31,256,1.56,58,78,598,1794,0.15,36,126,-1,1
+Saleh Khalid Al Shehri,25,Professional League,2015/2016,Forward,Al Raed,734,340,394,Saudi Arabia,16,3,4,1,1,0,3,2,1,0,1,4,4,0,10,5,5,2,0,0.49,0.37,0.12,0.26,0,734,1.23,73,46,367,245,0.25,104,15,-1,8
+Ahmad Al Hbeab,25,Professional League,2015/2016,Defender,Al Raed,1066,544,522,Saudi Arabia,13,6,6,0,0,0,0,0,0,0,0,2,2,0,21,9,12,4,0,0,0,0,0,0,0,1.77,51,82,267,0,0.34,281,281,110,28
+Husein Al Shuwaish,30,Professional League,2015/2016,Defender,Al Raed,1084,590,494,Saudi Arabia,13,6,5,1,1,0,0,0,0,0,0,2,2,0,19,9,10,0,0,0.08,0,0.08,0.15,0,1084,1.58,57,83,0,0,0,130,282,98,7
+Fahad Al Swailem,26,Professional League,2015/2016,Forward,Al Khaleej,746,390,356,Saudi Arabia,15,4,3,0,0,0,0,0,0,0,0,3,1,2,11,7,4,1,0,0,0,0,0,0,0,1.33,68,50,746,0,0.12,282,283,-1,17
+Hussain Al Shaikh,27,Professional League,2015/2016,Forward,Al Khaleej,474,262,212,Saudi Arabia,8,3,2,0,0,0,0,0,0,0,0,0,0,0,14,6,8,1,0,0,0,0,0,0,0,2.66,34,59,474,0,0.19,283,284,-1,14
+Mohammed Amman Al Harbi,30,Professional League,2015/2016,Defender,Al Ahli,341,197,144,Saudi Arabia,9,2,1,0,0,0,0,0,0,0,0,5,2,3,2,1,1,0,0,0,0,0,0,0,0,0.53,171,38,0,0,0,284,260,4,19
+Mohammed Abdulhakim Al Fatil,26,Professional League,2015/2016,Defender,Al Ahli,574,207,367,Saudi Arabia,8,2,4,1,0,1,0,0,0,1,0,3,1,2,7,3,4,0,0,0.16,0,0.16,0,0.25,574,1.1,82,72,0,0,0,87,206,48,11
+Amiri Kurdi,27,Professional League,2015/2016,Defender,Al Ahli,137,47,90,Saudi Arabia,4,0,1,0,0,0,1,0,1,0,0,1,1,0,2,0,2,0,0,0.66,0.66,0,0,0,0,1.31,69,34,0,137,0,-1,-1,-1,21
+Ali Kharmi,28,Professional League,2015/2016,Forward,Al Raed,331,244,87,Saudi Arabia,7,2,1,0,0,0,0,0,0,0,0,2,2,0,6,5,1,1,0,0,0,0,0,0,0,1.63,55,47,331,0,0.27,285,203,-1,21
+Hamad Muhanna Al Hamad,31,Professional League,2015/2016,Midfielder,Al Raed,559,251,308,Saudi Arabia,15,3,3,2,2,0,0,0,0,0,0,1,1,0,12,4,8,0,0,0.32,0,0.32,0.72,0,280,1.93,47,37,0,0,0,45,204,-1,4
+Mohammed Mohammed Noor Adam Al Hawsawi,40,Professional League,2015/2016,Midfielder,Al Ittihad,170,120,50,Saudi Arabia,7,2,0,0,0,0,0,0,0,0,0,0,0,0,6,5,1,1,0,0,0,0,0,0,0,3.18,28,24,170,0,0.53,-1,-1,-1,20
+Abdulhadi Radan Al Harajan,24,Professional League,2015/2016,Midfielder,Hajer,136,136,0,Saudi Arabia,2,2,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,1,0,0,0,0,0,0,0,1.99,45,68,136,0,0.66,-1,-1,-1,19
+Osama Al Khalaf,21,Professional League,2015/2016,Midfielder,Hajer,1361,535,826,Saudi Arabia,17,6,9,0,0,0,0,0,0,0,0,1,0,1,39,16,23,4,0,0,0,0,0,0,0,2.58,35,80,340,0,0.26,263,149,-1,12
+Abdulaziz Ali Al Bishi,24,Professional League,2015/2016,Midfielder,Al Shabab,256,81,175,Saudi Arabia,10,0,1,1,0,1,1,1,0,0,0,2,1,1,2,0,2,0,0,0.7,0.35,0.35,0,0.51,256,0.7,128,26,0,256,0,-1,-1,-1,8
+Majed Ahmed Al Marshadi,34,Professional League,2015/2016,Defender,Al Shabab,1055,509,546,Saudi Arabia,14,5,6,0,0,0,0,0,0,0,0,4,1,3,10,5,5,1,0,0,0,0,0,0,0,0.85,106,75,1055,0,0.09,213,152,20,19
+Mohammed Eid Al Bishi,31,Professional League,2015/2016,Defender,Al Nassr,938,373,565,Saudi Arabia,13,4,6,1,0,1,0,0,0,0,0,4,1,3,16,6,10,2,0,0.1,0,0.1,0,0.16,938,1.54,59,72,469,0,0.19,114,144,94,14
+Youness Mokhtar,27,Professional League,2015/2016,Forward,Al Nassr,209,54,155,Morocco,7,1,1,0,0,0,0,0,0,0,0,3,2,1,2,0,2,1,0,0,0,0,0,0,0,0.86,105,30,209,0,0.43,-1,-1,-1,21
+Naif Ahmed Taib Hazazi,30,Professional League,2015/2016,Forward,Al Nassr,740,233,507,Saudi Arabia,18,2,6,3,2,1,1,0,1,0,0,6,2,4,13,4,9,0,0,0.49,0.12,0.36,0.77,0.18,247,1.58,57,41,0,740,0,32,84,-1,6
+André Ndamé Ndamé,28,Professional League,2015/2016,Forward,Al Faisaly,1006,630,376,Cameroon,12,7,5,0,0,0,0,0,0,0,0,1,1,0,22,10,12,3,0,0,0,0,0,0,0,1.97,46,84,335,0,0.27,161,147,-1,17
+Ahmed Al Suhail,30,Professional League,2015/2016,Midfielder,Al Taawon,73,31,42,Saudi Arabia,9,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1.23,73,8,0,0,0,-1,-1,-1,13
+Ahmed Al Oufi,26,Professional League,2015/2016,Forward,Al Fateh,271,161,110,Saudi Arabia,9,2,1,0,0,0,1,1,0,0,0,4,3,1,3,1,2,1,0,0.33,0.33,0,0,0,0,1,90,30,271,271,0.33,170,19,-1,14
+Saud Ali Khariri,38,Professional League,2015/2016,Midfielder,Al Hilal,1392,475,917,Saudi Arabia,18,5,11,1,1,0,1,0,1,0,0,9,4,5,11,3,8,5,1,0.13,0.06,0.06,0.19,0,1392,0.71,127,77,278,1392,0.32,141,121,-1,17
+Mohammed Al Qarni,28,Professional League,2015/2016,Midfielder,Al Hilal,252,120,132,Saudi Arabia,5,1,2,0,0,0,0,0,0,0,0,2,2,0,2,0,2,1,0,0,0,0,0,0,0,0.71,126,50,252,0,0.36,-1,-1,-1,22
+Abdullah Mohammed Al Sudairy,26,Professional League,2015/2016,Goalkeeper,Al Hilal,180,90,90,Saudi Arabia,2,1,1,0,0,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,0,2.5,36,90,0,0,0,-1,-1,-1,21
+Zouhaier Dhaouadi,30,Professional League,2015/2016,Midfielder,Al Wahda,566,280,286,Tunisia,12,3,3,2,2,0,0,0,0,0,0,2,2,0,9,3,6,2,0,0.32,0,0.32,0.64,0,283,1.43,63,47,283,0,0.32,44,146,-1,5
+Waleed Mahboob,32,Professional League,2015/2016,Midfielder,Al Wahda,1520,783,737,Saudi Arabia,18,9,8,0,0,0,2,1,1,0,0,4,3,1,19,9,10,2,0,0.12,0.12,0,0,0,0,1.13,80,84,760,760,0.12,160,79,-1,24
+Abdulaziz Falath,32,Professional League,2015/2016,Midfielder,Al Wahda,83,37,46,Saudi Arabia,3,0,1,0,0,0,0,0,0,0,0,1,1,0,2,1,1,0,0,0,0,0,0,0,0,2.17,42,28,0,0,0,-1,-1,-1,28
+Hamad Al Rabaei,37,Professional League,2015/2016,Midfielder,Najran,1211,712,499,Saudi Arabia,20,9,6,2,0,2,3,2,1,0,0,1,1,0,27,14,13,0,0,0.37,0.22,0.15,0,0.36,606,2.01,45,61,0,404,0,91,43,-1,8
+Ahmad Abbas,34,Professional League,2015/2016,Midfielder,Najran,1347,624,723,Saudi Arabia,18,7,8,0,0,0,0,0,0,0,0,0,0,0,30,14,16,8,1,0,0,0,0,0,0,2,45,75,150,0,0.6,178,141,-1,22
+Sari Amro,28,Professional League,2015/2016,Defender,Al Shabab,100,90,10,Saudi Arabia,2,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,-1,-1,-1,17
+Saif Ahmad Saif Al Hashan,28,Professional League,2015/2016,Forward,Al Shabab,103,90,13,Kuwait,2,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,-1,-1,-1,15
+Bouba Aminou,27,Professional League,2015/2016,Defender,Al Khaleej,1625,725,900,Cameroon,19,9,10,3,0,3,0,0,0,2,0,6,2,4,20,10,10,9,2,0.17,0,0.17,0,0.3,542,1.11,81,86,181,0,0.5,84,143,49,2
+Abdulaziz Saleh Al Mutair,25,Professional League,2015/2016,Forward,Al Quadisiya,190,81,109,Saudi Arabia,7,1,0,0,0,0,0,0,0,0,0,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0.95,95,27,0,0,0,-1,-1,-1,18
+Abdulelah Al Amer,28,Professional League,2015/2016,Defender,Al Quadisiya,122,0,122,Saudi Arabia,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1.48,61,61,0,0,0,-1,-1,-1,11
+Wail Hazzazi,25,Professional League,2015/2016,Defender,Al Quadisiya,1133,627,506,Saudi Arabia,15,7,5,1,1,0,0,0,0,0,0,3,1,2,17,11,6,5,1,0.08,0,0.08,0.14,0,1133,1.35,67,76,227,0,0.4,128,140,80,10
+Yahia Al Kabie,31,Professional League,2015/2016,Defender,Al Wahda,1390,638,752,Saudi Arabia,18,7,8,0,0,0,1,0,1,0,0,2,2,0,20,8,12,3,0,0.06,0.06,0,0,0,0,1.29,70,77,463,1390,0.19,173,122,75,27
+Amer Mohammed Haroon,26,Professional League,2015/2016,Defender,Al Wahda,914,405,509,Saudi Arabia,11,5,6,0,0,0,1,1,0,0,0,2,1,1,11,7,4,5,0,0.1,0.1,0,0,0,0,1.08,83,83,183,914,0.49,171,96,44,26
+Modibo Maïga,31,Professional League,2015/2016,Forward,Al Nassr,1265,564,701,Mali,19,7,8,5,1,4,3,1,2,0,0,8,4,4,13,4,9,0,0,0.57,0.21,0.36,0.16,0.51,253,0.92,97,67,0,422,0,31,48,-1,4
+Ahmad Walpi Aqqash,28,Professional League,2015/2016,Defender,Al Nassr,472,161,311,Saudi Arabia,7,2,3,0,0,0,0,0,0,0,0,3,2,1,6,1,5,0,0,0,0,0,0,0,0,1.14,79,67,0,0,0,164,153,53,18
+Aboubacar Tambadou,31,Professional League,2015/2016,Midfielder,Najran,731,513,218,Mali,9,6,2,0,0,0,0,0,0,0,0,1,1,0,12,6,6,2,1,0,0,0,0,0,0,1.48,61,81,244,0,0.37,163,145,-1,21
+Malick Mane,30,Professional League,2015/2016,Forward,Najran,347,175,172,Senegal,8,2,2,0,0,0,0,0,0,0,0,1,1,0,6,2,4,0,0,0,0,0,0,0,0,1.56,58,43,0,0,0,181,151,-1,20
+Jamaan Al Dosari,25,Professional League,2015/2016,Defender,Najran,1117,553,564,Saudi Arabia,14,7,7,0,0,0,0,0,0,0,0,1,1,0,23,6,17,4,0,0,0,0,0,0,0,1.85,49,80,279,0,0.32,175,150,113,16
+Ali Nasser Al Khaibari,28,Professional League,2015/2016,Defender,Najran,1620,810,810,Saudi Arabia,18,9,9,3,1,2,0,0,0,0,0,1,1,0,33,17,16,5,0,0.17,0,0.17,0.11,0.22,540,1.83,49,90,324,0,0.28,82,148,112,4
+Hamdan Al Hamdan,33,Professional League,2015/2016,Midfielder,Al Fateh,1962,927,1035,Saudi Arabia,24,10,12,4,1,3,3,2,1,0,0,7,5,2,20,7,13,2,0,0.32,0.14,0.18,0.1,0.26,491,0.92,98,82,981,654,0.09,80,70,-1,3
+Jean Patrick Gbala,25,Professional League,2015/2016,Forward,Al Fateh,1661,720,941,Mali,20,8,11,0,0,0,0,0,0,0,0,5,3,2,17,6,11,8,0,0,0,0,0,0,0,0.92,98,83,208,0,0.43,208,142,-1,13
+Ali Al Mazidi,33,Professional League,2015/2016,Goalkeeper,Al Fateh,676,450,226,Saudi Arabia,8,5,3,0,0,0,0,0,0,0,0,2,2,0,8,4,4,1,0,0,0,0,0,0,0,1.07,85,85,676,0,0.13,207,156,42,12
+Khaled Al Barakah,27,Professional League,2015/2016,Defender,Hajer,609,457,152,Saudi Arabia,10,5,2,0,0,0,0,0,0,0,0,2,1,1,16,13,3,2,0,0,0,0,0,0,0,2.36,38,61,305,0,0.3,204,181,126,17
+Ahmed Karenshi,30,Professional League,2015/2016,Midfielder,Hajer,815,482,333,Saudi Arabia,14,6,5,0,0,0,1,0,1,0,0,0,0,0,21,14,7,2,0,0.11,0.11,0,0,0,0,2.32,39,58,408,815,0.22,201,89,-1,7
+Ali Muaddi Al Zubaidi,31,Professional League,2015/2016,Midfielder,Hajer,191,90,101,Saudi Arabia,4,1,1,0,0,0,0,0,0,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,0,2.36,38,48,0,0,0,-1,-1,-1,8
+Khaled Razi,36,Professional League,2015/2016,Goalkeeper,Hajer,270,180,90,Saudi Arabia,3,2,1,0,0,0,0,0,0,0,0,0,0,0,8,6,2,0,0,0,0,0,0,0,0,2.67,34,90,0,0,0,-1,-1,-1,9
+Saleh Al Arfag,24,Professional League,2015/2016,Forward,Hajer,613,242,371,Saudi Arabia,11,2,3,0,0,0,0,0,0,0,0,0,0,0,20,9,11,0,0,0,0,0,0,0,0,2.94,31,56,0,0,0,200,183,-1,10
+Fawaz Al Qarni,26,Professional League,2015/2016,Goalkeeper,Al Ittihad,733,450,283,Saudi Arabia,9,5,4,0,0,0,0,0,0,0,0,1,1,0,13,9,4,0,0,0,0,0,0,0,0,1.6,56,81,0,0,0,199,184,100,19
+James Troisi,30,Professional League,2015/2016,Forward,Al Ittihad,577,339,238,Australia,8,4,3,0,0,0,2,1,1,0,0,1,0,1,12,9,3,1,0,0.31,0.31,0,0,0,0,1.87,48,72,577,289,0.16,197,22,-1,13
+Assaf Al Qarni,34,Professional League,2015/2016,Goalkeeper,Al Ittihad,1337,630,707,Saudi Arabia,15,7,7,0,0,0,0,0,0,0,0,5,2,3,16,6,10,1,0,0,0,0,0,0,0,1.08,84,89,1337,0,0.07,184,185,43,17
+Sadat Ouro-Akoriko,30,Professional League,2015/2016,Defender,Al Faisaly,2070,990,1080,Togo,23,11,12,1,0,1,0,0,0,0,0,7,2,5,31,16,15,4,0,0.04,0,0.04,0,0.08,2070,1.35,67,90,518,0,0.17,157,186,79,8
+Mohamed Salim Al Safri,28,Professional League,2015/2016,Midfielder,Al Faisaly,828,360,468,Saudi Arabia,13,4,6,0,0,0,0,0,0,0,0,4,0,4,12,8,4,4,1,0,0,0,0,0,0,1.3,69,64,207,0,0.43,193,187,-1,15
+Javier Ángel Balboa Osa,33,Professional League,2015/2016,Forward,Al Faisaly,2040,1000,1040,Equatorial Guinea,24,12,12,8,4,4,2,1,1,7,1,7,2,5,27,16,11,0,0,0.44,0.09,0.35,0.36,0.35,255,1.19,76,85,0,1020,0,34,104,-1,1
+Hamza Ali Khaled Al Dardoor,27,Professional League,2015/2016,Forward,Al Faisaly,940,417,523,Jordan,11,5,6,2,1,1,1,0,1,0,0,3,0,3,10,6,4,0,0,0.29,0.1,0.19,0.22,0.17,470,0.96,94,85,0,940,0,76,94,-1,5
+Mansour Hamzi,26,Professional League,2015/2016,Forward,Al Faisaly,834,452,382,Saudi Arabia,17,5,4,1,0,1,1,0,1,0,0,5,2,3,17,11,6,0,0,0.22,0.11,0.11,0,0.24,834,1.83,49,49,0,834,0,111,88,-1,10
+Mansour Yahya Al Najei,40,Professional League,2015/2016,Goalkeeper,Al Faisaly,1800,990,810,Saudi Arabia,20,11,9,0,0,0,0,0,0,0,0,5,1,4,30,18,12,0,0,0,0,0,0,0,0,1.5,60,90,0,0,0,189,188,92,14
+Abdullah Fareed Al Hafith,25,Professional League,2015/2016,Defender,Hajer,1106,595,511,Saudi Arabia,14,6,6,0,0,0,0,0,0,0,0,3,2,1,26,12,14,2,1,0,0,0,0,0,0,2.12,43,79,553,0,0.16,188,189,123,13
+Abdullah Abdulkarim Al Shamekh,25,Professional League,2015/2016,Defender,Al Raed,1233,603,630,Saudi Arabia,14,7,7,0,0,0,0,0,0,0,0,1,1,0,22,9,13,1,0,0,0,0,0,0,0,1.61,56,88,1233,0,0.07,186,190,101,20
+Sultan Al Bishi,28,Professional League,2015/2016,Defender,Al Raed,1193,692,501,Saudi Arabia,16,8,6,0,0,0,0,0,0,0,0,2,2,0,16,10,6,3,0,0,0,0,0,0,0,1.21,75,75,398,0,0.23,185,191,64,13
+Sultan Abdullah Al Bargan,35,Professional League,2015/2016,Midfielder,Al Raed,269,143,126,Saudi Arabia,6,2,2,0,0,0,0,0,0,0,0,2,2,0,3,2,1,1,0,0,0,0,0,0,0,1,90,45,269,0,0.33,-1,-1,-1,17
+Bader Al Nakhli,30,Professional League,2015/2016,Defender,Al Fateh,1283,720,563,Saudi Arabia,15,8,6,2,1,1,0,0,0,0,0,5,3,2,15,7,8,5,0,0.14,0,0.14,0.13,0.16,642,1.05,86,86,257,0,0.35,95,182,39,6
+Ahmed Al Mubarak,33,Professional League,2015/2016,Midfielder,Al Fateh,884,364,520,Saudi Arabia,13,4,6,1,0,1,0,0,0,0,0,4,2,2,9,2,7,3,1,0.1,0,0.1,0,0.17,884,0.92,98,68,295,0,0.31,112,192,-1,8
+Omar Al-Mazial,26,Professional League,2015/2016,Midfielder,Al Wahda,367,224,143,Saudi Arabia,5,3,2,0,0,0,0,0,0,0,0,0,0,0,6,4,2,2,1,0,0,0,0,0,0,1.47,61,73,184,0,0.49,182,194,-1,25
+Łukasz Gikiewicz,31,Professional League,2015/2016,Forward,Al Wahda,462,226,236,Poland,8,2,3,0,0,0,0,0,0,0,0,1,1,0,9,4,5,0,0,0,0,0,0,0,0,1.75,51,58,0,0,0,195,195,-1,17
+Abel Issa Camará,28,Professional League,2015/2016,Forward,Al Faisaly,1722,823,899,Guinea-Bissau,20,10,10,3,2,1,0,0,0,0,0,7,2,5,23,11,12,6,1,0.16,0,0.16,0.22,0.1,574,1.2,75,86,287,0,0.31,88,196,-1,4
+Hamad Sulaiman Al Jayzani,25,Professional League,2015/2016,Defender,Al Faisaly,438,127,311,Saudi Arabia,11,1,3,0,0,0,0,0,0,0,0,5,1,4,11,4,7,0,0,0,0,0,0,0,0,2.26,40,40,0,0,0,203,197,124,13
+Abdullah Almohammed,26,Professional League,2015/2016,Midfielder,Al Faisaly,1138,719,419,Saudi Arabia,16,8,5,0,0,0,0,0,0,0,0,4,2,2,18,11,7,1,0,0,0,0,0,0,0,1.42,63,71,1138,0,0.08,205,198,-1,12
+Yaseen Barnawi,25,Professional League,2015/2016,Defender,Al Quadisiya,1890,810,1080,Saudi Arabia,21,9,12,0,0,0,0,0,0,0,0,6,2,4,22,11,11,3,0,0,0,0,0,0,0,1.05,86,90,630,0,0.14,206,199,37,16
+Jhon Cley Jesus Silva,24,Professional League,2015/2016,Midfielder,Al Quadisiya,557,287,270,Brazil,7,4,3,0,0,0,0,0,0,0,0,1,0,1,7,5,2,1,0,0,0,0,0,0,0,1.13,80,80,557,0,0.16,211,200,-1,15
+Diego Maurício Machado de Brito,27,Professional League,2015/2016,Forward,Al Quadisiya,394,268,126,Brazil,5,3,2,0,0,0,1,1,0,0,0,0,0,0,6,5,1,2,0,0.23,0.23,0,0,0,0,1.37,66,79,197,394,0.46,198,41,-1,14
+Faisal Al Khara,24,Professional League,2015/2016,Defender,Al Ittihad,1215,630,585,Saudi Arabia,15,7,8,0,0,0,1,0,1,0,0,4,2,2,21,12,9,3,0,0.07,0.07,0,0,0,0,1.56,58,81,405,1215,0.22,183,118,97,16
+Ahmed Ibrahim Ateef,35,Professional League,2015/2016,Midfielder,Al Shabab,284,90,194,Saudi Arabia,4,1,3,0,0,0,0,0,0,0,0,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0.32,284,71,0,0,0,165,201,-1,14
+Waleed Abdullah Ali,32,Professional League,2015/2016,Goalkeeper,Al Shabab,410,180,230,Saudi Arabia,5,2,2,0,0,0,0,0,0,0,0,0,0,0,9,1,8,0,0,0,0,0,0,0,0,1.98,46,82,0,0,0,166,202,116,13
+Abdullah Ibrahim Al Maiouf,31,Professional League,2015/2016,Goalkeeper,Al Ahli,360,180,180,Saudi Arabia,4,2,2,0,0,0,0,0,0,0,0,1,0,1,5,3,2,0,0,0,0,0,0,0,0,1.25,72,90,0,0,0,167,155,71,22
+Abdullah Moutlaq Al Enazi,28,Professional League,2015/2016,Goalkeeper,Al Nassr,753,303,450,Saudi Arabia,9,3,5,0,0,0,0,0,0,0,0,2,1,1,15,3,12,0,0,0,0,0,0,0,0,1.79,50,84,0,0,0,168,193,111,17
+Hussein Omar Abdul Ghani Sulaimani,41,Professional League,2015/2016,Defender,Al Nassr,1620,810,810,Saudi Arabia,18,9,9,0,0,0,1,0,1,0,0,5,2,3,26,11,15,8,0,0.06,0.06,0,0,0,0,1.44,62,90,203,1620,0.44,180,125,89,16
+Hassan Al Raheb,35,Professional League,2015/2016,Forward,Al Nassr,713,309,404,Saudi Arabia,17,3,3,4,3,1,2,1,1,0,0,4,1,3,15,4,11,2,0,0.76,0.25,0.5,0.87,0.22,178,1.89,48,42,357,357,0.25,18,34,-1,5
+Abdullah Haif Al Shammari,25,Professional League,2015/2016,Defender,Al Taawon,290,109,181,Saudi Arabia,7,1,2,0,0,0,1,1,0,0,0,1,1,0,2,1,1,0,0,0.31,0.31,0,0,0,0,0.62,145,41,0,290,0,179,21,6,12
+Abdullah Dawsh,30,Professional League,2015/2016,Defender,Al Quadisiya,82,82,0,Saudi Arabia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1.1,82,82,82,0,1.1,-1,-1,-1,13
+Kamil Zayatte,33,Professional League,2015/2016,Defender,Al Raed,469,109,360,Guinea,6,2,4,0,0,0,0,0,0,0,0,1,1,0,9,3,6,0,0,0,0,0,0,0,0,1.73,52,78,0,0,0,176,180,108,15
+Abdulrahman Al Shammari,29,Professional League,2015/2016,Defender,Al Nassr,90,90,0,Saudi Arabia,2,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,1,90,45,90,0,1,-1,-1,-1,15
+Bader Mansoor Al Sulaiteen,28,Professional League,2015/2016,Midfielder,Al Shabab,717,348,369,Saudi Arabia,12,4,4,2,2,0,0,0,0,0,0,3,1,2,12,4,8,2,0,0.25,0,0.25,0.52,0,359,1.51,60,60,359,0,0.25,61,168,-1,6
+Majed Aseri,27,Professional League,2015/2016,Defender,Al Raed,127,108,19,Saudi Arabia,4,1,0,0,0,0,0,0,0,0,0,2,2,0,1,0,1,0,0,0,0,0,0,0,0,0.71,127,32,0,0,0,-1,-1,-1,14
+Abdulsalam Al Shereaf,29,Professional League,2015/2016,Defender,Al Raed,269,169,100,Saudi Arabia,5,1,1,0,0,0,0,0,0,0,0,2,2,0,3,0,3,0,0,0,0,0,0,0,0,1,90,54,0,0,0,-1,-1,-1,18
+Salem Mohammed Al Dawsari,27,Professional League,2015/2016,Midfielder,Al Hilal,1093,602,491,Saudi Arabia,14,7,5,3,1,2,2,2,0,0,0,8,4,4,7,3,4,0,0,0.41,0.16,0.25,0.15,0.37,364,0.58,156,78,0,547,0,58,63,-1,6
+Nasser Ali Al Shamrani,34,Professional League,2015/2016,Forward,Al Hilal,624,352,272,Saudi Arabia,15,3,2,4,4,0,1,1,0,0,0,8,4,4,5,3,2,1,0,0.72,0.14,0.58,1.02,0,156,0.72,125,42,624,624,0.14,13,72,-1,5
+Abdulkarim Ayidh Al Qahtani,25,Professional League,2015/2016,Midfielder,Al Hilal,90,90,0,Saudi Arabia,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,18
+Fawaz Al Sagourq,22,Professional League,2015/2016,Midfielder,Najran,141,0,141,Saudi Arabia,3,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1.28,71,47,0,0,0,-1,-1,-1,17
+Abdul Wahab Jafar,25,Professional League,2015/2016,Midfielder,Al Shabab,382,179,203,Saudi Arabia,11,1,2,0,0,0,3,2,1,0,0,1,0,1,3,1,2,0,0,0.71,0.71,0,0,0,0,0.71,127,35,0,127,0,169,1,-1,12
+Abdullah Dawshi,25,Professional League,2015/2016,Midfielder,Al Fateh,118,90,28,Saudi Arabia,7,1,0,0,0,0,0,0,0,0,0,2,2,0,4,2,2,0,0,0,0,0,0,0,0,3.05,30,17,0,0,0,-1,-1,-1,11
+Abdulaziz Alquseer,24,Professional League,2015/2016,Forward,Al Raed,209,90,119,Saudi Arabia,5,1,0,0,0,0,0,0,0,0,0,2,2,0,3,0,3,2,0,0,0,0,0,0,0,1.29,70,42,105,0,0.86,-1,-1,-1,16
+Yasser Saeed Al Qahtani,36,Professional League,2015/2016,Forward,Al Hilal,313,235,78,Saudi Arabia,12,2,0,6,5,1,1,1,0,1,0,6,3,3,1,1,0,1,0,2.01,0.29,1.73,1.91,1.15,52,0.29,313,26,313,313,0.29,1,25,-1,3
+Ali Faraj Al Zubaidi,25,Professional League,2015/2016,Defender,Al Ahli,874,514,360,Saudi Arabia,10,6,4,1,0,1,1,1,0,0,0,3,1,2,10,7,3,0,0,0.21,0.1,0.1,0,0.25,874,1.03,87,87,0,874,0,115,99,34,10
+Motaz Tombakti,24,Professional League,2015/2016,Midfielder,Al Wahda,548,322,226,Saudi Arabia,7,4,3,0,0,0,0,0,0,0,0,2,2,0,9,2,7,1,0,0,0,0,0,0,0,1.48,61,78,548,0,0.16,177,179,-1,23
+Saleh Mohammed Al Jamaan,25,Professional League,2015/2016,Forward,Al Ahli,195,105,90,Saudi Arabia,7,0,1,0,0,0,0,0,0,0,0,2,2,0,3,1,2,0,0,0,0,0,0,0,0,1.38,65,28,0,0,0,-1,-1,-1,23
+Alaa Hejji,22,Professional League,2015/2016,Midfielder,Al Khaleej,329,173,156,Saudi Arabia,9,2,2,0,0,0,1,0,1,0,0,3,1,2,4,3,1,0,0,0.27,0.27,0,0,0,0,1.09,82,37,0,329,0,174,31,-1,16
+Ahmed Al Nazera,25,Professional League,2015/2016,Midfielder,Al Ittihad,466,279,187,Saudi Arabia,10,3,1,1,0,1,0,0,0,0,0,4,2,2,7,6,1,1,0,0.19,0,0.19,0,0.48,466,1.35,67,47,466,0,0.19,74,158,-1,9
+Gosay Saad Al Shelali,24,Professional League,2015/2016,Forward,Al Ittihad,569,323,246,Saudi Arabia,9,5,3,0,0,0,0,0,0,0,0,1,1,0,9,4,5,4,1,0,0,0,0,0,0,1.42,63,63,142,0,0.63,196,159,-1,14
+Fahad Salem Al Doseri,28,Professional League,2015/2016,Forward,Al Quadisiya,180,65,115,Saudi Arabia,4,1,1,0,0,0,0,0,0,0,0,1,0,1,2,1,1,1,0,0,0,0,0,0,0,1,90,45,180,0,0.5,-1,-1,-1,12
+Abdulmuhsen Fallatah,24,Professional League,2015/2016,Defender,Al Wahda,1620,900,720,Saudi Arabia,18,10,8,0,0,0,0,0,0,0,0,7,4,3,19,9,10,2,0,0,0,0,0,0,0,1.06,85,90,810,0,0.11,194,160,40,12
+Mansour Althaqfi Al Harbi,31,Professional League,2015/2016,Defender,Al Ahli,720,450,270,Saudi Arabia,8,5,3,2,2,0,1,1,0,0,0,2,0,2,9,8,1,0,0,0.38,0.13,0.25,0.4,0,360,1.13,80,90,0,720,0,59,75,52,6
+Nasser Alojail,21,Professional League,2015/2016,Midfielder,Hajer,192,160,32,Saudi Arabia,5,1,0,0,0,0,0,0,0,0,0,0,0,0,6,5,1,1,0,0,0,0,0,0,0,2.81,32,38,192,0,0.47,-1,-1,-1,14
+Abdullah Ibrahim Otayf,26,Professional League,2015/2016,Midfielder,Al Hilal,710,364,346,Saudi Arabia,12,6,4,0,0,0,0,0,0,0,0,6,3,3,3,2,1,1,0,0,0,0,0,0,0,0.38,237,59,710,0,0.13,191,161,-1,19
+Ziyad Al Sahafi,24,Professional League,2015/2016,Defender,Al Ittihad,1123,598,525,Saudi Arabia,14,7,6,1,0,1,0,0,0,0,0,5,2,3,12,6,6,3,0,0.08,0,0.08,0,0.17,1123,0.96,94,80,374,0,0.24,125,162,26,12
+Ahmed Mohammed Al Fraidi,30,Professional League,2015/2016,Midfielder,Al Nassr,431,321,110,Saudi Arabia,10,4,1,1,1,0,1,1,0,0,0,1,1,0,12,8,4,1,0,0.42,0.21,0.21,0.28,0,431,2.51,36,43,431,431,0.21,67,47,-1,13
+Abdullah Alsubaey,24,Professional League,2015/2016,Midfielder,Al Shabab,180,180,0,Saudi Arabia,4,2,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0.5,180,45,180,0,0.5,-1,-1,-1,11
+Abdullah Al Araaf,23,Professional League,2015/2016,Goalkeeper,Al Wahda,900,540,360,Saudi Arabia,10,6,4,0,0,0,0,0,0,0,0,3,2,1,11,8,3,0,0,0,0,0,0,0,0,1.1,82,90,0,0,0,210,163,47,13
+Ahmad Saad,33,Professional League,2015/2016,Midfielder,Al Wahda,612,432,180,Saudi Arabia,7,5,2,0,0,0,0,0,0,0,0,3,2,1,7,6,1,1,0,0,0,0,0,0,0,1.03,87,87,612,0,0.15,187,164,-1,14
+Ibrahim Mohammed Ghaleb Jahshan,28,Professional League,2015/2016,Midfielder,Al Nassr,620,368,252,Saudi Arabia,8,4,3,1,1,0,0,0,0,0,0,2,1,1,8,3,5,3,0,0.15,0,0.15,0.24,0,620,1.16,78,78,207,0,0.44,93,165,-1,9
+Adama François Sene,28,Professional League,2015/2016,Defender,Hajer,1080,540,540,Senegal,12,6,6,0,0,0,0,0,0,0,0,2,1,1,24,10,14,2,0,0,0,0,0,0,0,2,45,90,540,0,0.17,190,166,117,15
+Bruno Da Silva Lopes,32,Professional League,2015/2016,Midfielder,Hajer,847,525,322,Brazil,12,6,3,2,2,0,1,0,1,1,1,2,1,1,14,8,6,1,0,0.32,0.11,0.21,0.34,0,424,1.49,61,71,847,847,0.11,66,90,-1,3
+Zakaria Sami Al Sudani,26,Professional League,2015/2016,Midfielder,Hajer,617,327,290,Saudi Arabia,9,4,4,0,0,0,0,0,0,0,0,2,1,1,7,3,4,2,0,0,0,0,0,0,0,1.02,88,69,309,0,0.29,192,157,-1,16
+Ashraf Nu'man Al Fawaghra,32,Professional League,2015/2016,Forward,Hajer,963,513,450,Palestine,12,6,5,2,0,2,0,0,0,0,0,2,1,1,18,8,10,0,0,0.19,0,0.19,0,0.4,482,1.68,54,80,0,0,0,77,167,-1,2
+Marcos Gabriel do Nascimento,28,Professional League,2015/2016,Midfielder,Al Nassr,424,238,186,Brazil,7,3,2,2,1,1,0,0,0,0,0,2,1,1,6,2,4,2,0,0.42,0,0.42,0.38,0.48,212,1.27,71,61,212,0,0.42,24,169,-1,8
+Muteb Al-Mutlaq,20,Professional League,2015/2016,Defender,Al Nassr,180,90,90,Saudi Arabia,2,1,1,0,0,0,1,0,1,0,0,1,0,1,1,1,0,0,0,0.5,0.5,0,0,0,0,0.5,180,90,0,180,0,-1,-1,-1,30
+Hatim Belal,24,Professional League,2015/2016,Defender,Al Wahda,724,307,417,Saudi Arabia,10,3,5,1,0,1,0,0,0,0,0,2,1,1,10,6,4,6,0,0.12,0,0.12,0,0.22,724,1.24,72,72,121,0,0.75,103,170,68,10
+Ernest Webnje N'For,32,Professional League,2015/2016,Forward,Al Wahda,705,435,270,Cameroon,8,5,3,3,2,1,0,0,0,0,0,2,1,1,8,6,2,4,1,0.38,0,0.38,0.41,0.33,235,1.02,88,88,176,0,0.51,29,171,-1,3
+Ali Al Zaqan,27,Professional League,2015/2016,Forward,Al Wahda,813,366,447,Saudi Arabia,11,5,6,0,0,0,4,0,4,0,0,2,1,1,12,7,5,3,0,0.44,0.44,0,0,0,0,1.33,68,74,271,203,0.33,202,8,-1,16
+Anderson Pereira de Oliveira,29,Professional League,2015/2016,Forward,Al Wahda,180,73,107,Brazil,6,1,2,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.5,60,30,0,0,0,-1,-1,-1,18
+Mansour Al-Najar,23,Professional League,2015/2016,Midfielder,Al Wahda,552,270,282,Saudi Arabia,7,3,3,0,0,0,1,1,0,0,0,2,1,1,4,2,2,1,0,0.16,0.16,0,0,0,0,0.65,138,79,552,552,0.16,209,65,-1,19
+Marcos Piñeiro Pizzelli,34,Professional League,2015/2016,Midfielder,Al Raed,1116,576,540,Armenia,13,6,6,4,1,3,6,4,2,2,1,1,1,0,21,8,13,3,0,0.81,0.48,0.32,0.16,0.5,279,1.69,53,86,372,186,0.24,40,6,-1,3
+Ismaël Bangoura,33,Professional League,2015/2016,Forward,Al Raed,1004,514,490,Guinea,13,6,6,7,4,3,0,0,0,0,0,1,1,0,21,8,13,0,0,0.63,0,0.63,0.7,0.55,143,1.88,48,77,0,0,0,11,172,-1,2
+Boubacar Djeidy Kébé,31,Professional League,2015/2016,Forward,Al Raed,304,218,86,Burkina Faso,7,3,1,1,1,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0.3,0,0.3,0.41,0,304,0.59,152,43,304,0,0.3,48,173,-1,9
+Fernando Camilo Farias,32,Professional League,2015/2016,Midfielder,Al Shabab,651,373,278,Brazil,9,5,4,0,0,0,0,0,0,0,0,2,1,1,12,5,7,0,0,0,0,0,0,0,0,1.66,54,72,0,0,0,162,174,-1,16
+Mohamed Benyettou,29,Professional League,2015/2016,Forward,Al Shabab,1170,540,630,Algeria,13,6,7,6,3,3,1,0,1,0,0,3,1,2,16,6,10,0,0,0.54,0.08,0.46,0.5,0.43,195,1.23,73,90,0,1170,0,21,112,-1,1
+Antonio Adriano Antunes de Paula,31,Professional League,2015/2016,Forward,Al Faisaly,1040,604,436,Brazil,12,7,5,3,3,0,1,1,0,0,0,4,2,2,15,10,5,4,0,0.35,0.09,0.26,0.45,0,347,1.3,69,87,260,1040,0.35,55,109,-1,3
+Vitor Silva Assis de Oliveira,32,Professional League,2015/2016,Midfielder,Al Quadisiya,862,359,503,Brazil,12,4,7,1,1,0,0,0,0,0,0,4,1,3,9,4,5,1,0,0.1,0,0.1,0.25,0,862,0.94,96,72,862,0,0.1,117,175,-1,6
+Gilberto Macena,34,Professional League,2015/2016,Forward,Al Quadisiya,886,445,441,Brazil,12,6,6,2,1,1,1,1,0,0,0,5,2,3,9,5,4,2,1,0.3,0.1,0.2,0.2,0.2,443,0.91,98,74,295,886,0.3,70,95,-1,4
+Jandson Dos Santos,32,Professional League,2015/2016,Forward,Al Quadisiya,668,245,423,Brazil,9,2,5,5,1,4,0,0,0,0,0,3,1,2,8,3,5,3,0,0.67,0,0.67,0.37,0.85,134,1.08,84,74,223,0,0.4,9,176,-1,2
+Marco Antônio De Mattos Filho,32,Professional League,2015/2016,Forward,Al Ahli,645,281,364,Brazil,13,3,4,1,0,1,2,1,1,0,0,3,0,3,9,5,4,0,0,0.42,0.28,0.14,0,0.25,645,1.26,72,50,0,323,0,96,29,-1,9
+Juan Manuel Falcón Jiménez,29,Professional League,2015/2016,Forward,Al Fateh,629,246,383,Venezuela,11,2,5,2,1,1,1,0,1,0,0,3,2,1,5,1,4,3,0,0.43,0.14,0.29,0.37,0.23,315,0.72,126,57,210,629,0.43,49,73,-1,4
+Abdoulaye Koffi,26,Professional League,2015/2016,Forward,Al Khaleej,515,223,292,Côte d'Ivoire,11,2,3,1,1,0,0,0,0,0,0,1,0,1,8,3,5,1,0,0.17,0,0.17,0.4,0,515,1.4,64,47,515,0,0.17,83,177,-1,7
+Adriano Alves dos Santos,33,Professional League,2015/2016,Defender,Najran,1170,540,630,Brazil,13,6,7,3,2,1,1,0,1,0,0,0,0,0,27,14,13,2,0,0.31,0.08,0.23,0.33,0.14,390,2.08,43,90,585,1170,0.15,62,114,122,5
+Motaz Sidiq Al Musa,31,Professional League,2015/2016,Midfielder,Najran,1059,442,617,Saudi Arabia,13,6,7,1,1,0,0,0,0,0,0,0,0,0,24,11,13,2,0,0.08,0,0.08,0.2,0,1059,2.04,44,81,530,0,0.17,129,178,-1,10
+Eric De Oliveira Pereira,32,Professional League,2015/2016,Midfielder,Najran,999,432,567,Brazil,12,5,7,4,4,0,7,5,2,2,0,0,0,0,21,10,11,4,0,0.99,0.63,0.36,0.83,0,250,1.89,48,83,250,143,0.36,33,3,-1,3
+Mohsen Al Eisa,32,Professional League,2015/2016,Midfielder,Najran,461,183,278,Saudi Arabia,10,2,4,0,0,0,1,1,0,0,0,0,0,0,9,5,4,3,1,0.2,0.2,0,0,0,0,1.76,51,46,115,461,0.78,172,50,-1,15
+Bismark de Araújo Ferreira,25,Professional League,2015/2016,Forward,Najran,1124,540,584,Brazil,13,6,6,7,2,5,3,0,3,0,0,0,0,0,26,14,12,2,0,0.8,0.24,0.56,0.33,0.77,161,2.08,43,86,562,375,0.16,14,39,-1,1
+Welliton De Moraes Coimbra,33,Professional League,2015/2016,Forward,Najran,1001,457,544,Brazil,13,5,6,5,2,3,5,3,2,0,0,0,0,0,25,13,12,1,0,0.9,0.45,0.45,0.39,0.5,200,2.25,40,77,1001,200,0.09,22,7,-1,2
+Azzan Mqbol,34,Professional League,2015/2016,Defender,Najran,66,0,66,Saudi Arabia,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.36,66,33,0,0,0,-1,-1,-1,30
+Zamil Al Sulim,29,Professional League,2015/2016,Forward,Al Wahda,115,0,115,Saudi Arabia,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.78,115,38,0,0,0,-1,-1,-1,20
+Rayan Al Bogami,26,Professional League,2015/2016,Midfielder,Al Wahda,140,90,50,Saudi Arabia,3,1,0,0,0,0,1,0,1,0,0,1,0,1,3,2,1,1,0,0.64,0.64,0,0,0,0,1.93,47,47,140,140,0.64,-1,-1,-1,21
+Mohammed Sharifi,39,Professional League,2015/2016,Goalkeeper,Al Wahda,360,180,180,Saudi Arabia,4,2,2,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,312,312,28,22
+Basem Al Muntasheri,28,Professional League,2015/2016,Defender,Al Ittihad,217,90,127,Saudi Arabia,3,1,1,0,0,0,0,0,0,0,0,0,0,0,7,5,2,1,0,0,0,0,0,0,0,2.9,31,72,217,0,0.41,-1,-1,-1,15
+Yahya Kharmi,20,Professional League,2015/2016,Midfielder,Al Ittihad,115,25,90,Saudi Arabia,3,0,1,0,0,0,0,0,0,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,0,3.13,29,38,0,0,0,-1,-1,-1,27
+Abdullah Al Saman,24,Professional League,2015/2016,Midfielder,Al Taawon,61,61,0,Saudi Arabia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1.48,61,61,0,0,0,-1,-1,-1,21
+Mohammed Al Mutawa,24,Professional League,2015/2016,Midfielder,Al Khaleej,59,0,59,Saudi Arabia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.53,59,59,0,0,0,-1,-1,-1,24
+Mohamed Alotaibi,25,Professional League,2015/2016,Midfielder,Al Wahda,82,0,82,Saudi Arabia,3,0,1,1,0,1,0,0,0,0,0,1,0,1,1,0,1,1,0,1.1,0,1.1,0,1.1,82,1.1,82,27,82,0,1.1,-1,-1,-1,7
+Fahad Ghazi Zahim,24,Professional League,2015/2016,Defender,Al Hilal,116,116,0,Saudi Arabia,2,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,58,116,0,0.78,-1,-1,-1,27
+Omar Salman Al Suhaymi,25,Professional League,2015/2016,Midfielder,Al Faisaly,53,0,53,Saudi Arabia,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,-1,-1,-1,28
+Sultan Al-Johani,26,Professional League,2015/2016,Defender,Al Wahda,90,0,90,Saudi Arabia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,39
+Saleh Al Saeed,24,Professional League,2015/2016,Midfielder,Hajer,90,90,0,Saudi Arabia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,31

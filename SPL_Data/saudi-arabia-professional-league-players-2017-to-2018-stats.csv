@@ -1,0 +1,362 @@
+full_name,age,league,season,position,Current Club,minutes_played_overall,minutes_played_home,minutes_played_away,nationality,appearances_overall,appearances_home,appearances_away,goals_overall,goals_home,goals_away,assists_overall,assists_home,assists_away,penalty_goals,penalty_misses,clean_sheets_overall,clean_sheets_home,clean_sheets_away,conceded_overall,conceded_home,conceded_away,yellow_cards_overall,red_cards_overall,goals_involved_per_90_overall,assists_per_90_overall,goals_per_90_overall,goals_per_90_home,goals_per_90_away,min_per_goal_overall,conceded_per_90_overall,min_per_conceded_overall,min_per_match,min_per_card_overall,min_per_assist_overall,cards_per_90_overall,rank_in_league_top_attackers,rank_in_league_top_midfielders,rank_in_league_top_defenders,rank_in_club_top_scorer
+Abdullah Hussain Al Oaisher,27,Professional League,2017/2018,Goalkeeper,Al Fateh,180,90,90,Saudi Arabia,2,1,1,0,0,0,0,0,0,0,0,0,0,0,8,4,4,0,0,0,0,0,0,0,0,4,23,90,0,0,0,-1,-1,-1,22
+Abdullah Mubarak Al Dawsari,28,Professional League,2017/2018,Defender,Al Fateh,320,180,140,Saudi Arabia,5,2,1,0,0,0,0,0,0,0,0,1,0,1,9,6,3,3,0,0,0,0,0,0,0,2.53,36,64,107,0,0.84,170,177,106,12
+Majed Hazazi,30,Professional League,2017/2018,Defender,Al Fateh,790,386,404,Saudi Arabia,13,4,4,0,0,0,1,1,0,0,0,4,3,1,15,7,8,3,0,0.11,0.11,0,0,0,0,1.71,53,61,263,790,0.34,218,90,84,21
+Ahmed Mohammed Sharahili,24,Professional League,2017/2018,Defender,Al Fateh,1522,802,720,Saudi Arabia,17,9,8,0,0,0,1,1,0,0,0,6,3,3,22,13,9,3,0,0.06,0.06,0,0,0,0,1.3,69,90,507,1522,0.18,195,117,49,18
+Mohammed Alfehaid,28,Professional League,2017/2018,Midfielder,Al Fateh,1582,883,699,Saudi Arabia,18,10,8,0,0,0,0,0,0,0,0,6,3,3,27,16,11,6,0,0,0,0,0,0,0,1.54,59,88,264,0,0.34,196,201,-1,13
+Abdelkader Oueslati Kaabi,27,Professional League,2017/2018,Midfielder,Al Fateh,1216,675,541,Tunisia,15,8,7,5,3,2,1,0,1,2,1,4,2,2,23,15,8,2,1,0.44,0.07,0.37,0.4,0.33,243,1.7,53,81,608,1216,0.15,34,112,-1,2
+Nouh Al mousa,27,Professional League,2017/2018,Midfielder,Al Fateh,1063,613,450,Saudi Arabia,12,7,5,0,0,0,2,1,1,0,0,5,3,2,13,8,5,3,0,0.17,0.17,0,0,0,0,1.1,82,89,354,532,0.25,197,55,-1,11
+Abdullah Khalid Al Ammar,24,Professional League,2017/2018,Midfielder,Al Fateh,1318,720,598,Saudi Arabia,15,8,6,0,0,0,0,0,0,0,0,5,3,2,21,11,10,3,0,0,0,0,0,0,0,1.43,63,88,439,0,0.2,198,202,-1,10
+Riyadh Sharahili,25,Professional League,2017/2018,Midfielder,Al Fateh,751,306,445,Saudi Arabia,15,3,5,0,0,0,1,0,1,0,0,5,2,3,20,12,8,0,0,0.12,0.12,0,0,0,0,2.4,38,50,0,751,0,199,81,-1,9
+Hamad Al Juhaim,31,Professional League,2017/2018,Forward,Al Fateh,381,223,158,Saudi Arabia,14,2,1,1,1,0,0,0,0,0,0,5,3,2,8,7,1,2,0,0.24,0,0.24,0.4,0,381,1.89,48,27,191,0,0.47,52,203,-1,5
+Ali Al Zaqan,27,Professional League,2017/2018,Forward,Al Fateh,1309,651,658,Saudi Arabia,16,8,8,5,3,2,2,1,1,0,1,6,3,3,22,12,10,3,1,0.48,0.14,0.34,0.41,0.27,262,1.51,60,82,436,655,0.21,38,69,-1,3
+Saith Sakala,22,Professional League,2017/2018,Midfielder,Al Fateh,1169,593,576,Zambia,16,7,7,2,0,2,0,0,0,0,0,5,3,2,16,8,8,1,0,0.15,0,0.15,0,0.31,585,1.23,73,73,1169,0,0.08,77,204,-1,4
+Sandro Manoel Dos Santos,30,Professional League,2017/2018,Midfielder,Al Fateh,1565,845,720,Brazil,18,9,8,1,1,0,2,1,1,0,0,6,3,3,24,15,9,3,0,0.17,0.12,0.06,0.11,0,1565,1.38,65,87,522,783,0.17,118,80,-1,7
+Mohamed Ali Yacoubi,28,Professional League,2017/2018,Defender,Al Fateh,572,270,302,Tunisia,7,3,4,0,0,0,0,0,0,0,0,0,0,0,13,7,6,1,0,0,0,0,0,0,0,2.05,44,82,572,0,0.16,200,205,101,14
+Abdullah Al Yousif,21,Professional League,2017/2018,Defender,Al Fateh,146,90,56,Saudi Arabia,3,1,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,1,0,0,0,0,0,0,0,3.08,29,49,146,0,0.62,-1,-1,-1,15
+Mohammed Al Majhad,20,Professional League,2017/2018,Midfielder,Al Fateh,96,32,64,Saudi Arabia,6,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,3.75,24,16,0,0,0,-1,-1,-1,16
+Essam Kamal Tawfik El Hadary,45,Professional League,2017/2018,Goalkeeper,Al Taawon,1710,900,810,Egypt,19,10,9,1,1,0,0,0,0,1,0,5,5,0,22,10,12,1,0,0.05,0,0.05,0.1,0,1710,1.16,78,90,1710,0,0.05,121,206,30,12
+Ricardo Jorge Tavares Machado,30,Professional League,2017/2018,Defender,Al Taawon,841,391,450,Portugal,11,4,5,2,2,0,1,0,1,0,0,4,4,0,13,6,7,1,0,0.32,0.11,0.21,0.46,0,421,1.39,65,76,841,841,0.11,58,89,55,6
+Ibrahim Al Zubaidi,29,Professional League,2017/2018,Defender,Al Taawon,1040,614,426,Saudi Arabia,13,7,5,0,0,0,0,0,0,0,0,4,4,0,12,7,5,4,0,0,0,0,0,0,0,1.04,87,80,260,0,0.35,201,207,18,20
+Talal Alabsi,25,Professional League,2017/2018,Defender,Al Taawon,90,0,90,Saudi Arabia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,17
+Mostafa Fathi,24,Professional League,2017/2018,Defender,Al Taawon,471,280,191,Egypt,8,3,2,5,4,1,1,1,0,0,0,2,2,0,9,6,3,0,0,1.15,0.19,0.96,1.29,0.47,94,1.72,52,59,0,471,0,3,49,85,2
+Jehad Fadel Al Hussain,36,Professional League,2017/2018,Midfielder,Al Taawon,1505,871,634,Syria,18,10,7,1,0,1,9,6,3,0,0,5,5,0,19,10,9,2,0,0.6,0.54,0.06,0,0.14,1505,1.14,79,84,753,167,0.12,120,3,-1,14
+Madallah Alolayan,24,Professional League,2017/2018,Midfielder,Al Taawon,1004,554,450,Saudi Arabia,14,6,5,0,0,0,0,0,0,0,0,5,5,0,11,6,5,2,0,0,0,0,0,0,0,0.99,91,72,502,0,0.18,202,200,-1,16
+Ryan Al Mousa,24,Professional League,2017/2018,Midfielder,Al Taawon,1454,788,666,Saudi Arabia,17,9,8,0,0,0,2,2,0,0,0,5,5,0,20,8,12,4,0,0.12,0.12,0,0,0,0,1.24,73,86,364,727,0.25,194,84,-1,15
+Abdulmajeed Abdullah Al-Swat,23,Professional League,2017/2018,Midfielder,Al Taawon,1231,646,585,Saudi Arabia,17,7,6,5,3,2,1,1,0,0,0,4,4,0,16,10,6,1,0,0.44,0.07,0.37,0.42,0.31,246,1.17,77,72,1231,1231,0.07,32,109,-1,1
+Cedric Amissi,28,Professional League,2017/2018,Forward,Al Taawon,1620,810,810,Burundi,18,9,9,5,1,4,0,0,0,0,0,5,5,0,20,8,12,5,0,0.28,0,0.28,0.11,0.44,324,1.11,81,90,324,0,0.28,44,208,-1,3
+Al-Hadji Kamara,24,Professional League,2017/2018,Forward,Al Taawon,898,519,379,Sierra Leone,14,7,4,5,4,1,1,0,1,0,0,4,4,0,11,6,5,1,0,0.6,0.1,0.5,0.69,0.24,180,1.1,82,64,898,898,0.1,18,95,-1,4
+Saeed Mohammed Al Dosari,28,Professional League,2017/2018,Midfielder,Al Taawon,924,596,328,Saudi Arabia,15,7,4,1,0,1,1,1,0,0,0,4,4,0,9,5,4,1,0,0.19,0.1,0.1,0,0.27,924,0.88,103,62,924,924,0.1,97,98,-1,13
+Naif Mousa,31,Professional League,2017/2018,Defender,Al Taawon,953,479,474,Saudi Arabia,17,5,5,1,1,0,1,1,0,0,0,4,4,0,13,4,9,1,0,0.19,0.09,0.09,0.19,0,953,1.23,73,56,953,953,0.09,102,103,38,11
+Abdulaziz Al Sharid,24,Professional League,2017/2018,Midfielder,Ohod,142,80,62,Saudi Arabia,4,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,-1,-1,-1,28
+Abdullah Haif Al Shammari,25,Professional League,2017/2018,Defender,Al Taawon,1260,630,630,Saudi Arabia,14,7,7,1,1,0,0,0,0,0,0,3,3,0,18,8,10,2,0,0.07,0,0.07,0.14,0,1260,1.29,70,90,630,0,0.14,110,210,42,10
+Ismael Mohammedjammui Al Maghrabi,27,Professional League,2017/2018,Forward,Al Taawon,452,193,259,Saudi Arabia,11,1,3,1,0,1,0,0,0,0,0,2,2,0,7,3,4,1,0,0.2,0,0.2,0,0.35,452,1.39,65,41,452,0,0.2,60,211,-1,9
+Jufain Ali Al Bishi,31,Professional League,2017/2018,Defender,Al Taawon,1295,720,575,Saudi Arabia,15,8,6,2,1,1,1,0,1,1,0,4,4,0,15,6,9,2,0,0.21,0.07,0.14,0.13,0.16,648,1.04,86,86,648,1295,0.14,82,107,19,8
+Abdullah Ibrahim Al Maiouf,31,Professional League,2017/2018,Goalkeeper,Al Hilal,810,270,540,Saudi Arabia,9,3,6,0,0,0,0,0,0,0,0,3,2,1,9,1,8,0,0,0,0,0,0,0,0,1,90,90,0,0,0,203,212,17,16
+Osama Abdulrezag Hawsawi,34,Professional League,2017/2018,Defender,Al Hilal,1103,406,697,Saudi Arabia,13,5,8,0,0,0,0,0,0,0,0,4,2,2,10,2,8,2,0,0,0,0,0,0,0,0.82,110,85,552,0,0.16,205,213,6,25
+Yasir Gharsan Al Shahrani,26,Professional League,2017/2018,Defender,Al Hilal,1260,540,720,Saudi Arabia,14,6,8,2,1,1,2,0,2,0,0,4,2,2,13,4,9,2,0,0.29,0.14,0.14,0.17,0.13,630,0.93,97,90,630,630,0.14,83,67,12,5
+Abdullah Fareed Al Hafith,25,Professional League,2017/2018,Defender,Al Hilal,893,603,290,Saudi Arabia,12,7,3,2,2,0,0,0,0,0,0,2,2,0,11,5,6,2,0,0.2,0,0.2,0.3,0,447,1.11,81,74,447,0,0.2,59,214,26,6
+Mohammed Al Burayk,26,Professional League,2017/2018,Defender,Al Hilal,1138,530,608,Saudi Arabia,13,6,7,1,0,1,1,1,0,0,0,4,1,3,11,5,6,2,0,0.16,0.08,0.08,0,0.15,1138,0.87,103,88,569,1138,0.16,104,104,9,8
+Carlos Eduardo de Oliveira Alves,29,Professional League,2017/2018,Midfielder,Al Hilal,700,430,270,Brazil,8,5,3,6,2,4,0,0,0,1,0,1,1,0,9,4,5,1,0,0.77,0,0.77,0.42,1.33,117,1.16,78,88,700,0,0.13,4,215,-1,2
+Nawaf Shaker Al Abid,28,Professional League,2017/2018,Midfielder,Al Hilal,746,252,494,Saudi Arabia,11,4,6,0,0,0,1,0,1,0,0,4,2,2,8,1,7,1,0,0.12,0.12,0,0,0,0,0.97,93,68,746,746,0.12,206,83,-1,29
+Salman Mohammed Al Faraj,29,Professional League,2017/2018,Midfielder,Al Hilal,1136,450,686,Saudi Arabia,13,5,8,1,0,1,4,2,2,1,0,4,2,2,11,3,8,3,0,0.4,0.32,0.08,0,0.13,1136,0.87,103,87,379,284,0.24,106,12,-1,9
+Abdullah Ibrahim Otayf,26,Professional League,2017/2018,Midfielder,Al Hilal,1411,870,541,Saudi Arabia,18,10,7,0,0,0,1,1,0,0,0,5,3,2,14,7,7,2,0,0.06,0.06,0,0,0,0,0.89,101,78,706,1411,0.13,207,119,-1,28
+Nicolás Milesi Van Vommel,25,Professional League,2017/2018,Midfielder,Al Hilal,920,552,368,Uruguay,12,7,5,0,0,0,1,1,0,0,0,2,1,1,10,6,4,3,0,0.1,0.1,0,0,0,0,0.98,92,77,307,920,0.29,208,99,-1,27
+Omar Khribin,24,Professional League,2017/2018,Forward,Al Hilal,833,281,552,Syria,13,4,6,4,1,3,4,1,3,3,2,2,1,1,11,2,9,2,0,0.86,0.43,0.43,0.32,0.49,208,1.19,76,64,417,208,0.22,26,6,-1,3
+Matías Britos Cardoso,29,Professional League,2017/2018,Forward,Al Hilal,380,353,27,Uruguay,6,4,0,1,1,0,1,1,0,0,0,1,1,0,3,3,0,0,0,0.47,0.24,0.24,0.25,0,380,0.71,127,63,0,380,0,54,30,-1,11
+Salem Mohammed Al Dawsari,27,Professional League,2017/2018,Midfielder,Al Hilal,975,443,532,Saudi Arabia,13,5,5,4,2,2,1,1,0,0,0,5,3,2,7,2,5,3,0,0.46,0.09,0.37,0.41,0.34,244,0.65,139,75,325,975,0.28,33,100,-1,4
+Abdulmalek Abdullah Al Khaibri,32,Professional League,2017/2018,Midfielder,Al Hilal,211,25,186,Saudi Arabia,6,0,2,0,0,0,0,0,0,0,0,3,1,2,1,0,1,1,0,0,0,0,0,0,0,0.43,211,35,211,0,0.43,-1,-1,-1,26
+Mohammed Yahya Jahfali,28,Professional League,2017/2018,Defender,Al Hilal,1271,720,551,Saudi Arabia,16,8,6,1,0,1,0,0,0,0,0,5,2,3,10,6,4,3,0,0.07,0,0.07,0,0.16,1271,0.71,127,79,424,0,0.21,111,216,3,13
+Ali Abdullah Harib Al Habsi,36,Professional League,2017/2018,Goalkeeper,Al Hilal,900,630,270,Oman,10,7,3,0,0,0,0,0,0,0,0,3,1,2,7,6,1,0,0,0,0,0,0,0,0,0.7,129,90,0,0,0,209,217,2,20
+Abdullah Mohammed Al Zoari Al Dossary,31,Professional League,2017/2018,Defender,Al Hilal,358,190,168,Saudi Arabia,6,2,2,0,0,0,0,0,0,0,0,1,0,1,3,2,1,0,0,0,0,0,0,0,0,0.75,119,60,0,0,0,210,209,5,24
+Moslem Freej,30,Professional League,2017/2018,Goalkeeper,Al Feiha,450,270,180,Saudi Arabia,5,3,2,0,0,0,0,0,0,0,0,0,0,0,12,9,3,0,0,0,0,0,0,0,0,2.4,38,90,0,0,0,211,198,105,16
+Emilio Arturo Izaguirre Girón,32,Professional League,2017/2018,Defender,Al Feiha,1362,706,656,Honduras,17,8,7,0,0,0,0,0,0,0,1,4,3,1,23,11,12,3,0,0,0,0,0,0,0,1.52,59,80,454,0,0.2,212,188,75,19
+Hassan Muath Fallatah,32,Professional League,2017/2018,Defender,Al Feiha,1102,557,545,Saudi Arabia,14,6,6,2,2,0,0,0,0,0,0,4,3,1,18,8,10,1,0,0.16,0,0.16,0.32,0,551,1.47,61,79,1102,0,0.08,76,197,67,4
+Admilson Estaline Dias de Barros,30,Professional League,2017/2018,Defender,Al Feiha,739,289,450,Cape Verde,10,3,5,1,0,1,0,0,0,0,0,1,1,0,16,8,8,1,0,0.12,0,0.12,0,0.2,739,1.95,46,74,739,0,0.12,88,180,95,7
+Abdullah Kano,28,Professional League,2017/2018,Defender,Al Feiha,1258,632,626,Saudi Arabia,17,7,7,1,1,0,0,0,0,0,0,4,3,1,23,11,12,6,0,0.07,0,0.07,0.14,0,1258,1.65,55,74,210,0,0.43,112,181,80,8
+Abdulmajeed Abdullah Al Ruwaili,32,Professional League,2017/2018,Midfielder,Al Feiha,854,384,470,Saudi Arabia,11,4,6,0,0,0,2,1,1,0,0,2,2,0,19,8,11,0,0,0.21,0.21,0,0,0,0,2,45,78,0,427,0,213,42,-1,24
+Abdulah Saud Al Mutairi,32,Professional League,2017/2018,Midfielder,Al Feiha,801,387,414,Saudi Arabia,15,4,5,0,0,0,0,0,0,0,0,3,2,1,13,5,8,3,0,0,0,0,0,0,0,1.46,62,53,267,0,0.34,204,182,-1,23
+Abdulrahman Al Barakah,28,Professional League,2017/2018,Midfielder,Al Feiha,171,81,90,Saudi Arabia,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,0,2.11,43,86,171,0,0.53,-1,-1,-1,22
+Abdulkarim Ayidh Al Qahtani,25,Professional League,2017/2018,Midfielder,Al Feiha,440,239,201,Saudi Arabia,10,4,1,0,0,0,0,0,0,0,0,1,1,0,8,3,5,1,0,0,0,0,0,0,0,1.64,55,44,440,0,0.2,192,183,-1,21
+Daifallah Al Qarni,29,Professional League,2017/2018,Midfielder,Al Feiha,275,183,92,Saudi Arabia,5,2,2,0,0,0,0,0,0,0,0,1,1,0,5,4,1,0,0,0,0,0,0,0,0,1.64,55,55,0,0,0,182,184,-1,20
+Ronnie Alan Fernández Sáez,27,Professional League,2017/2018,Forward,Al Feiha,1614,894,720,Chile,18,10,8,9,4,5,2,1,1,2,1,4,3,1,25,14,11,3,0,0.61,0.11,0.5,0.4,0.63,179,1.39,65,90,538,807,0.17,17,91,-1,1
+Alexandros Tziolis,33,Professional League,2017/2018,Midfielder,Al Feiha,1474,885,589,Greece,18,10,6,2,1,1,0,0,0,0,0,4,3,1,26,15,11,3,0,0.12,0,0.12,0.1,0.15,737,1.59,57,82,491,0,0.18,89,185,-1,5
+John Jairo Ruiz Barrantes,24,Professional League,2017/2018,Forward,Al Feiha,935,549,386,Costa Rica,13,6,4,2,1,1,3,2,1,0,0,2,2,0,17,11,6,3,0,0.48,0.29,0.19,0.16,0.23,468,1.64,55,72,312,312,0.29,62,19,-1,3
+Danilo Moreno Asprilla,29,Professional League,2017/2018,Midfielder,Al Feiha,1156,614,542,Colombia,17,6,6,5,4,1,2,2,0,0,0,4,3,1,21,12,9,3,0,0.54,0.16,0.39,0.59,0.17,231,1.63,55,68,385,578,0.23,29,59,-1,2
+Abdullah Al Salem,25,Professional League,2017/2018,Midfielder,Al Feiha,725,429,296,Saudi Arabia,13,5,3,2,2,0,0,0,0,0,0,3,2,1,13,8,5,0,0,0.25,0,0.25,0.42,0,363,1.61,56,56,0,0,0,50,186,-1,6
+Sami Al Khaibari,29,Professional League,2017/2018,Defender,Al Feiha,1440,720,720,Saudi Arabia,16,8,8,0,0,0,2,2,0,0,0,4,3,1,21,8,13,5,0,0.13,0.13,0,0,0,0,1.31,69,90,288,720,0.31,191,74,50,18
+Abdulrahman Dagriri,28,Professional League,2017/2018,Goalkeeper,Al Feiha,630,360,270,Saudi Arabia,7,4,3,0,0,0,1,1,0,0,0,3,2,1,9,3,6,0,0,0.14,0.14,0,0,0,0,1.29,70,90,0,630,0,173,66,45,17
+Hassen Jaaferi,27,Professional League,2017/2018,Midfielder,Al Feiha,538,358,180,Saudi Arabia,6,4,2,0,0,0,0,0,0,0,0,3,2,1,7,3,4,2,0,0,0,0,0,0,0,1.17,77,90,269,0,0.33,174,179,-1,10
+Mohammed Aseari,26,Professional League,2017/2018,Goalkeeper,Al Quadisiya,180,90,90,Saudi Arabia,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1.5,60,90,0,0,0,-1,-1,-1,17
+Fawaz Fallatah,29,Professional League,2017/2018,Defender,Al Quadisiya,394,226,168,Saudi Arabia,5,3,2,0,0,0,0,0,0,0,0,0,0,0,7,4,3,2,0,0,0,0,0,0,0,1.6,56,79,197,0,0.46,175,187,78,20
+Mohammed Al Khabrani,25,Professional League,2017/2018,Defender,Al Quadisiya,540,270,270,Saudi Arabia,6,3,3,0,0,0,0,0,0,0,0,0,0,0,12,7,5,1,0,0,0,0,0,0,0,2,45,90,540,0,0.17,176,189,98,27
+Abdulrahman Al Obaid,25,Professional League,2017/2018,Defender,Al Quadisiya,1345,540,805,Saudi Arabia,15,6,9,1,0,1,1,1,0,0,0,3,2,1,19,5,14,4,0,0.13,0.07,0.07,0,0.11,1345,1.27,71,90,336,1345,0.27,108,113,41,6
+Yaseen Barnawi,25,Professional League,2017/2018,Defender,Al Quadisiya,1530,810,720,Saudi Arabia,17,9,8,0,0,0,2,1,1,0,0,3,2,1,24,12,12,5,0,0.12,0.12,0,0,0,0,1.41,64,90,306,765,0.29,177,86,58,26
+Élton José Xavier Gomes,32,Professional League,2017/2018,Midfielder,Al Quadisiya,1593,788,805,Brazil,18,9,9,3,2,1,2,2,0,1,0,3,2,1,27,13,14,0,0,0.28,0.11,0.17,0.23,0.11,531,1.53,59,89,0,797,0,70,87,-1,3
+Naif Hazazi,26,Professional League,2017/2018,Midfielder,Al Quadisiya,1098,483,615,Saudi Arabia,15,5,7,0,0,0,0,0,0,0,0,3,2,1,15,5,10,1,0,0,0,0,0,0,0,1.23,73,73,1098,0,0.08,178,190,-1,25
+Fahad Al Johani,27,Professional League,2017/2018,Forward,Al Quadisiya,407,221,186,Saudi Arabia,10,2,1,0,0,0,0,0,0,0,0,3,2,1,5,3,2,0,0,0,0,0,0,0,0,1.11,81,41,0,0,0,179,191,-1,24
+Bismark de Araújo Ferreira,25,Professional League,2017/2018,Forward,Al Quadisiya,1246,599,647,Brazil,15,7,8,5,3,2,2,0,2,1,0,1,1,0,22,8,14,1,0,0.51,0.14,0.36,0.45,0.28,249,1.59,57,83,1246,623,0.07,35,68,-1,1
+Mazen Abu Shararah,27,Professional League,2017/2018,Forward,Al Quadisiya,480,245,235,Saudi Arabia,15,2,1,0,0,0,1,0,1,0,0,2,1,1,7,4,3,0,0,0.19,0.19,0,0,0,0,1.31,69,32,0,480,0,180,48,-1,23
+Bi Bola Hervé Guy,34,Professional League,2017/2018,Forward,Al Quadisiya,496,316,180,Côte d'Ivoire,6,4,2,0,0,0,2,1,1,0,0,0,0,0,11,7,4,0,0,0.36,0.36,0,0,0,0,2,45,83,0,248,0,172,8,-1,22
+Hassan Alamiri,24,Professional League,2017/2018,Midfielder,Al Quadisiya,598,282,316,Saudi Arabia,12,4,4,0,0,0,0,0,0,0,0,1,0,1,10,3,7,3,0,0,0,0,0,0,0,1.51,60,50,199,0,0.45,181,192,-1,21
+Stanley Nka Ohawuchi,28,Professional League,2017/2018,Forward,Al Quadisiya,1363,659,704,Nigeria,18,7,8,4,3,1,2,1,1,0,0,3,2,1,22,11,11,3,0,0.4,0.13,0.26,0.41,0.13,341,1.45,62,76,454,682,0.2,46,76,-1,2
+Abdulmuhsen Fallatah,24,Professional League,2017/2018,Defender,Al Quadisiya,1291,722,569,Saudi Arabia,16,8,6,2,1,1,0,0,0,0,0,3,2,1,21,12,9,2,0,0.14,0,0.14,0.12,0.16,646,1.46,61,81,646,0,0.14,81,193,65,4
+Wesam Waheab Mudhaya,26,Professional League,2017/2018,Forward,Al Quadisiya,69,69,0,Saudi Arabia,3,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,3.91,23,23,0,0,0,-1,-1,-1,28
+Nawaf Al Sabhi,31,Professional League,2017/2018,Defender,Al Quadisiya,202,22,180,Saudi Arabia,4,0,2,0,0,0,0,0,0,0,0,1,1,0,5,1,4,0,0,0,0,0,0,0,0,2.23,40,51,0,0,0,-1,-1,-1,19
+Ahmad Ali Al Harbi,24,Professional League,2017/2018,Goalkeeper,Al Raed,540,270,270,Saudi Arabia,6,3,3,0,0,0,0,0,0,0,0,0,0,0,14,7,7,0,0,0,0,0,0,0,0,2.33,39,90,0,0,0,183,194,104,10
+Eli Sabia Filho,30,Professional League,2017/2018,Defender,Al Raed,1350,720,630,Brazil,15,8,7,0,0,0,1,1,0,0,0,1,1,0,29,16,13,2,0,0.07,0.07,0,0,0,0,1.93,47,90,675,1350,0.13,184,111,94,20
+Kassim Abdallah Mfoihaia,31,Professional League,2017/2018,Defender,Al Raed,939,426,513,Comoros,11,5,6,1,1,0,0,0,0,0,0,0,0,0,24,12,12,2,0,0.1,0,0.1,0.21,0,939,2.3,39,85,470,0,0.19,96,195,103,7
+Abdullah Abdulkarim Al Shamekh,25,Professional League,2017/2018,Defender,Al Raed,1510,700,810,Saudi Arabia,17,8,9,0,0,0,1,0,1,0,0,1,1,0,31,15,16,5,0,0.06,0.06,0,0,0,0,1.85,49,89,302,1510,0.3,185,123,91,24
+Fahad Muqbil Al Rashidi,27,Professional League,2017/2018,Midfielder,Al Raed,597,274,323,Saudi Arabia,10,4,4,0,0,0,0,0,0,0,0,0,0,0,14,8,6,1,0,0,0,0,0,0,0,2.11,43,60,597,0,0.15,186,196,-1,23
+Wander Luiz Bitencourt Junior,31,Professional League,2017/2018,Midfielder,Al Raed,1164,670,494,Brazil,14,8,5,1,0,1,3,2,1,0,0,1,1,0,25,15,10,0,0,0.31,0.23,0.08,0,0.18,1164,1.93,47,83,0,388,0,107,38,-1,8
+Daniel Lopes Amora,31,Professional League,2017/2018,Midfielder,Al Raed,934,476,458,Brazil,12,5,5,3,1,2,2,0,2,0,0,1,1,0,21,12,9,3,0,0.48,0.19,0.29,0.19,0.39,311,2.02,44,78,311,467,0.29,43,47,-1,4
+Sultan Al Sawadi,25,Professional League,2017/2018,Midfielder,Al Raed,1122,595,527,Saudi Arabia,17,7,5,2,1,1,3,1,2,0,0,1,1,0,24,15,9,3,1,0.4,0.24,0.16,0.15,0.17,561,1.93,47,66,374,374,0.24,75,35,-1,5
+Murad Al Rashidi,27,Professional League,2017/2018,Midfielder,Al Raed,1169,612,557,Saudi Arabia,16,6,6,1,1,0,2,0,2,0,0,1,1,0,28,19,9,5,0,0.23,0.15,0.08,0.15,0,1169,2.16,42,73,234,585,0.38,103,61,-1,9
+Ismaël Bangoura,33,Professional League,2017/2018,Forward,Al Raed,1483,851,632,Guinea,18,10,7,7,5,2,3,3,0,1,0,1,1,0,31,21,10,3,1,0.61,0.18,0.42,0.53,0.28,212,1.88,48,82,494,494,0.18,27,50,-1,1
+Abdulaziz Mohasen Aljamman Aldossary,22,Professional League,2017/2018,Forward,Al Raed,267,153,114,Saudi Arabia,7,2,1,0,0,0,1,0,1,0,0,0,0,0,6,5,1,0,0,0.34,0.34,0,0,0,0,2.02,45,38,0,267,0,-1,-1,-1,22
+Bader Mansoor Al Sulaiteen,28,Professional League,2017/2018,Midfielder,Al Raed,78,11,67,Saudi Arabia,3,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,3.46,26,26,0,0,0,-1,-1,-1,21
+Faris Al Alayaf,26,Professional League,2017/2018,Forward,Al Raed,862,442,420,Saudi Arabia,11,5,5,0,0,0,0,0,0,0,0,1,1,0,18,7,11,2,0,0,0,0,0,0,0,1.88,48,78,431,0,0.21,187,218,-1,17
+Saleh Khalid Al Shehri,25,Professional League,2017/2018,Forward,Al Raed,184,94,90,Saudi Arabia,11,1,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.47,61,17,0,0,0,-1,-1,-1,19
+Yahya Al Muslem,31,Professional League,2017/2018,Defender,Al Raed,757,315,442,Saudi Arabia,9,4,5,2,1,1,0,0,0,0,0,1,1,0,17,9,8,0,0,0.24,0,0.24,0.29,0.2,379,2.02,45,84,0,0,0,51,199,99,6
+Husein Al Shuwaish,30,Professional League,2017/2018,Defender,Al Raed,863,585,278,Saudi Arabia,11,6,3,0,0,0,0,0,0,0,0,1,1,0,19,13,6,1,0,0,0,0,0,0,0,1.98,45,78,863,0,0.1,188,219,96,18
+Fawaz Al Qarni,26,Professional League,2017/2018,Goalkeeper,Al Ittihad,1080,540,540,Saudi Arabia,12,6,6,0,0,0,0,0,0,0,0,1,0,1,21,14,7,0,0,0,0,0,0,0,0,1.75,51,90,0,0,0,189,241,87,11
+Adnan Ibrahem Falatah,35,Professional League,2017/2018,Defender,Al Ittihad,1225,641,584,Saudi Arabia,15,7,6,1,0,1,2,1,1,0,0,1,0,1,23,16,7,3,0,0.22,0.15,0.07,0,0.15,1225,1.69,53,82,408,613,0.22,109,63,83,9
+Bader Al Nakhli,30,Professional League,2017/2018,Defender,Al Ittihad,745,385,360,Saudi Arabia,9,5,4,0,0,0,0,0,0,0,0,1,1,0,17,10,7,0,0,0,0,0,0,0,0,2.05,44,83,0,0,0,190,243,100,23
+Yassen Hamza,28,Professional League,2017/2018,Defender,Al Ittihad,506,263,243,Saudi Arabia,7,2,3,0,0,0,0,0,0,0,0,1,1,0,8,4,4,1,0,0,0,0,0,0,0,1.42,63,72,506,0,0.18,214,244,61,22
+Fahad Al Ebrahim Al Ansari,31,Professional League,2017/2018,Midfielder,Al Ittihad,1518,618,900,Kuwait,17,7,10,3,1,2,0,0,0,0,0,2,1,1,25,13,12,3,0,0.18,0,0.18,0.15,0.2,506,1.48,61,89,506,0,0.18,67,245,-1,2
+Mahmoud Abdul Monem Abdelhamid Soliman,24,Professional League,2017/2018,Midfielder,Al Ittihad,1459,678,781,Egypt,17,8,9,3,1,2,5,4,1,0,1,2,1,1,24,14,10,3,0,0.49,0.31,0.19,0.13,0.23,486,1.48,61,86,486,292,0.19,65,16,-1,3
+Jamal Ba Jandooh,26,Professional League,2017/2018,Midfielder,Al Ittihad,532,324,208,Saudi Arabia,12,3,3,0,0,0,1,1,0,0,0,2,1,1,8,5,3,3,0,0.17,0.17,0,0,0,0,1.35,67,44,177,532,0.51,193,58,-1,21
+Omar Al-Mazial,26,Professional League,2017/2018,Midfielder,Al Ittihad,553,360,193,Saudi Arabia,7,4,2,0,0,0,0,0,0,0,0,0,0,0,10,8,2,3,0,0,0,0,0,0,0,1.63,55,79,184,0,0.49,215,246,-1,20
+Rabeaa Sefiani,31,Professional League,2017/2018,Forward,Al Ittihad,586,244,342,Saudi Arabia,14,2,3,0,0,0,0,0,0,0,0,1,0,1,9,5,4,0,0,0,0,0,0,0,0,1.38,65,42,0,0,0,239,247,-1,19
+Fahad Mosaed Al Muwallad Al Harbi,24,Professional League,2017/2018,Forward,Al Ittihad,665,359,306,Saudi Arabia,9,4,4,3,2,1,2,1,1,2,0,0,0,0,12,8,4,1,0,0.68,0.27,0.41,0.5,0.29,222,1.62,55,74,665,333,0.14,28,24,-1,4
+Abdulaziz Al-Aryani,22,Professional League,2017/2018,Forward,Al Ittihad,160,153,7,Saudi Arabia,5,2,0,1,0,1,0,0,0,0,0,0,0,0,5,5,0,0,0,0.56,0,0.56,0,12.86,160,2.81,32,32,0,0,0,-1,-1,-1,7
+Khaled Al Samiri,21,Professional League,2017/2018,Midfielder,Al Ittihad,1210,512,698,Saudi Arabia,17,6,8,0,0,0,1,1,0,0,0,1,1,0,21,10,11,3,0,0.07,0.07,0,0,0,0,1.56,58,71,403,1210,0.22,241,108,-1,18
+Assaf Al Qarni,34,Professional League,2017/2018,Goalkeeper,Al Ittihad,630,270,360,Saudi Arabia,7,3,4,0,0,0,0,0,0,0,0,1,1,0,7,2,5,0,0,0,0,0,0,0,0,1,90,90,0,0,0,242,248,16,15
+Awadh Khrees,27,Professional League,2017/2018,Midfielder,Al Ittihad,134,0,134,Saudi Arabia,5,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0.67,0,0.67,0,0.67,134,0.67,134,27,134,0,0.67,-1,-1,-1,10
+Tariq Mohammed,23,Professional League,2017/2018,Defender,Al Ittihad,1281,588,693,Saudi Arabia,16,7,8,0,0,0,0,0,0,0,0,2,1,1,20,10,10,5,0,0,0,0,0,0,0,1.41,64,80,256,0,0.35,243,249,59,17
+Mazyad Al Enazi,29,Professional League,2017/2018,Goalkeeper,Al Batin,1530,720,810,Saudi Arabia,17,8,9,0,0,0,0,0,0,0,0,4,2,2,22,11,11,1,0,0,0,0,0,0,0,1.29,70,90,1530,0,0.06,244,242,44,7
+Sultan Msarhi,31,Professional League,2017/2018,Defender,Al Batin,1476,666,810,Saudi Arabia,17,8,9,1,0,1,2,0,2,0,0,3,2,1,25,10,15,3,0,0.18,0.12,0.06,0,0.11,1476,1.52,59,87,492,738,0.18,119,82,73,6
+Alaa Ali Mhawi,22,Professional League,2017/2018,Defender,Al Batin,180,90,90,Iraq,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0.5,180,90,0,0,0,-1,-1,-1,25
+Soltan Ghneman,29,Professional League,2017/2018,Defender,Al Batin,272,182,90,Saudi Arabia,4,1,1,0,0,0,0,0,0,0,0,1,1,0,2,1,1,1,0,0,0,0,0,0,0,0.66,136,68,272,0,0.33,245,250,1,24
+Bandar Al Mutairi,28,Professional League,2017/2018,Defender,Al Batin,1582,772,810,Saudi Arabia,18,9,9,0,0,0,1,0,1,0,0,4,2,2,25,12,13,3,0,0.06,0.06,0,0,0,0,1.42,63,88,527,1582,0.17,246,121,62,23
+Maan Sultan Khodary,26,Professional League,2017/2018,Midfielder,Al Batin,701,202,499,Saudi Arabia,11,4,5,0,0,0,0,0,0,0,0,3,2,1,15,4,11,4,0,0,0,0,0,0,0,1.93,47,64,175,0,0.51,247,252,-1,22
+Majed Omar Kanabah,25,Professional League,2017/2018,Midfielder,Al Batin,1460,601,859,Saudi Arabia,17,7,10,0,0,0,1,0,1,0,0,4,2,2,21,9,12,6,0,0.06,0.06,0,0,0,0,1.29,70,86,243,1460,0.37,248,124,-1,21
+Abdullah Al-Jawaey,22,Professional League,2017/2018,Midfielder,Al Batin,1180,544,636,Saudi Arabia,17,6,8,0,0,0,2,1,1,0,0,4,2,2,15,9,6,1,0,0.15,0.15,0,0,0,0,1.14,79,69,1180,590,0.08,240,62,-1,20
+Jorge Santos Silva,31,Professional League,2017/2018,Forward,Al Batin,810,450,360,Brazil,9,5,4,4,3,1,0,0,0,0,0,3,2,1,12,7,5,1,0,0.44,0,0.44,0.6,0.25,203,1.33,68,90,810,0,0.11,23,253,-1,2
+Edison Luis dos Santos,32,Professional League,2017/2018,Forward,Al Batin,1597,806,791,Brazil,18,9,9,4,1,3,2,2,0,0,2,4,2,2,25,14,11,3,0,0.34,0.11,0.23,0.11,0.34,399,1.41,64,89,532,799,0.17,57,88,-1,3
+Jhonnattann Benites da Conceiçao,29,Professional League,2017/2018,Forward,Al Batin,1504,795,709,Brazil,18,9,8,5,2,3,5,2,3,0,0,4,2,2,21,12,9,3,0,0.6,0.3,0.3,0.23,0.38,301,1.26,72,84,501,301,0.18,41,17,-1,1
+Nayef Al Dafeeri,38,Professional League,2017/2018,Midfielder,Al Batin,199,152,47,Saudi Arabia,12,1,0,0,0,0,0,0,0,0,0,3,1,2,5,3,2,1,0,0,0,0,0,0,0,2.26,40,17,199,0,0.45,-1,-1,-1,19
+Abdulmalek Al Shammary,23,Professional League,2017/2018,Midfielder,Al Batin,983,481,502,Saudi Arabia,18,4,5,0,0,0,2,0,2,0,0,3,1,2,16,7,9,2,0,0.18,0.18,0,0,0,0,1.46,61,55,492,492,0.18,249,51,-1,18
+Jamal Al Dhaferi,26,Professional League,2017/2018,Defender,Al Batin,227,90,137,Saudi Arabia,6,1,2,0,0,0,0,0,0,0,0,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0.79,114,38,0,0,0,-1,-1,-1,15
+Nasser Al Mehaini,29,Professional League,2017/2018,Goalkeeper,Al Batin,90,90,0,Saudi Arabia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,17
+Musab Bandar Al Otaibi,26,Professional League,2017/2018,Midfielder,Al Batin,258,90,168,Saudi Arabia,7,1,3,0,0,0,0,0,0,0,0,1,0,1,5,1,4,1,0,0,0,0,0,0,0,1.74,52,37,258,0,0.35,-1,-1,-1,16
+Sahow Al Mutayri,30,Professional League,2017/2018,Forward,Al Batin,354,137,217,Saudi Arabia,9,1,3,0,0,0,0,0,0,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,0,1.27,71,39,0,0,0,251,254,-1,8
+Ahmed Ali Al Kassar,27,Professional League,2017/2018,Goalkeeper,Al Ittifaq,810,360,450,Saudi Arabia,9,4,5,0,0,0,1,0,1,0,0,0,0,0,18,7,11,2,0,0.11,0.11,0,0,0,0,2,45,90,405,810,0.22,252,93,97,13
+Ahmad Ibrahim Khalaf,26,Professional League,2017/2018,Defender,Al Ittifaq,1530,630,900,Iraq,17,7,10,0,0,0,3,2,1,0,0,2,2,0,23,9,14,3,0,0.18,0.18,0,0,0,0,1.35,67,90,510,510,0.18,253,52,52,23
+Majed Al Khaibari,27,Professional League,2017/2018,Defender,Al Ittifaq,990,450,540,Saudi Arabia,11,5,6,1,0,1,0,0,0,0,0,0,0,0,20,9,11,4,0,0.09,0,0.09,0,0.17,990,1.82,50,90,248,0,0.36,101,255,90,7
+Saad Al Khayri,23,Professional League,2017/2018,Defender,Al Ittifaq,1446,599,847,Saudi Arabia,17,7,9,0,0,0,0,0,0,0,0,1,1,0,24,10,14,5,0,0,0,0,0,0,0,1.49,60,85,289,0,0.31,254,256,70,30
+Juan Miguel Callejón Bueno,31,Professional League,2017/2018,Midfielder,Al Ittifaq,1020,452,568,Spain,13,6,6,1,0,1,0,0,0,0,0,1,1,0,19,8,11,1,0,0.09,0,0.09,0,0.16,1020,1.68,54,78,1020,0,0.09,99,257,-1,8
+Fahad Al Hajeri,26,Professional League,2017/2018,Midfielder,Al Ittifaq,742,373,369,Kuwait,11,4,4,0,0,0,0,0,0,0,1,1,1,0,16,8,8,0,0,0,0,0,0,0,0,1.94,46,67,0,0,0,255,258,-1,29
+Abdulaziz Majrashi,22,Professional League,2017/2018,Midfielder,Al Ittifaq,1092,523,569,Saudi Arabia,13,6,7,0,0,0,1,1,0,0,0,1,1,0,18,9,9,2,0,0.08,0.08,0,0,0,0,1.48,61,84,546,1092,0.16,256,105,-1,28
+Mohammed Marzouq Al Kuwaykibi,23,Professional League,2017/2018,Forward,Al Ittifaq,1586,692,894,Saudi Arabia,18,8,10,3,3,0,0,0,0,0,0,2,2,0,26,11,15,0,0,0.17,0,0.17,0.39,0,529,1.48,61,88,0,0,0,71,259,-1,2
+Hazzaa Al Hazzaa,27,Professional League,2017/2018,Forward,Al Ittifaq,1000,499,501,Saudi Arabia,12,6,6,7,5,2,3,1,2,1,0,1,1,0,15,8,7,0,0,0.9,0.27,0.63,0.9,0.36,143,1.35,67,83,0,333,0,8,25,-1,1
+Mohammed Al Saiari,25,Professional League,2017/2018,Forward,Al Ittifaq,281,103,178,Saudi Arabia,10,1,3,0,0,0,0,0,0,0,0,1,1,0,5,2,3,2,0,0,0,0,0,0,0,1.6,56,28,141,0,0.64,257,251,-1,27
+Abdulrahman Al Obod,23,Professional League,2017/2018,Forward,Al Ittifaq,716,265,451,Saudi Arabia,17,3,3,2,0,2,1,0,1,0,0,2,2,0,11,3,8,1,0,0.38,0.13,0.25,0,0.4,358,1.38,65,42,716,716,0.13,49,78,-1,5
+Filip Kiss,28,Professional League,2017/2018,Midfielder,Al Ittifaq,1505,649,856,Slovakia,18,7,10,2,1,1,0,0,0,0,0,2,2,0,24,10,14,3,0,0.12,0,0.12,0.14,0.11,753,1.44,63,84,502,0,0.18,87,240,-1,6
+Mohammed Alsubaie,23,Professional League,2017/2018,Midfielder,Al Ittifaq,762,341,421,Saudi Arabia,14,2,4,0,0,0,2,2,0,0,0,2,2,0,10,4,6,2,0,0.24,0.24,0,0,0,0,1.18,76,54,381,381,0.24,258,33,-1,26
+Ali Nasser Al Khaibari,28,Professional League,2017/2018,Defender,Al Ittifaq,653,284,369,Saudi Arabia,9,3,5,0,0,0,0,0,0,0,0,2,2,0,6,1,5,2,0,0,0,0,0,0,0,0.83,109,73,327,0,0.28,259,230,7,25
+Osama Al Khalaf,21,Professional League,2017/2018,Midfielder,Al Ittifaq,406,25,381,Saudi Arabia,8,0,4,0,0,0,1,0,1,0,0,1,1,0,8,1,7,3,0,0.22,0.22,0,0,0,0,1.77,51,51,135,406,0.67,250,41,-1,24
+Osama Al Saleem,22,Professional League,2017/2018,Defender,Al Ittifaq,360,180,180,Saudi Arabia,4,2,2,0,0,0,0,0,0,0,0,1,1,0,3,2,1,0,0,0,0,0,0,0,0,0.75,120,90,0,0,0,238,239,4,19
+Abdullah Al Saleh,30,Professional League,2017/2018,Goalkeeper,Al Ittifaq,630,270,360,Saudi Arabia,7,3,4,0,0,0,0,0,0,0,0,1,1,0,8,4,4,0,0,0,0,0,0,0,0,1.14,79,90,0,0,0,227,222,28,22
+Mohammed Khalil Al Owais,27,Professional League,2017/2018,Goalkeeper,Al Ahli,1530,720,810,Saudi Arabia,17,8,9,0,0,0,0,0,0,0,0,3,3,0,22,7,15,1,0,0,0,0,0,0,0,1.29,70,90,1530,0,0.06,237,223,43,13
+Mansour Althaqfi Al Harbi,31,Professional League,2017/2018,Defender,Al Ahli,1530,720,810,Saudi Arabia,17,8,9,1,1,0,5,2,3,0,0,4,3,1,20,7,13,0,0,0.35,0.29,0.06,0.13,0,1530,1.18,77,90,0,306,0,116,20,34,11
+Aqeel Baalghyth Al Sahbi,31,Professional League,2017/2018,Defender,Al Ahli,883,360,523,Saudi Arabia,11,4,5,0,0,0,0,0,0,0,0,3,2,1,13,3,10,3,0,0,0,0,0,0,0,1.33,68,80,294,0,0.31,219,224,51,23
+Mohammed Abdulhakim Al Fatil,26,Professional League,2017/2018,Defender,Al Ahli,367,97,270,Saudi Arabia,5,1,3,0,0,0,1,0,1,0,0,2,2,0,6,0,6,1,0,0.25,0.25,0,0,0,0,1.47,61,73,367,367,0.25,220,27,69,22
+Saeed Fawaz Al Mowalad,27,Professional League,2017/2018,Defender,Al Ahli,1502,810,692,Saudi Arabia,17,9,8,0,0,0,4,3,1,0,0,4,4,0,20,7,13,3,0,0.24,0.24,0,0,0,0,1.2,75,88,501,376,0.18,221,34,36,21
+Claudemir Domingues de Souza,30,Professional League,2017/2018,Midfielder,Al Ahli,1530,720,810,Brazil,17,8,9,2,1,1,3,3,0,0,0,3,3,0,22,7,15,1,0,0.29,0.18,0.12,0.13,0.11,765,1.29,70,90,1530,510,0.06,91,53,-1,6
+Ioannis Fetfatzidis,27,Professional League,2017/2018,Midfielder,Al Ahli,1470,662,808,Greece,19,9,10,7,4,3,2,1,1,2,0,5,4,1,18,4,14,1,0,0.55,0.12,0.43,0.54,0.33,210,1.1,82,77,1470,735,0.06,25,85,-1,3
+Hussain Al Mogahwi,30,Professional League,2017/2018,Midfielder,Al Ahli,1394,755,639,Saudi Arabia,18,9,7,4,1,3,1,1,0,0,0,5,4,1,15,6,9,3,0,0.32,0.06,0.26,0.12,0.42,349,0.97,93,77,465,1394,0.19,47,114,-1,5
+Abdulfattah Tawfiq Asiri,24,Professional League,2017/2018,Midfielder,Al Ahli,535,198,337,Saudi Arabia,13,1,4,0,0,0,5,3,2,0,0,4,3,1,6,1,5,3,0,0.84,0.84,0,0,0,0,1.01,89,41,178,107,0.5,222,2,-1,20
+Ali Hassan Al Asmari,21,Professional League,2017/2018,Midfielder,Al Ahli,95,25,70,Saudi Arabia,4,0,1,0,0,0,0,0,0,0,0,1,1,0,2,1,1,1,0,0,0,0,0,0,0,1.89,48,24,95,0,0.95,-1,-1,-1,19
+Omar Jihad Al Somah,28,Professional League,2017/2018,Forward,Al Ahli,955,438,517,Syria,11,5,6,11,5,6,3,2,1,1,0,4,3,1,10,3,7,3,0,1.32,0.28,1.04,1.03,1.04,87,0.94,96,87,318,318,0.28,2,22,-1,1
+Salman Al Moasher,30,Professional League,2017/2018,Forward,Al Ahli,314,181,133,Saudi Arabia,9,2,1,2,2,0,0,0,0,0,0,2,2,0,5,2,3,0,0,0.57,0,0.57,0.99,0,157,1.43,63,35,0,0,0,11,225,-1,7
+Waleed Rashid Bakshween,28,Professional League,2017/2018,Midfielder,Al Ahli,1137,511,626,Saudi Arabia,16,6,7,0,0,0,3,1,2,0,0,3,3,0,17,6,11,5,0,0.24,0.24,0,0,0,0,1.35,67,71,227,379,0.4,223,36,-1,16
+Taisir Jabir Al Jassim,34,Professional League,2017/2018,Midfielder,Al Ahli,523,180,343,Saudi Arabia,7,2,4,1,1,0,2,1,1,0,0,2,1,1,6,1,5,1,0,0.52,0.34,0.17,0.5,0,523,1.03,87,75,523,262,0.17,73,10,-1,12
+Yasser Abdullah Al Mosailem,34,Professional League,2017/2018,Goalkeeper,Al Ahli,180,90,90,Saudi Arabia,2,1,1,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,18
+Mohanad Aseri Abu Radiah,32,Professional League,2017/2018,Forward,Al Ahli,522,258,264,Saudi Arabia,9,3,3,7,5,2,1,1,0,1,0,2,1,1,6,1,5,2,0,1.38,0.17,1.21,1.74,0.68,75,1.03,87,58,261,522,0.34,1,54,-1,4
+Mohamed Abdul Shafy Sayed Abouezeid,33,Professional League,2017/2018,Defender,Al Ahli,360,180,180,Egypt,4,2,2,0,0,0,1,1,0,0,0,1,1,0,5,2,3,0,0,0.25,0.25,0,0,0,0,1.25,72,90,0,360,0,224,26,39,17
+Farouk Ben Mustapha,29,Professional League,2017/2018,Goalkeeper,Al Shabab,1710,810,900,Tunisia,19,9,10,0,0,0,0,0,0,0,0,2,0,2,27,14,13,2,0,0,0,0,0,0,0,1.42,63,90,855,0,0.11,225,226,63,10
+Mohammed Abdullah Salem,33,Professional League,2017/2018,Defender,Al Shabab,1562,810,752,Saudi Arabia,18,9,8,2,1,1,1,0,1,0,0,2,0,2,26,14,12,5,0,0.17,0.06,0.12,0.11,0.12,781,1.5,60,87,312,1562,0.29,92,115,71,6
+Abdullah Ahmed Al Asta,32,Professional League,2017/2018,Defender,Al Shabab,297,180,117,Saudi Arabia,4,2,2,0,0,0,0,0,0,0,0,1,0,1,5,2,3,0,0,0,0,0,0,0,0,1.52,59,74,0,0,0,217,227,74,25
+Djameleddine Benlamri,28,Professional League,2017/2018,Defender,Al Shabab,1034,404,630,Algeria,12,4,7,0,0,0,2,1,1,0,0,2,0,2,14,6,8,6,0,0.17,0.17,0,0,0,0,1.22,74,86,172,517,0.52,226,56,37,24
+Saleh Saad Al Qumayzi,27,Professional League,2017/2018,Defender,Al Shabab,1283,629,654,Saudi Arabia,15,7,8,0,0,0,0,0,0,0,0,2,0,2,18,11,7,1,0,0,0,0,0,0,0,1.26,71,86,1283,0,0.07,228,228,40,23
+Marcos Piñeiro Pizzelli,34,Professional League,2017/2018,Midfielder,Al Shabab,1134,665,469,Armenia,15,8,6,3,3,0,4,1,3,0,0,1,0,1,21,12,9,0,0,0.56,0.32,0.24,0.41,0,378,1.67,54,76,0,284,0,55,14,-1,4
+Ahmed Ibrahim Ateef,35,Professional League,2017/2018,Midfielder,Al Shabab,287,152,135,Saudi Arabia,7,2,1,0,0,0,0,0,0,0,0,2,0,2,4,2,2,1,0,0,0,0,0,0,0,1.25,72,41,287,0,0.31,229,221,-1,22
+Mohammed Al Qarni,28,Professional League,2017/2018,Midfielder,Al Shabab,239,174,65,Saudi Arabia,6,2,0,0,0,0,0,0,0,0,0,1,0,1,8,6,2,0,0,0,0,0,0,0,0,3.01,30,40,0,0,0,-1,-1,-1,21
+Abdulmajeed Mohammed Al Sulaiheem,24,Professional League,2017/2018,Midfielder,Al Shabab,1231,603,628,Saudi Arabia,16,8,7,0,0,0,3,2,1,0,0,2,0,2,20,11,9,0,0,0.22,0.22,0,0,0,0,1.46,62,77,0,410,0,230,40,-1,20
+Khalid Hussain Al Kabi,26,Professional League,2017/2018,Forward,Al Shabab,532,384,148,Saudi Arabia,10,5,1,3,2,1,1,0,1,0,0,0,0,0,10,8,2,3,0,0.68,0.17,0.51,0.47,0.61,177,1.69,53,53,177,532,0.51,15,57,-1,5
+Mohamed Benyettou,29,Professional League,2017/2018,Forward,Al Shabab,1338,662,676,Algeria,19,7,6,5,3,2,2,1,1,0,0,2,0,2,21,12,9,1,0,0.47,0.13,0.34,0.41,0.27,268,1.41,64,70,1338,669,0.07,36,72,-1,2
+Abdul Wahab Jafar,25,Professional League,2017/2018,Midfielder,Al Shabab,312,158,154,Saudi Arabia,8,1,1,0,0,0,1,0,1,0,0,2,0,2,5,1,4,1,0,0.29,0.29,0,0,0,0,1.44,62,39,312,312,0.29,231,21,-1,19
+Abdullah Al Fahad,24,Professional League,2017/2018,Defender,Al Shabab,1035,495,540,Saudi Arabia,12,6,6,1,0,1,0,0,0,0,0,0,0,0,16,6,10,6,1,0.09,0,0.09,0,0.17,1035,1.39,65,86,173,0,0.52,100,229,56,8
+Fahad Ghazi Zahim,24,Professional League,2017/2018,Defender,Al Shabab,1527,627,900,Saudi Arabia,17,7,10,0,0,0,1,1,0,0,0,2,0,2,25,12,13,4,0,0.06,0.06,0,0,0,0,1.47,61,90,382,1527,0.24,232,116,68,17
+Waleed Hizam,23,Professional League,2017/2018,Midfielder,Al Shabab,109,109,0,Saudi Arabia,5,1,0,0,0,0,0,0,0,0,0,1,0,1,2,2,0,0,0,0,0,0,0,0,0,1.65,55,22,0,0,0,-1,-1,-1,18
+Azzedine Doukha,32,Professional League,2017/2018,Goalkeeper,Ohod,1710,990,720,Algeria,19,11,8,0,0,0,0,0,0,0,0,2,1,1,32,20,12,1,0,0,0,0,0,0,0,1.68,53,90,1710,0,0.05,233,231,82,25
+Osama Ashoor,28,Professional League,2017/2018,Defender,Ohod,1209,669,540,Saudi Arabia,15,8,6,0,0,0,0,0,0,0,0,2,1,1,19,12,7,3,0,0,0,0,0,0,0,1.41,64,81,403,0,0.22,234,232,57,14
+Salek Ahamd Abdullah,48,Professional League,2017/2018,Defender,Ohod,750,381,369,Saudi Arabia,10,5,4,1,0,1,0,0,0,0,0,1,1,0,12,6,6,0,0,0.12,0,0.12,0,0.24,750,1.44,63,75,0,0,0,90,233,64,12
+Badar Badi,29,Professional League,2017/2018,Defender,Ohod,874,424,450,Saudi Arabia,11,6,5,0,0,0,0,0,0,0,0,1,0,1,18,10,8,1,0,0,0,0,0,0,0,1.85,49,79,874,0,0.1,235,234,92,13
+Mousa Asere,26,Professional League,2017/2018,Defender,Ohod,547,124,423,Saudi Arabia,9,1,5,0,0,0,0,0,0,0,0,1,1,0,13,4,9,3,1,0,0,0,0,0,0,2.14,42,61,137,0,0.66,236,235,102,26
+Omar Mohammead,25,Professional League,2017/2018,Defender,Ohod,1517,880,637,Saudi Arabia,18,10,8,2,1,1,0,0,0,0,0,2,1,1,27,16,11,5,0,0.12,0,0.12,0.1,0.14,759,1.6,56,84,303,0,0.3,93,236,77,4
+Luiz Eduardo Figueiredo,27,Professional League,2017/2018,Midfielder,Ohod,1336,747,589,Brazil,16,8,7,3,1,2,2,2,0,2,0,2,1,1,25,14,11,2,0,0.34,0.13,0.2,0.12,0.31,445,1.68,53,84,668,668,0.13,61,73,-1,1
+Ronaldo Henrique Ferreira da Silva,24,Professional League,2017/2018,Midfielder,Ohod,709,241,468,Brazil,10,2,5,0,0,0,1,0,1,0,0,0,0,0,15,7,8,3,0,0.13,0.13,0,0,0,0,1.9,47,71,236,709,0.38,216,75,-1,27
+Sumayhan Alnabit,22,Professional League,2017/2018,Midfielder,Ohod,333,229,104,Saudi Arabia,7,2,1,0,0,0,0,0,0,0,0,0,0,0,6,4,2,1,0,0,0,0,0,0,0,1.62,56,48,333,0,0.27,171,237,-1,20
+Charles Carolus Andriamatsinoro,29,Professional League,2017/2018,Forward,Ohod,820,280,540,Madagascar,10,3,6,1,1,0,1,1,0,0,0,1,1,0,17,7,10,1,0,0.22,0.11,0.11,0.32,0,820,1.87,48,82,820,820,0.11,95,92,-1,11
+Mohameed Eldaw,24,Professional League,2017/2018,Forward,Ohod,1047,450,597,Saudi Arabia,13,5,7,2,0,2,1,1,0,0,0,2,1,1,18,8,10,2,0,0.26,0.09,0.17,0,0.3,524,1.55,58,81,524,1047,0.17,74,101,-1,2
+Isaac Vorsah,30,Professional League,2017/2018,Defender,Ohod,1449,879,570,Ghana,17,10,6,1,1,0,0,0,0,0,0,2,1,1,28,17,11,1,0,0.06,0,0.06,0.1,0,1449,1.74,52,85,1449,0,0.06,117,238,86,9
+Mohammed Mohsen Harzan,29,Professional League,2017/2018,Midfielder,Ohod,1189,749,440,Saudi Arabia,15,9,5,1,1,0,1,0,1,0,0,2,1,1,20,14,6,2,0,0.15,0.08,0.08,0.12,0,1189,1.51,59,79,595,1189,0.15,105,106,-1,8
+Mohmad Atiah,26,Professional League,2017/2018,Forward,Ohod,752,630,122,Saudi Arabia,10,7,2,1,1,0,2,1,1,0,0,2,1,1,14,12,2,1,0,0.36,0.24,0.12,0.14,0,752,1.68,54,75,752,376,0.12,86,31,-1,10
+Abdulhalim Al Amoudi,32,Professional League,2017/2018,Forward,Ohod,238,106,132,Saudi Arabia,12,1,0,0,0,0,2,1,1,0,0,0,0,0,5,3,2,0,0,0.76,0.76,0,0,0,0,1.89,48,20,0,119,0,-1,-1,-1,24
+Rakan Al-Hafdhi,23,Professional League,2017/2018,Midfielder,Ohod,91,31,60,Saudi Arabia,5,0,1,0,0,0,0,0,0,0,0,1,0,1,4,2,2,1,0,0,0,0,0,0,0,3.96,23,18,91,0,0.99,-1,-1,-1,23
+Mustafa Reda Malayekah,32,Professional League,2017/2018,Goalkeeper,Al Faisaly,1710,810,900,Saudi Arabia,19,9,10,0,0,0,0,0,0,0,0,5,2,3,21,10,11,0,0,0,0,0,0,0,0,1.11,81,90,0,0,0,139,220,24,11
+Sultan Al Bishi,28,Professional League,2017/2018,Defender,Al Faisaly,181,90,91,Saudi Arabia,3,1,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,0,2.49,36,60,0,0,0,-1,-1,-1,18
+Igor Rossi Branco,29,Professional League,2017/2018,Defender,Al Faisaly,1620,810,810,Brazil,18,9,9,3,0,3,0,0,0,0,0,5,2,3,18,10,8,3,0,0.17,0,0.17,0,0.33,540,1,90,90,540,0,0.17,72,178,14,5
+Wesam Al Swed,30,Professional League,2017/2018,Defender,Al Faisaly,392,122,270,Saudi Arabia,5,2,3,0,0,0,1,0,1,0,0,1,0,1,7,4,3,2,0,0.23,0.23,0,0,0,0,1.61,56,78,196,392,0.46,137,37,79,21
+Khaleem Hyland,29,Professional League,2017/2018,Midfielder,Al Faisaly,1528,808,720,Trinidad and Tobago,18,9,8,1,1,0,1,0,1,0,0,4,2,2,20,10,10,4,0,0.12,0.06,0.06,0.11,0,1528,1.18,76,85,382,1528,0.24,114,118,-1,7
+Omar Abdulaziz,34,Professional League,2017/2018,Midfielder,Al Faisaly,1598,800,798,Saudi Arabia,18,9,9,1,1,0,1,1,0,0,0,5,2,3,20,10,10,3,0,0.11,0.06,0.06,0.11,0,1598,1.13,80,89,533,1598,0.17,115,120,-1,8
+Luis Gustavo Melere da Silva,27,Professional League,2017/2018,Midfielder,Al Faisaly,1594,800,794,Brazil,18,9,9,6,1,5,8,2,6,3,1,4,2,2,18,9,9,4,0,0.79,0.45,0.34,0.11,0.57,266,1.02,89,89,399,199,0.23,37,4,-1,2
+Sultan Abdullah Al Ghanam,24,Professional League,2017/2018,Midfielder,Al Faisaly,1440,720,720,Saudi Arabia,16,8,8,0,0,0,2,2,0,0,0,5,2,3,15,8,7,2,0,0.13,0.13,0,0,0,0,0.94,96,90,720,720,0.13,123,79,-1,20
+Mircea Ionuț Axente,31,Professional League,2017/2018,Forward,Al Faisaly,144,81,63,Romania,2,1,1,0,0,0,1,1,0,0,0,0,0,0,4,3,1,0,0,0.63,0.63,0,0,0,0,2.5,36,72,0,144,0,-1,-1,-1,19
+Mohammed Yahya Majrashi,27,Professional League,2017/2018,Forward,Al Faisaly,798,299,499,Saudi Arabia,16,3,5,1,0,1,3,1,2,0,0,3,1,2,11,5,6,3,0,0.45,0.34,0.11,0,0.18,798,1.24,73,50,266,266,0.34,94,11,-1,9
+Mansour Hamzi,26,Professional League,2017/2018,Forward,Al Faisaly,935,375,560,Saudi Arabia,16,4,6,2,2,0,1,0,1,0,0,4,2,2,13,6,7,0,0,0.29,0.1,0.19,0.48,0,468,1.25,72,58,0,935,0,64,96,-1,6
+Sultan Madash,24,Professional League,2017/2018,Midfielder,Al Faisaly,215,78,137,Saudi Arabia,11,0,1,0,0,0,0,0,0,0,0,3,1,2,2,0,2,0,0,0,0,0,0,0,0,0.84,108,20,0,0,0,-1,-1,-1,15
+Saeed Awadh Al Yami,24,Professional League,2017/2018,Defender,Al Faisaly,896,360,536,Saudi Arabia,12,4,6,0,0,0,0,0,0,0,0,3,0,3,9,3,6,5,1,0,0,0,0,0,0,0.9,100,75,149,0,0.6,126,139,11,17
+Mohammed Abusabaan,28,Professional League,2017/2018,Midfielder,Al Faisaly,1221,543,678,Saudi Arabia,16,6,8,5,4,1,0,0,0,0,0,3,1,2,15,6,9,3,0,0.37,0,0.37,0.66,0.13,244,1.11,81,76,407,0,0.22,31,136,-1,3
+Hamed Al Mansour,25,Professional League,2017/2018,Midfielder,Al Faisaly,778,284,494,Saudi Arabia,12,3,5,0,0,0,0,0,0,0,0,4,1,3,10,3,7,1,0,0,0,0,0,0,0,1.16,78,65,778,0,0.12,124,134,-1,16
+Waleed Abdullah Ali,32,Professional League,2017/2018,Goalkeeper,Al Nassr,1314,774,540,Saudi Arabia,15,9,6,0,0,0,0,0,0,0,0,4,2,2,16,9,7,2,0,0,0,0,0,0,0,1.1,82,88,657,0,0.14,135,133,22,17
+Ahmad Walpi Aqqash,28,Professional League,2017/2018,Defender,Al Nassr,180,90,90,Saudi Arabia,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,20
+Khaled Ahmed Al Ghamdi,30,Professional League,2017/2018,Defender,Al Nassr,923,428,495,Saudi Arabia,11,5,5,0,0,0,0,0,0,0,0,2,0,2,12,7,5,3,0,0,0,0,0,0,0,1.17,77,84,308,0,0.29,144,132,32,26
+Bruno Uvini Bortolanca,27,Professional League,2017/2018,Defender,Al Nassr,1620,720,900,Brazil,18,8,10,1,1,0,0,0,0,0,0,4,2,2,21,8,13,3,0,0.06,0,0.06,0.13,0,1620,1.17,77,90,540,0,0.17,113,131,31,8
+Omar Ibrahim Omar Othman Hawsawi,33,Professional League,2017/2018,Defender,Al Nassr,1297,630,667,Saudi Arabia,15,7,8,0,0,0,0,0,0,0,0,3,2,1,16,7,9,1,1,0,0,0,0,0,0,1.11,81,86,649,0,0.14,164,130,25,25
+Ahmed Mohammed Al Fraidi,30,Professional League,2017/2018,Midfielder,Al Nassr,457,126,331,Saudi Arabia,10,2,3,0,0,0,1,0,1,0,0,1,0,1,5,2,3,3,0,0.2,0.2,0,0,0,0,0.98,91,46,152,457,0.59,160,43,-1,24
+Yehya Sulaiman Al Shehri,28,Professional League,2017/2018,Midfielder,Al Nassr,1332,618,714,Saudi Arabia,16,7,8,4,2,2,6,3,3,0,0,3,1,2,18,8,10,0,0,0.68,0.41,0.27,0.29,0.25,333,1.22,74,83,0,222,0,45,7,-1,4
+Ibrahim Mohammed Ghaleb Jahshan,28,Professional League,2017/2018,Midfielder,Al Nassr,1262,684,578,Saudi Arabia,15,8,7,0,0,0,2,1,1,0,0,3,2,1,17,8,9,3,0,0.14,0.14,0,0,0,0,1.21,74,84,421,631,0.21,157,65,-1,23
+Sami Khalil Al Naji,21,Professional League,2017/2018,Midfielder,Al Nassr,410,197,213,Saudi Arabia,8,2,3,0,0,0,0,0,0,0,0,1,0,1,6,3,3,0,0,0,0,0,0,0,0,1.32,68,51,0,0,0,146,174,-1,22
+Fahad Bin Jumayah,23,Professional League,2017/2018,Midfielder,Al Nassr,312,143,169,Saudi Arabia,9,1,2,1,0,1,3,1,2,0,0,2,2,0,5,0,5,3,0,1.15,0.87,0.29,0,0.53,312,1.44,62,35,104,104,0.87,42,1,-1,9
+Mohammad Ibrahim Al Sahlawi,31,Professional League,2017/2018,Forward,Al Nassr,1325,488,837,Saudi Arabia,17,6,9,8,3,5,3,0,3,4,0,4,2,2,17,6,11,0,0,0.75,0.2,0.54,0.55,0.54,166,1.15,78,78,0,442,0,14,44,-1,1
+Hassan Al Raheb,35,Professional League,2017/2018,Forward,Al Nassr,145,114,31,Saudi Arabia,6,1,0,2,1,1,0,0,0,0,0,1,0,1,1,1,0,0,0,1.24,0,1.24,0.79,2.9,73,0.62,145,24,0,0,0,-1,-1,-1,6
+Muteb Al-Mutlaq,20,Professional League,2017/2018,Defender,Al Nassr,234,98,136,Saudi Arabia,4,1,2,0,0,0,1,0,1,0,0,0,0,0,6,3,3,1,0,0.38,0.38,0,0,0,0,2.31,39,59,234,234,0.38,-1,-1,-1,21
+Hussain Abdoh Al Shaian,29,Professional League,2017/2018,Goalkeeper,Al Nassr,396,36,360,Saudi Arabia,5,0,4,0,0,0,0,0,0,0,0,0,0,0,6,0,6,0,0,0,0,0,0,0,0,1.36,66,79,0,0,0,155,161,53,27
+Faisal Al Khara,24,Professional League,2017/2018,Defender,Al Taawon,326,249,77,Saudi Arabia,4,3,1,0,0,0,0,0,0,0,0,2,2,0,4,2,2,2,0,0,0,0,0,0,0,1.1,82,82,163,0,0.55,154,159,21,18
+Rogerio De Assis Silva Coutinho,31,Professional League,2017/2018,Forward,Al Faisaly,1131,567,564,Brazil,16,7,7,4,1,3,4,2,2,0,0,5,2,3,14,6,8,1,0,0.64,0.32,0.32,0.16,0.48,283,1.11,81,71,1131,283,0.08,40,15,-1,4
+Motaz Ali Hassan Hawsawi,26,Professional League,2017/2018,Defender,Al Ahli,1350,810,540,Saudi Arabia,15,9,6,2,0,2,1,1,0,0,0,4,4,0,16,7,9,2,0,0.2,0.07,0.13,0,0.33,675,1.07,84,90,675,1350,0.13,84,110,20,8
+Saleh Mohammed Al Jamaan,25,Professional League,2017/2018,Forward,Al Ahli,380,304,76,Saudi Arabia,8,3,0,1,1,0,0,0,0,0,0,2,2,0,8,6,2,0,0,0.24,0,0.24,0.3,0,380,1.89,48,48,0,0,0,53,155,-1,10
+Leonardo da Silva Souza,26,Professional League,2017/2018,Midfielder,Al Ahli,1061,436,625,Brazil,13,5,7,8,5,3,4,1,3,2,0,4,3,1,12,3,9,1,0,1.02,0.34,0.68,1.03,0.43,133,1.02,88,82,1061,265,0.08,5,9,-1,2
+Abdullah Magrshi,21,Professional League,2017/2018,Midfielder,Al Ahli,160,128,32,Saudi Arabia,8,1,0,1,1,0,0,0,0,0,0,5,4,1,1,0,1,0,0,0.56,0,0.56,0.7,0,160,0.56,160,20,0,0,0,-1,-1,-1,9
+Amiri Kurdi,27,Professional League,2017/2018,Defender,Al Ahli,280,17,263,Saudi Arabia,7,0,3,0,0,0,1,0,1,0,0,2,1,1,4,1,3,1,0,0.32,0.32,0,0,0,0,1.29,70,40,280,280,0.32,122,13,48,15
+Ali Al Mazidi,33,Professional League,2017/2018,Goalkeeper,Al Fateh,1530,810,720,Saudi Arabia,17,9,8,0,0,0,0,0,0,0,1,6,3,3,20,12,8,2,0,0,0,0,0,0,0,1.18,77,90,765,0,0.12,145,176,33,17
+Valdo Gonçalves Alhinho,29,Professional League,2017/2018,Midfielder,Al Batin,451,296,155,Portugal,11,3,1,0,0,0,0,0,0,0,0,3,2,1,6,3,3,3,0,0,0,0,0,0,0,1.2,75,41,150,0,0.6,147,125,-1,14
+Mhana Al Enazi,34,Professional League,2017/2018,Midfielder,Al Batin,1530,720,810,Saudi Arabia,18,8,9,0,0,0,0,0,0,0,0,4,2,2,26,12,14,2,0,0,0,0,0,0,0,1.53,59,85,765,0,0.12,148,164,-1,13
+Abdalmajeed Obaid,23,Professional League,2017/2018,Midfielder,Al Batin,276,54,222,Saudi Arabia,7,1,1,0,0,0,0,0,0,0,0,3,1,2,2,0,2,2,0,0,0,0,0,0,0,0.65,138,39,138,0,0.65,149,152,-1,12
+Muhannad Shanqeeti,19,Professional League,2017/2018,Forward,Ohod,372,328,44,Saudi Arabia,5,4,0,0,0,0,0,0,0,0,0,0,0,0,9,8,1,0,0,0,0,0,0,0,0,2.18,41,74,0,0,0,150,154,-1,22
+Sami Kassar,28,Professional League,2017/2018,Defender,Ohod,1338,858,480,Saudi Arabia,18,9,5,0,0,0,0,0,0,0,0,2,1,1,25,18,7,3,0,0,0,0,0,0,0,1.68,54,74,446,0,0.2,151,157,81,21
+Leonardo Rodriguez Pereira,32,Professional League,2017/2018,Midfielder,Al Nassr,1307,640,667,Brazil,18,7,8,7,4,3,0,0,0,1,0,4,2,2,20,8,12,1,0,0.48,0,0.48,0.56,0.4,187,1.38,65,73,1307,0,0.07,21,158,-1,2
+William Jebor,26,Professional League,2017/2018,Forward,Al Nassr,501,214,287,Liberia,11,2,2,3,1,2,0,0,0,0,0,1,0,1,6,3,3,0,0,0.54,0,0.54,0.42,0.63,167,1.08,84,46,0,0,0,13,163,-1,5
+Awdh Khamis Faraj,30,Professional League,2017/2018,Midfielder,Al Nassr,527,248,279,Saudi Arabia,9,2,3,0,0,0,0,0,0,0,0,3,1,2,6,2,4,2,0,0,0,0,0,0,0,1.02,88,59,264,0,0.34,152,166,-1,19
+Hossam El Sayed Ghaly,36,Professional League,2017/2018,Midfielder,Al Nassr,987,506,481,Egypt,12,6,6,0,0,0,0,0,0,0,0,2,1,1,14,6,8,4,0,0,0,0,0,0,0,1.28,71,82,247,0,0.36,153,167,-1,18
+Saad Lagrou,26,Professional League,2017/2018,Defender,Al Nassr,1050,496,554,Morocco,13,6,6,0,0,0,1,0,1,0,0,2,1,1,14,6,8,3,0,0.09,0.09,0,0,0,0,1.2,75,81,350,1050,0.26,156,102,35,11
+Saad Abdulameer Luaibi Al Zirjawi Al Dobjahawe,26,Professional League,2017/2018,Midfielder,Al Shabab,930,450,480,Iraq,14,4,6,1,1,0,1,1,0,0,0,0,0,0,17,8,9,3,0,0.19,0.1,0.1,0.2,0,930,1.65,55,66,310,930,0.29,98,97,-1,9
+Jonatas Elias Belusso,30,Professional League,2017/2018,Forward,Al Shabab,262,262,0,Brazil,5,2,0,1,1,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0.34,0,0.34,0.34,0,262,1.37,66,52,0,0,0,-1,-1,-1,7
+Nasser Ali Al Shamrani,34,Professional League,2017/2018,Forward,Al Shabab,1100,419,681,Saudi Arabia,16,5,8,7,1,6,2,2,0,1,1,2,0,2,18,9,9,0,0,0.74,0.16,0.57,0.21,0.79,157,1.47,61,69,0,550,0,10,60,-1,1
+Hattan Babhir,26,Professional League,2017/2018,Midfielder,Al Shabab,797,329,468,Saudi Arabia,14,4,7,5,2,3,2,1,1,0,0,1,0,1,9,4,5,1,0,0.79,0.23,0.56,0.55,0.58,159,1.02,89,57,797,399,0.11,12,39,-1,3
+Jumaan Ibrahim Al Dosari,31,Professional League,2017/2018,Defender,Al Shabab,195,180,15,Saudi Arabia,4,2,0,0,0,0,0,0,0,0,0,1,0,1,7,6,1,0,0,0,0,0,0,0,0,3.23,28,49,0,0,0,-1,-1,-1,16
+Mansour Al-Najar,23,Professional League,2017/2018,Midfielder,Al Quadisiya,88,24,64,Saudi Arabia,5,0,1,0,0,0,0,0,0,0,0,2,1,1,3,1,2,1,0,0,0,0,0,0,0,3.07,29,18,88,0,1.02,-1,-1,-1,18
+Ahmad Hassan Hassan Asiri,26,Professional League,2017/2018,Defender,Al Ittihad,360,90,270,Saudi Arabia,4,1,3,0,0,0,0,0,0,0,0,1,0,1,7,4,3,1,0,0,0,0,0,0,0,1.75,51,90,360,0,0.25,159,149,88,16
+Carlos Andrés Villanueva Roland,32,Professional League,2017/2018,Midfielder,Al Ittihad,1437,630,807,Chile,16,7,9,2,1,1,7,0,7,0,0,2,1,1,20,9,11,0,0,0.56,0.44,0.13,0.14,0.11,719,1.25,72,90,0,205,0,85,5,-1,5
+Ammar Siraj Y Al Najjar,21,Professional League,2017/2018,Midfielder,Al Ittihad,642,302,340,Saudi Arabia,11,4,4,1,1,0,0,0,0,0,0,1,1,0,10,4,6,2,0,0.14,0,0.14,0.3,0,642,1.4,64,58,321,0,0.28,78,126,-1,8
+Ahmed Akaïchi,29,Professional League,2017/2018,Forward,Al Ittihad,1547,720,827,Tunisia,18,8,9,10,6,4,1,1,0,1,0,2,1,1,23,13,10,2,0,0.64,0.06,0.58,0.75,0.44,155,1.34,67,86,774,1547,0.12,9,122,-1,1
+Rodrigo Javier Salinas,32,Professional League,2017/2018,Forward,Al Ittifaq,472,291,181,Argentina,7,4,3,2,1,1,0,0,0,1,0,0,0,0,10,6,4,0,0,0.38,0,0.38,0.31,0.5,236,1.91,47,67,0,0,0,30,127,-1,3
+Abdulaziz Waseli,22,Professional League,2017/2018,Defender,Al Ittifaq,103,13,90,Saudi Arabia,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.87,103,52,0,0,0,-1,-1,-1,21
+Faisal Al Masrahi,25,Professional League,2017/2018,Goalkeeper,Al Quadisiya,1530,810,720,Saudi Arabia,17,9,8,0,0,0,0,0,0,0,0,3,2,1,25,13,12,2,0,0,0,0,0,0,0,1.47,61,90,765,0,0.12,161,129,66,8
+Ryad Kamar Eddine Keniche,25,Professional League,2017/2018,Defender,Al Quadisiya,241,90,151,Algeria,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,0,1.49,60,80,241,0,0.37,-1,-1,-1,16
+Mohammed Fatau,25,Professional League,2017/2018,Midfielder,Al Quadisiya,1511,810,701,Ghana,17,9,8,0,0,0,0,0,0,0,0,3,2,1,25,13,12,4,0,0,0,0,0,0,0,1.49,60,89,378,0,0.24,162,135,-1,15
+Ibrahim Al Shuayl,23,Professional League,2017/2018,Defender,Al Quadisiya,450,445,5,Saudi Arabia,6,5,0,0,0,0,0,0,0,0,0,1,1,0,9,9,0,1,0,0,0,0,0,0,0,1.8,50,75,450,0,0.2,169,142,89,14
+João Pedro Pereira dos Santos,25,Professional League,2017/2018,Forward,Al Fateh,1284,663,621,Brazil,15,8,7,7,2,5,0,0,0,0,0,5,3,2,17,9,8,1,1,0.49,0,0.49,0.27,0.72,183,1.19,76,86,642,0,0.14,20,143,-1,1
+Abdulaziz Majrashi,27,Professional League,2017/2018,Forward,Al Fateh,711,389,322,Saudi Arabia,10,5,3,0,0,0,0,0,0,0,0,5,2,3,2,1,1,3,0,0,0,0,0,0,0,0.25,356,71,237,0,0.38,163,144,-1,19
+Mahmoud Abdel Razek Fadlallah,32,Professional League,2017/2018,Midfielder,Al Raed,1251,569,682,Egypt,16,5,8,6,2,4,2,1,1,1,0,0,0,0,28,16,12,0,0,0.58,0.14,0.43,0.32,0.53,209,2.01,45,78,0,626,0,24,70,-1,2
+Sager Otayf,28,Professional League,2017/2018,Forward,Al Raed,679,416,263,Saudi Arabia,15,4,3,5,1,4,1,1,0,1,0,1,1,0,17,10,7,3,0,0.8,0.13,0.66,0.22,1.37,136,2.25,40,45,226,679,0.4,7,77,-1,3
+Abdulrahman Al Shammari,29,Professional League,2017/2018,Defender,Al Raed,173,118,55,Saudi Arabia,6,2,1,0,0,0,0,0,0,0,0,1,1,0,3,1,2,0,0,0,0,0,0,0,0,1.56,58,29,0,0,0,-1,-1,-1,16
+Luis Paulo,28,Professional League,2017/2018,Defender,Al Batin,1530,720,810,Paraguay,17,8,9,3,2,1,0,0,0,0,0,3,1,2,26,12,14,2,0,0.18,0,0.18,0.25,0.11,510,1.53,59,90,765,0,0.12,68,146,76,4
+Jamaan Al Dosari,25,Professional League,2017/2018,Defender,Al Faisaly,540,360,180,Saudi Arabia,6,4,2,0,0,0,0,0,0,0,0,1,1,0,5,3,2,2,0,0,0,0,0,0,0,0.83,108,90,270,0,0.33,165,147,8,14
+Tendai Ndoro,33,Professional League,2017/2018,Forward,Al Faisaly,123,68,55,Zimbabwe,4,1,1,1,0,1,0,0,0,0,0,1,0,1,1,1,0,0,0,0.73,0,0.73,0,1.64,123,0.73,123,31,0,0,0,-1,-1,-1,10
+Fahad Mohammed Hamad Al Yamani,28,Professional League,2017/2018,Midfielder,Al Faisaly,179,95,84,Saudi Arabia,10,1,0,0,0,0,0,0,0,0,0,3,2,1,3,1,2,1,0,0,0,0,0,0,0,1.51,60,18,179,0,0.5,-1,-1,-1,13
+Islam Hassan Seraj,29,Professional League,2017/2018,Forward,Al Faisaly,942,426,516,Saudi Arabia,14,5,6,7,2,5,1,0,1,0,0,5,2,3,12,5,7,2,0,0.76,0.1,0.67,0.42,0.87,135,1.15,79,67,471,942,0.19,6,94,-1,1
+Mohammed Qassem Al Nakhli,23,Professional League,2017/2018,Defender,Al Ittihad,361,134,227,Saudi Arabia,8,2,2,0,0,0,0,0,0,0,0,2,1,1,4,1,3,1,0,0,0,0,0,0,0,1,90,45,361,0,0.25,166,145,15,14
+Ammar Al Daheem,25,Professional League,2017/2018,Defender,Al Ittihad,885,522,363,Saudi Arabia,11,6,4,0,0,0,0,0,0,0,0,2,1,1,14,9,5,3,0,0,0,0,0,0,0,1.42,63,80,295,0,0.31,167,141,60,13
+Ziyad Al Sahafi,24,Professional League,2017/2018,Defender,Al Ittihad,657,270,387,Saudi Arabia,8,3,4,1,0,1,0,0,0,0,0,1,0,1,8,5,3,1,0,0.14,0,0.14,0,0.23,657,1.1,82,82,657,0,0.14,79,140,23,6
+Fahad Al Shammari,37,Professional League,2017/2018,Goalkeeper,Al Feiha,630,270,360,Saudi Arabia,7,3,4,0,0,0,0,0,0,0,0,1,1,0,9,3,6,1,0,0,0,0,0,0,0,1.29,70,90,630,0,0.14,168,138,46,15
+Mohammed Kareem Al Baqawi,23,Professional League,2017/2018,Defender,Al Feiha,1186,609,577,Saudi Arabia,14,7,7,0,0,0,0,0,0,0,0,2,1,1,17,9,8,3,0,0,0,0,0,0,0,1.29,70,85,395,0,0.23,158,150,47,14
+Motaz Tombakti,24,Professional League,2017/2018,Midfielder,Al Feiha,307,171,136,Saudi Arabia,8,2,2,0,0,0,1,0,1,0,0,1,1,0,6,4,2,2,0,0.29,0.29,0,0,0,0,1.76,51,38,154,307,0.59,143,18,-1,13
+Ahmed Bamsaud,22,Professional League,2017/2018,Defender,Al Feiha,220,97,123,Saudi Arabia,5,1,2,0,0,0,0,0,0,0,0,2,1,1,6,3,3,0,0,0,0,0,0,0,0,2.45,37,44,0,0,0,-1,-1,-1,12
+Abdulrahman Aldawsari,21,Professional League,2017/2018,Midfielder,Al Taawon,426,98,328,Saudi Arabia,9,1,4,0,0,0,0,0,0,0,0,2,2,0,7,2,5,0,0,0,0,0,0,0,0,1.48,61,47,0,0,0,125,173,-1,19
+Naif Ahmed Taib Hazazi,30,Professional League,2017/2018,Forward,Al Taawon,353,203,150,Saudi Arabia,9,3,1,2,1,1,0,0,0,1,1,2,2,0,1,1,0,3,0,0.51,0,0.51,0.44,0.6,177,0.25,353,39,118,0,0.76,16,171,-1,7
+Abdulaziz Ali Al Bishi,24,Professional League,2017/2018,Midfielder,Al Taawon,482,174,308,Saudi Arabia,11,2,4,0,0,0,1,0,1,0,0,1,1,0,8,2,6,0,0,0.19,0.19,0,0,0,0,1.49,60,44,0,482,0,127,46,-1,21
+Hasan Kadesh,26,Professional League,2017/2018,Defender,Al Hilal,224,224,0,Saudi Arabia,3,2,0,0,0,0,0,0,0,0,0,1,1,0,2,2,0,1,0,0,0,0,0,0,0,0.8,112,75,224,0,0.4,-1,-1,-1,23
+Ali Albulayhi,28,Professional League,2017/2018,Defender,Al Hilal,180,90,90,Saudi Arabia,2,1,1,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,22
+Faisal Darwish Faraj,27,Professional League,2017/2018,Midfielder,Al Hilal,467,343,124,Saudi Arabia,7,4,1,1,1,0,0,0,0,0,0,2,2,0,4,2,2,2,0,0.19,0,0.19,0.26,0,467,0.77,117,67,234,0,0.39,63,170,-1,10
+Mohammed Kanoo,24,Professional League,2017/2018,Midfielder,Al Hilal,480,317,163,Saudi Arabia,10,2,2,0,0,0,1,0,1,0,0,5,2,3,2,2,0,0,0,0.19,0.19,0,0,0,0,0.38,240,48,0,480,0,128,45,-1,21
+Gelmin Javier Rivas Boada,29,Professional League,2017/2018,Forward,Al Hilal,1163,717,446,Venezuela,17,7,5,6,3,3,2,2,0,0,0,6,3,3,9,6,3,0,0,0.62,0.15,0.46,0.38,0.61,194,0.7,129,68,0,582,0,22,64,-1,1
+Majed Al Najrani,25,Professional League,2017/2018,Midfielder,Al Hilal,199,186,13,Saudi Arabia,5,2,0,0,0,0,2,2,0,0,0,3,2,1,1,1,0,1,0,0.9,0.9,0,0,0,0,0.45,199,40,199,100,0.45,-1,-1,-1,14
+Muhammad Abdul Fallatah,22,Professional League,2017/2018,Midfielder,Al Hilal,247,76,171,Saudi Arabia,4,1,2,0,0,0,0,0,0,0,0,2,2,0,2,0,2,0,0,0,0,0,0,0,0,0.73,124,62,0,0,0,-1,-1,-1,15
+Abdullah Al-Yahya,19,Professional League,2017/2018,Forward,Ohod,129,55,74,Saudi Arabia,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,1.4,65,65,129,0,0.7,-1,-1,-1,19
+Ayman Ftinei,23,Professional League,2017/2018,Midfielder,Ohod,642,326,316,Saudi Arabia,10,3,4,1,1,0,0,0,0,0,0,1,1,0,11,5,6,4,0,0.14,0,0.14,0.28,0,642,1.54,58,64,161,0,0.56,80,168,-1,7
+Godfrey Oboabona Itama,28,Professional League,2017/2018,Defender,Al Ahli,709,331,378,Nigeria,9,4,5,0,0,0,0,0,0,0,0,1,1,0,7,2,5,3,0,0,0,0,0,0,0,0.89,101,79,236,0,0.38,129,160,10,14
+Mohamed Fouzair,26,Professional League,2017/2018,Midfielder,Al Nassr,1360,607,753,Morocco,16,7,8,5,2,3,2,2,0,0,0,3,1,2,19,8,11,0,0,0.46,0.13,0.33,0.3,0.36,272,1.26,72,85,0,680,0,39,71,-1,3
+Abdulaziz Al Jebreen,28,Professional League,2017/2018,Midfielder,Al Nassr,487,262,225,Saudi Arabia,8,3,3,1,1,0,0,0,0,0,0,3,2,1,6,2,4,2,0,0.18,0,0.18,0.34,0,487,1.11,81,61,244,0,0.37,66,153,-1,10
+Abdullah Al Amri,21,Professional League,2017/2018,Defender,Al Nassr,90,90,0,Saudi Arabia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,16
+Rayed Al Ghamdi,24,Professional League,2017/2018,Midfielder,Ohod,734,734,0,Saudi Arabia,10,8,0,2,2,0,0,0,0,0,0,1,1,0,13,13,0,0,0,0.25,0,0.25,0.25,0,367,1.59,56,73,0,0,0,48,156,-1,3
+Ahmed Al Nazera,25,Professional League,2017/2018,Midfielder,Al Fateh,356,228,128,Saudi Arabia,10,2,1,0,0,0,1,1,0,0,0,3,1,2,4,0,4,0,0,0.25,0.25,0,0,0,0,1.01,89,36,0,356,0,130,28,-1,20
+Omar Al Senien,23,Professional League,2017/2018,Midfielder,Al Ittifaq,184,94,90,Saudi Arabia,3,1,1,0,0,0,0,0,0,0,0,1,1,0,2,1,1,1,0,0,0,0,0,0,0,0.98,92,61,184,0,0.49,-1,-1,-1,20
+Hassan Algeed,20,Professional League,2017/2018,Midfielder,Al Shabab,66,0,66,Saudi Arabia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,2.73,33,66,0,0,0,-1,-1,-1,15
+Mohammed Khubrani,25,Professional League,2017/2018,Defender,Al Quadisiya,878,428,450,Saudi Arabia,10,5,5,0,0,0,0,0,0,0,0,3,2,1,11,3,8,0,0,0,0,0,0,0,0,1.13,80,88,0,0,0,131,162,27,13
+Mohammed Abdullah Mathnani,26,Professional League,2017/2018,Midfielder,Al Quadisiya,700,333,367,Tunisia,10,4,5,0,0,0,0,0,0,0,0,3,2,1,7,3,4,3,0,0,0,0,0,0,0,0.9,100,70,233,0,0.39,133,151,-1,12
+Sultan Abdullah Al Deayea,25,Professional League,2017/2018,Defender,Al Faisaly,769,405,364,Saudi Arabia,12,4,4,0,0,0,0,0,0,0,0,4,2,2,8,4,4,3,0,0,0,0,0,0,0,0.94,96,64,256,0,0.35,134,165,13,12
+Mohammed Amman Al Harbi,30,Professional League,2017/2018,Defender,Al Fateh,540,180,360,Saudi Arabia,7,2,4,1,0,1,0,0,0,0,0,2,1,1,9,3,6,1,0,0.17,0,0.17,0,0.25,540,1.5,60,77,540,0,0.17,69,169,72,6
+Abdullah Mohammed Madu,25,Professional League,2017/2018,Defender,Al Nassr,475,180,295,Saudi Arabia,6,2,3,0,0,0,0,0,0,0,0,1,0,1,6,2,4,1,0,0,0,0,0,0,0,1.14,79,79,475,0,0.19,132,172,29,15
+Mohammad Bander Al Shalhoub,37,Professional League,2017/2018,Midfielder,Al Hilal,170,78,92,Saudi Arabia,6,0,1,1,0,1,0,0,0,0,0,2,0,2,1,1,0,0,0,0.53,0,0.53,0,0.98,170,0.53,170,28,0,0,0,-1,-1,-1,7
+Mohammed Al Amri,26,Professional League,2017/2018,Defender,Al Raed,136,126,10,Saudi Arabia,4,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,1,0,0,0,0,0,0,0,2.65,34,34,136,0,0.66,-1,-1,-1,15
+Abdullah Alkhaibari,22,Professional League,2017/2018,Midfielder,Al Shabab,827,180,647,Saudi Arabia,10,2,7,0,0,0,0,0,0,0,0,1,0,1,11,2,9,2,0,0,0,0,0,0,0,1.2,75,83,414,0,0.22,136,175,-1,14
+Sultan Farhan,22,Professional League,2017/2018,Midfielder,Al Raed,764,456,308,Saudi Arabia,11,5,3,0,0,0,0,0,0,0,0,1,1,0,16,11,5,1,0,0,0,0,0,0,0,1.88,48,69,764,0,0.12,138,137,-1,14
+Khaled Al Enazi,34,Professional League,2017/2018,Midfielder,Al Batin,49,46,3,Saudi Arabia,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1.84,49,16,49,0,1.84,-1,-1,-1,11
+Mutab Sharahili,25,Professional League,2017/2018,Goalkeeper,Al Raed,1170,630,540,Saudi Arabia,13,7,6,0,0,0,0,0,0,0,0,1,1,0,25,16,9,1,0,0,0,0,0,0,0,1.92,47,90,1170,0,0.08,140,148,93,13
+Mohammed Reeman,22,Professional League,2017/2018,Defender,Al Ittihad,327,112,215,Saudi Arabia,5,1,3,0,0,0,1,1,0,0,0,0,0,0,5,2,3,1,0,0.28,0.28,0,0,0,0,1.38,65,65,327,327,0.28,141,23,54,12
+Turki Al-Ammar,19,Professional League,2017/2018,Midfielder,Al Shabab,672,245,427,Saudi Arabia,9,3,5,0,0,0,0,0,0,0,0,2,0,2,4,2,2,1,0,0,0,0,0,0,0,0.54,168,75,672,0,0.13,142,128,-1,13
+Tawfiq Buhumaid,31,Professional League,2017/2018,Midfielder,Al Feiha,382,180,202,Saudi Arabia,5,2,2,1,0,1,1,1,0,0,0,2,1,1,7,1,6,2,0,0.47,0.24,0.24,0,0.45,382,1.65,55,76,191,382,0.47,56,32,-1,9
+Hatim Belal,24,Professional League,2017/2018,Defender,Al Quadisiya,96,96,0,Saudi Arabia,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0.94,96,48,96,0,0.94,-1,-1,-1,11
+Hamed Al Ghamdi,19,Professional League,2017/2018,Midfielder,Al Ittifaq,357,90,267,Saudi Arabia,4,1,3,2,1,1,1,1,0,0,0,0,0,0,6,2,4,1,0,0.76,0.25,0.5,1,0.34,179,1.51,60,89,357,357,0.25,19,29,-1,4
+Mohammed Al-Shoraimi,23,Professional League,2017/2018,Defender,Al Raed,154,0,154,Saudi Arabia,2,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,1.75,51,77,0,0,0,-1,-1,-1,12
+Abdulrahman Kamel Abdullah Al Ghamdi,24,Professional League,2017/2018,Forward,Al Ittihad,160,89,71,Saudi Arabia,4,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1.13,80,40,0,0,0,-1,-1,-1,24
+Hamad Sulaiman Al Jayzani,25,Professional League,2017/2018,Defender,Al Quadisiya,185,95,90,Saudi Arabia,3,1,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.46,62,62,0,0,0,-1,-1,-1,10
+Mohammed Al Zubaidi,21,Professional League,2017/2018,Defender,Al Ittifaq,270,90,180,Saudi Arabia,3,1,2,0,0,0,0,0,0,0,0,0,0,0,5,2,3,2,0,0,0,0,0,0,0,1.67,54,90,135,0,0.67,-1,-1,-1,12
+Mujahid Almania,22,Professional League,2017/2018,Forward,Al Hilal,150,90,60,Saudi Arabia,3,1,0,1,1,0,0,0,0,0,0,1,0,1,2,1,1,1,0,0.6,0,0.6,1,0,150,1.2,75,50,150,0,0.6,-1,-1,-1,12
+Nasser Al Dawsari,19,Professional League,2017/2018,Midfielder,Al Hilal,90,46,44,Saudi Arabia,3,1,0,0,0,0,1,0,1,0,0,0,0,0,3,1,2,0,0,1,1,0,0,0,0,3,30,30,0,90,0,-1,-1,-1,19
+Ahmad Al Hbeab,25,Professional League,2017/2018,Defender,Al Ittifaq,261,90,171,Saudi Arabia,3,1,2,1,0,1,0,0,0,0,0,0,0,0,5,2,3,0,0,0.34,0,0.34,0,0.53,261,1.72,52,87,0,0,0,-1,-1,-1,9
+Ibrahim Mahnashi,18,Professional League,2017/2018,Midfielder,Al Ittifaq,259,90,169,Saudi Arabia,4,1,2,0,0,0,0,0,0,0,0,0,0,0,4,2,2,2,0,0,0,0,0,0,0,1.39,65,65,130,0,0.69,-1,-1,-1,11
+Saad Alselouli,20,Professional League,2017/2018,Midfielder,Al Ittifaq,67,0,67,Saudi Arabia,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1.34,67,34,67,0,1.34,-1,-1,-1,14
+Ahmed Zain,27,Professional League,2017/2018,Midfielder,Al Feiha,128,0,128,Saudi Arabia,3,0,1,0,0,0,1,0,1,0,0,0,0,0,4,0,4,0,0,0.7,0.7,0,0,0,0,2.81,32,43,0,128,0,-1,-1,-1,11
+Ahmed El Sheikh,26,Professional League,2017/2018,Midfielder,Al Ittifaq,138,0,138,Egypt,3,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.65,0.65,0,0,0,0,0.65,138,46,0,138,0,-1,-1,-1,15
+Liban Abdi,30,Professional League,2017/2018,Forward,Al Ittifaq,279,90,189,Norway,5,1,2,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0.32,279,56,279,0,0.32,260,260,-1,18
+Nacereddine Khoualed,32,Professional League,2017/2018,Defender,Ohod,270,180,90,Algeria,3,2,1,0,0,0,0,0,0,0,0,1,0,1,4,4,0,1,0,0,0,0,0,0,0,1.33,68,90,270,0,0.33,-1,-1,-1,18
+Mohamed El Hadi Boulaouidet,28,Professional League,2017/2018,Forward,Ohod,127,37,90,Algeria,3,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0.71,127,42,127,0,0.71,-1,-1,-1,17
+Emad Mohamed Abd El Naby Ibrahim,35,Professional League,2017/2018,Forward,Al Taawon,166,140,26,Egypt,3,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,-1,-1,-1,22
+Guilherme Schettine Guimarães,23,Professional League,2017/2018,Forward,Al Batin,246,90,156,Brazil,3,1,2,2,0,2,0,0,0,0,0,0,0,0,9,1,8,0,0,0.73,0,0.73,0,1.15,123,3.29,27,82,0,0,0,-1,-1,-1,5
+Ali Abdullah Hazzazi,24,Professional League,2017/2018,Defender,Al Ittifaq,191,90,101,Saudi Arabia,3,1,1,1,0,1,0,0,0,0,0,1,1,0,2,0,2,1,0,0.47,0,0.47,0,0.89,191,0.94,96,64,191,0,0.47,-1,-1,-1,10
+Dionatan Machado de Oliveira,25,Professional League,2017/2018,Midfielder,Al Batin,143,72,71,Brazil,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1.26,72,72,0,0,0,-1,-1,-1,10
+Ousmane Diabaté,24,Professional League,2017/2018,Midfielder,Al Batin,180,90,90,Mali,2,1,1,0,0,0,1,1,0,0,0,0,0,0,5,1,4,1,0,0.5,0.5,0,0,0,0,2.5,36,90,180,180,0.5,-1,-1,-1,9
+Raïs M'Bolhi Ouhab,32,Professional League,2017/2018,Goalkeeper,Al Ittifaq,270,90,180,Algeria,3,1,2,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0.33,270,90,0,0,0,-1,-1,-1,16
+Jonathan David Gómez,28,Professional League,2017/2018,Midfielder,Al Feiha,106,16,90,Argentina,2,0,1,0,0,0,1,0,1,0,0,0,0,0,4,2,2,0,0,0.85,0.85,0,0,0,0,3.4,27,53,0,106,0,-1,-1,-1,25
+Fahad Ayidh Al Rashidi,21,Professional League,2017/2018,Midfielder,Al Hilal,74,74,0,Saudi Arabia,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,1.22,1.22,0,0,0,0,1.22,74,74,74,74,1.22,-1,-1,-1,17
+Issam Erraki,37,Professional League,2017/2018,Midfielder,Al Raed,180,90,90,Morocco,2,1,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,0,2.5,36,90,0,0,0,-1,-1,-1,11
+Mohamed Atwa,28,Professional League,2017/2018,Defender,Al Raed,90,90,0,Egypt,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,3,30,90,0,0,0,-1,-1,-1,25
+Mouaid Salem Ali,22,Professional League,2017/2018,Midfielder,Al Shabab,113,0,113,Libya,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1.59,57,57,0,0,0,-1,-1,-1,12
+Adrian Popa,30,Professional League,2017/2018,Midfielder,Al Taawon,115,25,90,Romania,2,0,1,0,0,0,2,1,1,0,0,1,1,0,2,0,2,0,0,1.57,1.57,0,0,0,0,1.57,58,58,0,58,0,-1,-1,-1,23
+Abdulfattah Mohamed Adam,48,Professional League,2017/2018,Forward,Al Taawon,64,0,64,Saudi Arabia,1,0,1,2,0,2,1,0,1,0,0,0,0,0,2,0,2,0,0,4.22,1.41,2.81,0,2.81,32,2.81,32,64,0,64,0,-1,-1,-1,5
+Saad Suhail Juma Al Mukhaini,31,Professional League,2017/2018,Defender,Al Nassr,180,90,90,Oman,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0.5,180,90,0,0,0,-1,-1,-1,14
+Paulo Sérgio Luiz de Souza,29,Professional League,2017/2018,Forward,Al Quadisiya,108,108,0,Brazil,2,1,0,1,1,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0.83,0,0.83,0.83,0,108,3.33,27,54,0,0,0,-1,-1,-1,7
+Mamoutou N'Diaye,28,Professional League,2017/2018,Midfielder,Ohod,180,180,0,Mali,2,2,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,16
+Mustafa Mahdi Al Bassas,25,Professional League,2017/2018,Midfielder,Ohod,84,84,0,Saudi Arabia,2,1,0,0,0,0,1,1,0,0,0,0,0,0,3,3,0,1,0,1.07,1.07,0,0,0,0,3.21,28,42,84,84,1.07,-1,-1,-1,15
+Mohsin Jouhar Bilal Al Khaldi,30,Professional League,2017/2018,Midfielder,Ohod,89,89,0,Oman,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,3,0,0,0,1.01,0,1.01,1.01,0,89,3.03,30,45,0,0,0,-1,-1,-1,6
+Jorge de Moura Xavier,27,Professional League,2017/2018,Forward,Al Quadisiya,173,173,0,Brazil,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,1.04,87,87,0,0,0,-1,-1,-1,9
+Haroune Camara,20,Professional League,2017/2018,Forward,Al Quadisiya,139,139,0,Saudi Arabia,2,2,0,1,1,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0.65,0,0.65,0.65,0,139,1.29,70,70,0,0,0,-1,-1,-1,5
+Hussein Al Sayed,27,Professional League,2017/2018,Defender,Al Ittifaq,180,90,90,Egypt,2,1,1,0,0,0,1,0,1,0,0,1,1,0,1,0,1,0,0,0.5,0.5,0,0,0,0,0.5,180,90,0,180,0,-1,-1,-1,17
+Fakhreddine Ben Youssef,27,Professional League,2017/2018,Forward,Al Ittifaq,180,90,90,Tunisia,2,1,1,0,0,0,1,0,1,0,0,1,1,0,1,0,1,2,0,0.5,0.5,0,0,0,0,0.5,180,90,90,180,1,-1,-1,-1,31
+Saleh Gomaa,25,Professional League,2017/2018,Midfielder,Al Faisaly,67,0,67,Egypt,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,-1,-1,-1,22
+Ibrahim Chenihi,28,Professional League,2017/2018,Midfielder,Al Fateh,90,90,0,Algeria,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,2,0,0,0,1,0,1,1,0,90,2,45,90,0,0,0,-1,-1,-1,8
+Aymen Mathlouthi,34,Professional League,2017/2018,Goalkeeper,Al Batin,90,0,90,Tunisia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,4,23,90,0,0,0,-1,-1,-1,26
+Hichem Essifi,30,Professional League,2017/2018,Forward,Ohod,75,75,0,Tunisia,1,1,0,1,1,0,0,0,0,1,0,0,0,0,3,3,0,0,0,1.2,0,1.2,1.2,0,75,3.6,25,75,0,0,0,-1,-1,-1,5
+Abdelmoumene Djabou,31,Professional League,2017/2018,Midfielder,Al Nassr,90,90,0,Algeria,1,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,90,0,90,0,-1,-1,-1,13
+Ferjani Sassi,26,Professional League,2017/2018,Midfielder,Al Nassr,73,73,0,Tunisia,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,-1,-1,-1,12
+Junior Kabananga Kalonji,29,Professional League,2017/2018,Forward,Al Nassr,87,87,0,Congo DR,1,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1.03,0,1.03,1.03,0,87,0,0,87,0,0,0,-1,-1,-1,7
+Amr Barakat Elbolasy,27,Professional League,2017/2018,Midfielder,Al Shabab,90,0,90,Egypt,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,11
+Sebastián Andrés Ubilla Cambón,28,Professional League,2017/2018,Forward,Al Shabab,82,0,82,Chile,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,0,0,0,-1,-1,-1,26
+Mark Milligan,33,Professional League,2017/2018,Midfielder,Al Ahli,90,0,90,Australia,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,24
+Ezequiel Cerutti,26,Professional League,2017/2018,Forward,Al Hilal,90,0,90,Argentina,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,18
+Achraf Bencharki,24,Professional League,2017/2018,Forward,Al Hilal,75,0,75,Morocco,1,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1.2,1.2,0,0,0,0,0,0,75,0,75,0,-1,-1,-1,30
